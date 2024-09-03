@@ -8,7 +8,6 @@
 #include <locale.h>
 #include <time.h>
 #include <string.h>
-#include <windows.h>
 #include <unistd.h>
 
 #define XR_MACHINE_QUANTITY 5
