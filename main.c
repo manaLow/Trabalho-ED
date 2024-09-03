@@ -147,20 +147,20 @@ int main(void)
             if (XRMachineManager[i] != NULL && XRMachineManager_Timer[i] == unid_t)
             {
                 next_patient = (Patient *)XRMachineManager[i]; // Recebe o paciente que estava na m�quina de raio-x
-                // printf("\n\nExame terminado: %s.\n\n", next_patient->name);
+                
 
                 // Criar exame
                 condition_IA *condition = get_condition(); // Gerar condition do IA
 
-                // printf("Condition: %s, Severidade: %d\n\n", condition->name_condition, condition->severity); //TESTE (N�O EST� PRINTANDO)
+                
                 new_exam = create_exam(id_e++, id_p, (i + 1), condition, unid_t); // Criar exame com a condition fornecida pelo IA
                 if(unid_t>7200){
                     exam_relat+=1;
                 }
-                // printf("ID: %d, P.ID: %d, RXID: %d, Severidade: %d, Timestamp: %d \n\n", id_e, id_p, (i + 1), condition->severity, unid_t);
+                
                 enqueue_qExam(fila_exames, new_exam); // Inserir na fila de exames de acordo com a prioridade
 
-                // printf("\n\nQuantidade de exames na fila: %d\n\n", fila_exames->count);
+               
                 last_exam_id = id_e;
 
                 destroy_patient(next_patient); // Liberar a memória utilizada pelo paciente
@@ -189,7 +189,6 @@ int main(void)
         
             count_time_queue += unid_t - get_exam_time(doctor); //SOMAR TEMPO DE ESPERA NA FILA DE PRIORIDADE)
             
-            // printf("Now condition: %s\n", get_condition_name_by_id(doctor->condition->id -1));
             count_exam_condition[doctor->condition->id-1] += 1;
             count_time_condition[doctor->condition->id-1] += unid_t - doctor->timestamp;
             destroy_report(new_report);
@@ -199,7 +198,7 @@ int main(void)
         }
 
         unid_t++;
-        //printf("time: %d\n", unid_t);
+        fflush(stdout);
         if (unid_t % 7200 == 0)
         {
             relatorio_print(fila_pacientes, p_total, fila_exames, last_exam_id, last_report_id, count_time_queue, count_time_condition, count_exam_condition, exam_relat);

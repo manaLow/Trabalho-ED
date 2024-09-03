@@ -195,64 +195,64 @@ condition_IA *get_condition()
   char *name;
 
   // Gera um número de 0 até 19
-  int random_number = rand() % 20;
-
+  int random_number = (rand() % 20);
+  
   // Atribui os valores com base no número aleatório
-  if (random_number < 6)
+  if (random_number >= 0 && random_number < 6)
   { // 30% de chance (0-5)
     id = 1;
     name = "Saúde Normal";
     severity = 1;
   }
-  else if (random_number < 10)
+  else if (random_number >= 6 && random_number < 10)
   { // 20% de chance (6-9)
     id = 2;
     name = "Bronquite";
     severity = 2;
   }
-  else if (random_number < 12)
+  else if (random_number >= 10 && random_number < 12)
   { // 10% de chance (10-11)
     id = 3;
     name = "Pneumonia";
     severity = 3;
   }
-  else if (random_number < 14)
+  else if (random_number >= 12 && random_number < 14)
   { // 10% de chance (12-13)
     id = 4;
     name = "COVID";
     severity = 4;
   }
-  else if (random_number < 15)
+  else if (random_number == 14)
   { // 5% de chance (14)
     id = 5;
     name = "Embolia Pulmonar";
     severity = 4;
   }
-  else if (random_number < 16)
+  else if (random_number == 15)
   { // 5% de chance (15)
     id = 6;
     name = "Derrame Pleural";
     severity = 4;
   }
-  else if (random_number < 17)
+  else if (random_number == 16)
   { // 5% de chance (16)
     id = 7;
     name = "Fibrose Pulmonar";
     severity = 5;
   }
-  else if (random_number < 18)
+  else if (random_number == 17)
   { // 5% de chance (17)
     id = 8;
     name = "Tuberculose";
     severity = 5;
   }
-  else
+  else if(random_number >= 18 && random_number < 20)
   { // 5% de chance (18-19)
     id = 9;
     name = "Câncer de Pulmão";
     severity = 6;
   }
-
+  
   // Cria e retorna a condição
   return create_condition(id, name, severity);
 }
