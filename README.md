@@ -54,8 +54,8 @@ sudo apt install gcc git
 Primeiro, clone o repositório do GitHub para seu ambiente local:
 
  ```
- git clone https://github.com/manaLow/ESTDAD.git
- cd ESTDAD
+ git clone https://github.com/manaLow/Trabalho-ED.git
+ cd Trabalho-ED
  ```
 
 #### 2. Compile o projeto
@@ -63,10 +63,6 @@ Depois de clonar o repositório, compile o projeto usando o GCC. Execute o segui
 
  ```
  make
- ```
-ou
-```
- gcc -o main main.c src/patient.c src/exam.c -I include
  ```
 
 #### 3. Executar o programa:
