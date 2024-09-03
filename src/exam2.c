@@ -172,25 +172,6 @@ Exam *dqueue_qExam(qExam *q)
   return p;
 }
 
-
-// Supondo que já existam as estruturas e funções para condição e alocação
-
-// condition_IA *create_condition(int id, const char *name, int severity)
-// {
-//   condition_IA *cond = (condition_IA *)malloc(sizeof(condition_IA));
-//   if (cond)
-//   {
-//     cond->id = id;
-//     cond->name_condition = (char *)malloc(strlen(name) + 1);
-//     if (cond->name_condition)
-//     {
-//       strcpy(cond->name_condition, name);
-//     }
-//     cond->severity = severity;
-//   }
-//   return cond;
-// }
-
 // Cria a Condition
 condition_IA *create_condition(int id, const char *name, int gravity)
 {

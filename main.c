@@ -69,20 +69,22 @@ int main(void)
 
     // Inicializar simula��o de tempo
     int unid_t = 0;
-    int total_t = 10000;
+    int total_t = 43200;
 
     // Inicializar vari�veis
     int id_p = 0;    // ID do paciente
     int id_e = 0;    // ID do exame
     int id_l = 0;    // ID do laudo
     int p_total = 0; // Quantidade total de pacientes
+    int exam_relat = 0;
 
     // Variável para relatório
     int last_exam_id;   // Guardar o id do último exame feito
     int last_report_id; // Guardar o id do útimo laudo feito
-    int count_exam_condition[9];
-    int count_time_condition[9];
+    int count_exam_condition[9] = {};
+    int count_time_condition[9] = {};
     int count_time_queue = 0;
+
 
     // Variáveis da struct
     Patient *next_patient;
@@ -153,7 +155,9 @@ int main(void)
 
                 // printf("Condition: %s, Severidade: %d\n\n", condition->name_condition, condition->severity); //TESTE (N�O EST� PRINTANDO)
                 new_exam = create_exam(id_e++, id_p, (i + 1), condition, unid_t); // Criar exame com a condition fornecida pelo IA
-                
+                if(unid_t>7200){
+                    exam_relat+=1;
+                }
                 // printf("ID: %d, P.ID: %d, RXID: %d, Severidade: %d, Timestamp: %d \n\n", id_e, id_p, (i + 1), condition->severity, unid_t);
                 enqueue_qExam(fila_exames, new_exam); // Inserir na fila de exames de acordo com a prioridade
 
@@ -172,9 +176,7 @@ int main(void)
         if (doctor == NULL && !fila_vazia_exam(fila_exames))
         {
             Exam *next_exam = (Exam *)dqueue_qExam(fila_exames);
-
             doctor = next_exam;
-            // printf("Id do exame: %d\n", doctor->id);
             Doctor_timer = unid_t + DOCTOR_DURATION;
         }
 
@@ -185,9 +187,10 @@ int main(void)
             Report *new_report = create_report(id_l++, doctor, unid_t);
             
             last_report_id = id_l;
-            // printf("Tempo do Novo Report: %d \n", new_report->timestamp);
+        
             count_time_queue += unid_t - get_exam_time(doctor); //SOMAR TEMPO DE ESPERA NA FILA DE PRIORIDADE)
             
+            // printf("Now condition: %s\n", get_condition_name_by_id(doctor->condition->id -1));
             count_exam_condition[doctor->condition->id-1] += 1;
             count_time_condition[doctor->condition->id-1] += unid_t - doctor->timestamp;
             destroy_report(new_report);
@@ -198,13 +201,12 @@ int main(void)
 
         unid_t++;
         //printf("time: %d\n", unid_t);
-        if (unid_t % 100 == 0)
+        if (unid_t % 7200 == 0)
         {
-            // relatorio_print(fila_pacientes, p_total, fila_exames, id_e, id_l, count_time_queue);
+            relatorio_print(fila_pacientes, p_total, fila_exames, last_exam_id, last_report_id, count_time_queue, count_time_condition, count_exam_condition, exam_relat);
             sleep(2);
         }
     }
-    relatorio_print(fila_pacientes, p_total, fila_exames, last_exam_id, last_report_id, count_time_queue);
-    printf("TAnto de gnt na fila: %d", fila_pacientes->count);
+    
     return 0;
 }
