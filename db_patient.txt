@@ -1,0 +1,6564 @@
+ID do Paciente: 0
+Nome: Ana do Pé Rachado
+Chegada: 0
+ID do Paciente: 1
+Nome: Ana da Silva Sauro
+Chegada: 5
+ID do Paciente: 2
+Nome: João da Silva
+Chegada: 6
+ID do Paciente: 3
+Nome: Maria Nogueira
+Chegada: 7
+ID do Paciente: 4
+Nome: Zé Ninguém Silva
+Chegada: 10
+ID do Paciente: 5
+Nome: Bia Santos
+Chegada: 23
+ID do Paciente: 6
+Nome: Tio Patinhas da Silva
+Chegada: 26
+ID do Paciente: 7
+Nome: Chico Oliveira
+Chegada: 31
+ID do Paciente: 8
+Nome: Lucas da Silva Sauro
+Chegada: 37
+ID do Paciente: 9
+Nome: Pedro do Pão
+Chegada: 41
+ID do Paciente: 10
+Nome: Zé do Pão
+Chegada: 42
+ID do Paciente: 11
+Nome: Zé Ninguém da Silva Sauro
+Chegada: 48
+ID do Paciente: 12
+Nome: Tio Patinhas Pereira
+Chegada: 51
+ID do Paciente: 13
+Nome: Tio Patinhas Pinto
+Chegada: 53
+ID do Paciente: 14
+Nome: Pedro Nogueira
+Chegada: 54
+ID do Paciente: 15
+Nome: Ciclano da Silva
+Chegada: 55
+ID do Paciente: 16
+Nome: Carla da Esquina
+Chegada: 59
+ID do Paciente: 17
+Nome: Zé Ninguém Santos
+Chegada: 61
+ID do Paciente: 18
+Nome: Maria Costa
+Chegada: 68
+ID do Paciente: 19
+Nome: Chico Silva
+Chegada: 72
+ID do Paciente: 20
+Nome: João Almeida
+Chegada: 87
+ID do Paciente: 21
+Nome: Chico da Silva
+Chegada: 90
+ID do Paciente: 22
+Nome: Lucas da Silva
+Chegada: 93
+ID do Paciente: 23
+Nome: Ana da Silva
+Chegada: 94
+ID do Paciente: 24
+Nome: Carla Costa
+Chegada: 95
+ID do Paciente: 25
+Nome: Ana Oliveira
+Chegada: 99
+ID do Paciente: 26
+Nome: Bia da Silva Sauro
+Chegada: 103
+ID do Paciente: 27
+Nome: João Pinto
+Chegada: 108
+ID do Paciente: 28
+Nome: João Pinto
+Chegada: 117
+ID do Paciente: 29
+Nome: Lucas da Esquina
+Chegada: 118
+ID do Paciente: 30
+Nome: Chico Almeida
+Chegada: 120
+ID do Paciente: 31
+Nome: Bia do Pé Rachado
+Chegada: 122
+ID do Paciente: 32
+Nome: João Nogueira
+Chegada: 124
+ID do Paciente: 33
+Nome: Maria da Silva Sauro
+Chegada: 127
+ID do Paciente: 34
+Nome: Ciclano Costa
+Chegada: 130
+ID do Paciente: 35
+Nome: Beltrano Almeida
+Chegada: 135
+ID do Paciente: 36
+Nome: Carla da Esquina
+Chegada: 154
+ID do Paciente: 37
+Nome: Chico da Silva
+Chegada: 156
+ID do Paciente: 38
+Nome: Beltrano do Pão
+Chegada: 158
+ID do Paciente: 39
+Nome: Tio Patinhas Pinto
+Chegada: 159
+ID do Paciente: 40
+Nome: Maria da Silva Sauro
+Chegada: 174
+ID do Paciente: 41
+Nome: Tina da Silva
+Chegada: 177
+ID do Paciente: 42
+Nome: Lucas Oliveira
+Chegada: 178
+ID do Paciente: 43
+Nome: Pedro da Esquina
+Chegada: 182
+ID do Paciente: 44
+Nome: Tina Pereira
+Chegada: 184
+ID do Paciente: 45
+Nome: João Pereira
+Chegada: 187
+ID do Paciente: 46
+Nome: Ciclano da Esquina
+Chegada: 199
+ID do Paciente: 47
+Nome: Ana Nogueira
+Chegada: 200
+ID do Paciente: 48
+Nome: Zé Silva
+Chegada: 203
+ID do Paciente: 49
+Nome: Ciclano Pereira
+Chegada: 205
+ID do Paciente: 50
+Nome: Fulano Pereira
+Chegada: 207
+ID do Paciente: 51
+Nome: João Souza
+Chegada: 209
+ID do Paciente: 52
+Nome: Carla da Silva Sauro
+Chegada: 213
+ID do Paciente: 53
+Nome: Lucas Souza
+Chegada: 224
+ID do Paciente: 54
+Nome: Beltrano Souza
+Chegada: 226
+ID do Paciente: 55
+Nome: Maria Almeida
+Chegada: 227
+ID do Paciente: 56
+Nome: Tio Patinhas Pinto
+Chegada: 229
+ID do Paciente: 57
+Nome: Lucas do Pé Rachado
+Chegada: 238
+ID do Paciente: 58
+Nome: Tio Patinhas Nogueira
+Chegada: 241
+ID do Paciente: 59
+Nome: João do Pé Rachado
+Chegada: 242
+ID do Paciente: 60
+Nome: Beltrano Pereira
+Chegada: 244
+ID do Paciente: 61
+Nome: Fulano Silva
+Chegada: 247
+ID do Paciente: 62
+Nome: João do Pé Rachado
+Chegada: 249
+ID do Paciente: 63
+Nome: Zé do Pé Rachado
+Chegada: 250
+ID do Paciente: 64
+Nome: Pedro Silva
+Chegada: 255
+ID do Paciente: 65
+Nome: Pedro do Pé Rachado
+Chegada: 257
+ID do Paciente: 66
+Nome: Beltrano do Pão
+Chegada: 260
+ID do Paciente: 67
+Nome: Bia Almeida
+Chegada: 265
+ID do Paciente: 68
+Nome: Bia do Pão
+Chegada: 271
+ID do Paciente: 69
+Nome: Maria Nogueira
+Chegada: 273
+ID do Paciente: 70
+Nome: Ana da Esquina
+Chegada: 277
+ID do Paciente: 71
+Nome: Chico da Silva
+Chegada: 280
+ID do Paciente: 72
+Nome: Tina Silva
+Chegada: 282
+ID do Paciente: 73
+Nome: Chico Costa
+Chegada: 283
+ID do Paciente: 74
+Nome: Lucas do Pé Rachado
+Chegada: 284
+ID do Paciente: 75
+Nome: Pedro Costa
+Chegada: 285
+ID do Paciente: 76
+Nome: Maria Souza
+Chegada: 288
+ID do Paciente: 77
+Nome: Ana Pereira
+Chegada: 296
+ID do Paciente: 78
+Nome: Zé Nogueira
+Chegada: 297
+ID do Paciente: 79
+Nome: João Santos
+Chegada: 302
+ID do Paciente: 80
+Nome: Beltrano do Pé Rachado
+Chegada: 304
+ID do Paciente: 81
+Nome: Fulano Pinto
+Chegada: 305
+ID do Paciente: 82
+Nome: Zé Ninguém Souza
+Chegada: 307
+ID do Paciente: 83
+Nome: Tio Patinhas do Pão
+Chegada: 315
+ID do Paciente: 84
+Nome: Ana do Pé Rachado
+Chegada: 316
+ID do Paciente: 85
+Nome: João do Pé Rachado
+Chegada: 318
+ID do Paciente: 86
+Nome: Bia Nogueira
+Chegada: 322
+ID do Paciente: 87
+Nome: Zé da Esquina
+Chegada: 326
+ID do Paciente: 88
+Nome: Carla da Silva Sauro
+Chegada: 328
+ID do Paciente: 89
+Nome: Tio Patinhas do Pão
+Chegada: 330
+ID do Paciente: 90
+Nome: Bia da Silva
+Chegada: 334
+ID do Paciente: 91
+Nome: Maria da Silva Sauro
+Chegada: 335
+ID do Paciente: 92
+Nome: Chico Almeida
+Chegada: 336
+ID do Paciente: 93
+Nome: Maria Santos
+Chegada: 344
+ID do Paciente: 94
+Nome: Beltrano Costa
+Chegada: 353
+ID do Paciente: 95
+Nome: Ciclano Santos
+Chegada: 354
+ID do Paciente: 96
+Nome: Zé do Pão
+Chegada: 355
+ID do Paciente: 97
+Nome: Bia da Silva
+Chegada: 356
+ID do Paciente: 98
+Nome: Tio Patinhas Costa
+Chegada: 359
+ID do Paciente: 99
+Nome: Lucas da Silva Sauro
+Chegada: 361
+ID do Paciente: 100
+Nome: Lucas da Esquina
+Chegada: 368
+ID do Paciente: 101
+Nome: Lucas Pinto
+Chegada: 371
+ID do Paciente: 102
+Nome: Pedro Costa
+Chegada: 375
+ID do Paciente: 103
+Nome: Tina Pinto
+Chegada: 386
+ID do Paciente: 104
+Nome: Beltrano Souza
+Chegada: 400
+ID do Paciente: 105
+Nome: Zé da Silva Sauro
+Chegada: 412
+ID do Paciente: 106
+Nome: Chico da Esquina
+Chegada: 428
+ID do Paciente: 107
+Nome: Carla Silva
+Chegada: 435
+ID do Paciente: 108
+Nome: Zé Oliveira
+Chegada: 437
+ID do Paciente: 109
+Nome: Bia Nogueira
+Chegada: 452
+ID do Paciente: 110
+Nome: Beltrano da Esquina
+Chegada: 454
+ID do Paciente: 111
+Nome: Chico da Esquina
+Chegada: 458
+ID do Paciente: 112
+Nome: Ciclano Nogueira
+Chegada: 462
+ID do Paciente: 113
+Nome: Fulano Souza
+Chegada: 464
+ID do Paciente: 114
+Nome: João Almeida
+Chegada: 470
+ID do Paciente: 115
+Nome: Pedro Nogueira
+Chegada: 472
+ID do Paciente: 116
+Nome: Chico Almeida
+Chegada: 477
+ID do Paciente: 117
+Nome: Lucas do Pão
+Chegada: 478
+ID do Paciente: 118
+Nome: João da Silva
+Chegada: 482
+ID do Paciente: 119
+Nome: Tio Patinhas Santos
+Chegada: 490
+ID do Paciente: 120
+Nome: Tio Patinhas Souza
+Chegada: 491
+ID do Paciente: 121
+Nome: Carla do Pé Rachado
+Chegada: 495
+ID do Paciente: 122
+Nome: João Souza
+Chegada: 496
+ID do Paciente: 123
+Nome: Zé Costa
+Chegada: 500
+ID do Paciente: 124
+Nome: Bia Silva
+Chegada: 501
+ID do Paciente: 125
+Nome: Carla Nogueira
+Chegada: 506
+ID do Paciente: 126
+Nome: Zé Pinto
+Chegada: 510
+ID do Paciente: 127
+Nome: Zé Ninguém Oliveira
+Chegada: 512
+ID do Paciente: 128
+Nome: Beltrano Costa
+Chegada: 513
+ID do Paciente: 129
+Nome: João da Silva Sauro
+Chegada: 517
+ID do Paciente: 130
+Nome: Bia da Silva
+Chegada: 519
+ID do Paciente: 131
+Nome: Tina Oliveira
+Chegada: 532
+ID do Paciente: 132
+Nome: Fulano do Pé Rachado
+Chegada: 533
+ID do Paciente: 133
+Nome: Pedro Nogueira
+Chegada: 536
+ID do Paciente: 134
+Nome: Zé Nogueira
+Chegada: 553
+ID do Paciente: 135
+Nome: Lucas da Esquina
+Chegada: 563
+ID do Paciente: 136
+Nome: Maria da Silva
+Chegada: 564
+ID do Paciente: 137
+Nome: Chico Pereira
+Chegada: 569
+ID do Paciente: 138
+Nome: Lucas Souza
+Chegada: 570
+ID do Paciente: 139
+Nome: Ciclano do Pão
+Chegada: 571
+ID do Paciente: 140
+Nome: Chico do Pão
+Chegada: 575
+ID do Paciente: 141
+Nome: Beltrano da Silva Sauro
+Chegada: 580
+ID do Paciente: 142
+Nome: Ciclano da Esquina
+Chegada: 582
+ID do Paciente: 143
+Nome: Zé do Pão
+Chegada: 583
+ID do Paciente: 144
+Nome: Pedro Souza
+Chegada: 584
+ID do Paciente: 145
+Nome: Ana Costa
+Chegada: 586
+ID do Paciente: 146
+Nome: Tio Patinhas do Pé Rachado
+Chegada: 595
+ID do Paciente: 147
+Nome: Ana Pinto
+Chegada: 598
+ID do Paciente: 148
+Nome: Fulano do Pé Rachado
+Chegada: 599
+ID do Paciente: 149
+Nome: Ana Oliveira
+Chegada: 602
+ID do Paciente: 150
+Nome: Ciclano Santos
+Chegada: 618
+ID do Paciente: 151
+Nome: Zé da Esquina
+Chegada: 621
+ID do Paciente: 152
+Nome: Ciclano Oliveira
+Chegada: 623
+ID do Paciente: 153
+Nome: Maria Santos
+Chegada: 625
+ID do Paciente: 154
+Nome: Lucas da Silva Sauro
+Chegada: 626
+ID do Paciente: 155
+Nome: Tio Patinhas da Silva Sauro
+Chegada: 629
+ID do Paciente: 156
+Nome: Ciclano Souza
+Chegada: 632
+ID do Paciente: 157
+Nome: Zé Ninguém Almeida
+Chegada: 636
+ID do Paciente: 158
+Nome: Maria Silva
+Chegada: 637
+ID do Paciente: 159
+Nome: Ana Oliveira
+Chegada: 640
+ID do Paciente: 160
+Nome: Ciclano Nogueira
+Chegada: 641
+ID do Paciente: 161
+Nome: Lucas Almeida
+Chegada: 642
+ID do Paciente: 162
+Nome: Beltrano da Silva
+Chegada: 667
+ID do Paciente: 163
+Nome: Zé Souza
+Chegada: 670
+ID do Paciente: 164
+Nome: Ana Oliveira
+Chegada: 674
+ID do Paciente: 165
+Nome: Carla da Esquina
+Chegada: 675
+ID do Paciente: 166
+Nome: Bia da Silva Sauro
+Chegada: 676
+ID do Paciente: 167
+Nome: Fulano Santos
+Chegada: 677
+ID do Paciente: 168
+Nome: Ana Pinto
+Chegada: 678
+ID do Paciente: 169
+Nome: Maria Almeida
+Chegada: 679
+ID do Paciente: 170
+Nome: Beltrano do Pão
+Chegada: 685
+ID do Paciente: 171
+Nome: João Souza
+Chegada: 690
+ID do Paciente: 172
+Nome: Maria Nogueira
+Chegada: 692
+ID do Paciente: 173
+Nome: Zé da Silva
+Chegada: 707
+ID do Paciente: 174
+Nome: Beltrano Pereira
+Chegada: 708
+ID do Paciente: 175
+Nome: Maria do Pé Rachado
+Chegada: 713
+ID do Paciente: 176
+Nome: Bia da Silva Sauro
+Chegada: 720
+ID do Paciente: 177
+Nome: Bia Souza
+Chegada: 733
+ID do Paciente: 178
+Nome: Chico Oliveira
+Chegada: 735
+ID do Paciente: 179
+Nome: Pedro do Pé Rachado
+Chegada: 737
+ID do Paciente: 180
+Nome: Carla do Pão
+Chegada: 743
+ID do Paciente: 181
+Nome: Carla Silva
+Chegada: 745
+ID do Paciente: 182
+Nome: Pedro Nogueira
+Chegada: 751
+ID do Paciente: 183
+Nome: Lucas Costa
+Chegada: 757
+ID do Paciente: 184
+Nome: Bia Nogueira
+Chegada: 759
+ID do Paciente: 185
+Nome: Lucas Pereira
+Chegada: 762
+ID do Paciente: 186
+Nome: Ana Silva
+Chegada: 763
+ID do Paciente: 187
+Nome: Ciclano Pereira
+Chegada: 772
+ID do Paciente: 188
+Nome: Fulano Pereira
+Chegada: 774
+ID do Paciente: 189
+Nome: Tina Santos
+Chegada: 777
+ID do Paciente: 190
+Nome: Tio Patinhas da Esquina
+Chegada: 779
+ID do Paciente: 191
+Nome: Carla Oliveira
+Chegada: 780
+ID do Paciente: 192
+Nome: Chico do Pé Rachado
+Chegada: 788
+ID do Paciente: 193
+Nome: Ciclano do Pé Rachado
+Chegada: 790
+ID do Paciente: 194
+Nome: Tina da Esquina
+Chegada: 792
+ID do Paciente: 195
+Nome: Zé da Silva Sauro
+Chegada: 794
+ID do Paciente: 196
+Nome: Maria Pereira
+Chegada: 797
+ID do Paciente: 197
+Nome: Zé do Pé Rachado
+Chegada: 802
+ID do Paciente: 198
+Nome: Carla do Pé Rachado
+Chegada: 807
+ID do Paciente: 199
+Nome: Zé Ninguém Pereira
+Chegada: 811
+ID do Paciente: 200
+Nome: Ciclano Souza
+Chegada: 842
+ID do Paciente: 201
+Nome: Maria Oliveira
+Chegada: 843
+ID do Paciente: 202
+Nome: Tina Nogueira
+Chegada: 856
+ID do Paciente: 203
+Nome: Pedro Oliveira
+Chegada: 868
+ID do Paciente: 204
+Nome: João do Pão
+Chegada: 874
+ID do Paciente: 205
+Nome: Ana Nogueira
+Chegada: 877
+ID do Paciente: 206
+Nome: Beltrano da Silva Sauro
+Chegada: 881
+ID do Paciente: 207
+Nome: Ciclano da Silva Sauro
+Chegada: 887
+ID do Paciente: 208
+Nome: Zé do Pão
+Chegada: 889
+ID do Paciente: 209
+Nome: Tina Silva
+Chegada: 894
+ID do Paciente: 210
+Nome: Zé Ninguém da Silva Sauro
+Chegada: 898
+ID do Paciente: 211
+Nome: Lucas do Pão
+Chegada: 900
+ID do Paciente: 212
+Nome: Carla da Esquina
+Chegada: 912
+ID do Paciente: 213
+Nome: Fulano da Silva
+Chegada: 917
+ID do Paciente: 214
+Nome: Carla da Silva
+Chegada: 924
+ID do Paciente: 215
+Nome: Carla do Pão
+Chegada: 935
+ID do Paciente: 216
+Nome: Carla da Silva
+Chegada: 936
+ID do Paciente: 217
+Nome: Zé Ninguém Santos
+Chegada: 944
+ID do Paciente: 218
+Nome: Zé Ninguém Pereira
+Chegada: 958
+ID do Paciente: 219
+Nome: Carla Almeida
+Chegada: 962
+ID do Paciente: 220
+Nome: Tina Silva
+Chegada: 965
+ID do Paciente: 221
+Nome: Ana do Pé Rachado
+Chegada: 969
+ID do Paciente: 222
+Nome: Tio Patinhas Oliveira
+Chegada: 992
+ID do Paciente: 223
+Nome: Tio Patinhas Almeida
+Chegada: 993
+ID do Paciente: 224
+Nome: Fulano da Silva
+Chegada: 1000
+ID do Paciente: 225
+Nome: Maria da Silva Sauro
+Chegada: 1001
+ID do Paciente: 226
+Nome: Tio Patinhas Nogueira
+Chegada: 1004
+ID do Paciente: 227
+Nome: Lucas Santos
+Chegada: 1005
+ID do Paciente: 228
+Nome: Zé Ninguém da Silva Sauro
+Chegada: 1011
+ID do Paciente: 229
+Nome: Maria Oliveira
+Chegada: 1015
+ID do Paciente: 230
+Nome: Tio Patinhas Santos
+Chegada: 1023
+ID do Paciente: 231
+Nome: Bia da Silva
+Chegada: 1025
+ID do Paciente: 232
+Nome: Fulano Almeida
+Chegada: 1053
+ID do Paciente: 233
+Nome: Zé Ninguém do Pão
+Chegada: 1055
+ID do Paciente: 234
+Nome: Maria Silva
+Chegada: 1058
+ID do Paciente: 235
+Nome: Zé Ninguém Costa
+Chegada: 1064
+ID do Paciente: 236
+Nome: Tio Patinhas Oliveira
+Chegada: 1076
+ID do Paciente: 237
+Nome: Beltrano Souza
+Chegada: 1083
+ID do Paciente: 238
+Nome: Beltrano Souza
+Chegada: 1084
+ID do Paciente: 239
+Nome: Zé da Esquina
+Chegada: 1096
+ID do Paciente: 240
+Nome: Bia da Silva Sauro
+Chegada: 1098
+ID do Paciente: 241
+Nome: João da Silva Sauro
+Chegada: 1099
+ID do Paciente: 242
+Nome: Tio Patinhas da Silva Sauro
+Chegada: 1104
+ID do Paciente: 243
+Nome: Beltrano Oliveira
+Chegada: 1106
+ID do Paciente: 244
+Nome: Lucas Santos
+Chegada: 1109
+ID do Paciente: 245
+Nome: Pedro da Silva Sauro
+Chegada: 1110
+ID do Paciente: 246
+Nome: Fulano da Silva Sauro
+Chegada: 1112
+ID do Paciente: 247
+Nome: Chico da Silva
+Chegada: 1121
+ID do Paciente: 248
+Nome: Fulano da Esquina
+Chegada: 1123
+ID do Paciente: 249
+Nome: Carla da Silva
+Chegada: 1132
+ID do Paciente: 250
+Nome: João da Silva Sauro
+Chegada: 1136
+ID do Paciente: 251
+Nome: Fulano Santos
+Chegada: 1137
+ID do Paciente: 252
+Nome: Ana do Pé Rachado
+Chegada: 1138
+ID do Paciente: 253
+Nome: Zé Souza
+Chegada: 1141
+ID do Paciente: 254
+Nome: Ana Oliveira
+Chegada: 1143
+ID do Paciente: 255
+Nome: Fulano Nogueira
+Chegada: 1146
+ID do Paciente: 256
+Nome: Ana Pinto
+Chegada: 1148
+ID do Paciente: 257
+Nome: Tio Patinhas Souza
+Chegada: 1151
+ID do Paciente: 258
+Nome: Ciclano Pinto
+Chegada: 1152
+ID do Paciente: 259
+Nome: Ciclano do Pé Rachado
+Chegada: 1153
+ID do Paciente: 260
+Nome: Fulano da Esquina
+Chegada: 1154
+ID do Paciente: 261
+Nome: Maria Santos
+Chegada: 1157
+ID do Paciente: 262
+Nome: Pedro da Esquina
+Chegada: 1161
+ID do Paciente: 263
+Nome: Tina da Silva
+Chegada: 1162
+ID do Paciente: 264
+Nome: Zé Ninguém Santos
+Chegada: 1166
+ID do Paciente: 265
+Nome: Pedro Pereira
+Chegada: 1169
+ID do Paciente: 266
+Nome: Maria da Esquina
+Chegada: 1172
+ID do Paciente: 267
+Nome: Maria da Silva Sauro
+Chegada: 1173
+ID do Paciente: 268
+Nome: Zé Ninguém da Esquina
+Chegada: 1177
+ID do Paciente: 269
+Nome: Fulano da Esquina
+Chegada: 1178
+ID do Paciente: 270
+Nome: Zé Ninguém Santos
+Chegada: 1185
+ID do Paciente: 271
+Nome: Lucas Pinto
+Chegada: 1186
+ID do Paciente: 272
+Nome: Ana Almeida
+Chegada: 1187
+ID do Paciente: 273
+Nome: João Pereira
+Chegada: 1204
+ID do Paciente: 274
+Nome: Carla do Pé Rachado
+Chegada: 1209
+ID do Paciente: 275
+Nome: Carla Santos
+Chegada: 1229
+ID do Paciente: 276
+Nome: Carla Oliveira
+Chegada: 1239
+ID do Paciente: 277
+Nome: Beltrano da Silva Sauro
+Chegada: 1255
+ID do Paciente: 278
+Nome: Ciclano Santos
+Chegada: 1256
+ID do Paciente: 279
+Nome: Lucas da Silva Sauro
+Chegada: 1263
+ID do Paciente: 280
+Nome: Fulano Pereira
+Chegada: 1283
+ID do Paciente: 281
+Nome: Ana Souza
+Chegada: 1288
+ID do Paciente: 282
+Nome: João do Pé Rachado
+Chegada: 1292
+ID do Paciente: 283
+Nome: Maria Santos
+Chegada: 1295
+ID do Paciente: 284
+Nome: Zé Santos
+Chegada: 1298
+ID do Paciente: 285
+Nome: Chico Nogueira
+Chegada: 1299
+ID do Paciente: 286
+Nome: Bia da Silva Sauro
+Chegada: 1310
+ID do Paciente: 287
+Nome: Zé da Silva
+Chegada: 1315
+ID do Paciente: 288
+Nome: Pedro Pinto
+Chegada: 1318
+ID do Paciente: 289
+Nome: Bia do Pão
+Chegada: 1319
+ID do Paciente: 290
+Nome: João Silva
+Chegada: 1320
+ID do Paciente: 291
+Nome: Tina da Silva
+Chegada: 1323
+ID do Paciente: 292
+Nome: Pedro Almeida
+Chegada: 1331
+ID do Paciente: 293
+Nome: Ana Santos
+Chegada: 1332
+ID do Paciente: 294
+Nome: Lucas da Silva
+Chegada: 1344
+ID do Paciente: 295
+Nome: Beltrano Almeida
+Chegada: 1346
+ID do Paciente: 296
+Nome: Fulano do Pão
+Chegada: 1348
+ID do Paciente: 297
+Nome: Tio Patinhas Santos
+Chegada: 1353
+ID do Paciente: 298
+Nome: Tio Patinhas Oliveira
+Chegada: 1355
+ID do Paciente: 299
+Nome: Zé Ninguém Almeida
+Chegada: 1357
+ID do Paciente: 300
+Nome: Bia Almeida
+Chegada: 1358
+ID do Paciente: 301
+Nome: Lucas do Pão
+Chegada: 1364
+ID do Paciente: 302
+Nome: Beltrano do Pé Rachado
+Chegada: 1372
+ID do Paciente: 303
+Nome: Tio Patinhas Pereira
+Chegada: 1378
+ID do Paciente: 304
+Nome: Maria Nogueira
+Chegada: 1379
+ID do Paciente: 305
+Nome: Carla Almeida
+Chegada: 1382
+ID do Paciente: 306
+Nome: Pedro da Silva
+Chegada: 1383
+ID do Paciente: 307
+Nome: Ana da Silva
+Chegada: 1388
+ID do Paciente: 308
+Nome: Maria Santos
+Chegada: 1392
+ID do Paciente: 309
+Nome: Bia Nogueira
+Chegada: 1394
+ID do Paciente: 310
+Nome: Pedro Pereira
+Chegada: 1403
+ID do Paciente: 311
+Nome: Fulano Souza
+Chegada: 1404
+ID do Paciente: 312
+Nome: João Silva
+Chegada: 1409
+ID do Paciente: 313
+Nome: Ciclano da Silva
+Chegada: 1417
+ID do Paciente: 314
+Nome: Tio Patinhas Pinto
+Chegada: 1422
+ID do Paciente: 315
+Nome: Fulano Souza
+Chegada: 1423
+ID do Paciente: 316
+Nome: Ciclano Souza
+Chegada: 1424
+ID do Paciente: 317
+Nome: Pedro da Silva Sauro
+Chegada: 1437
+ID do Paciente: 318
+Nome: Chico da Silva
+Chegada: 1442
+ID do Paciente: 319
+Nome: Lucas Oliveira
+Chegada: 1444
+ID do Paciente: 320
+Nome: Tina Nogueira
+Chegada: 1445
+ID do Paciente: 321
+Nome: Lucas do Pé Rachado
+Chegada: 1449
+ID do Paciente: 322
+Nome: Beltrano Silva
+Chegada: 1457
+ID do Paciente: 323
+Nome: Carla Souza
+Chegada: 1460
+ID do Paciente: 324
+Nome: Ciclano da Esquina
+Chegada: 1466
+ID do Paciente: 325
+Nome: Pedro da Esquina
+Chegada: 1468
+ID do Paciente: 326
+Nome: Beltrano do Pão
+Chegada: 1470
+ID do Paciente: 327
+Nome: Ciclano Pinto
+Chegada: 1479
+ID do Paciente: 328
+Nome: Ana Costa
+Chegada: 1498
+ID do Paciente: 329
+Nome: João Oliveira
+Chegada: 1506
+ID do Paciente: 330
+Nome: Tio Patinhas Souza
+Chegada: 1508
+ID do Paciente: 331
+Nome: Carla do Pão
+Chegada: 1512
+ID do Paciente: 332
+Nome: Zé Ninguém Pinto
+Chegada: 1519
+ID do Paciente: 333
+Nome: Beltrano do Pão
+Chegada: 1538
+ID do Paciente: 334
+Nome: Fulano do Pão
+Chegada: 1540
+ID do Paciente: 335
+Nome: Pedro Costa
+Chegada: 1543
+ID do Paciente: 336
+Nome: João Souza
+Chegada: 1544
+ID do Paciente: 337
+Nome: Pedro Costa
+Chegada: 1552
+ID do Paciente: 338
+Nome: Beltrano do Pão
+Chegada: 1554
+ID do Paciente: 339
+Nome: Tina Pinto
+Chegada: 1557
+ID do Paciente: 340
+Nome: Fulano Silva
+Chegada: 1564
+ID do Paciente: 341
+Nome: Ana Pinto
+Chegada: 1570
+ID do Paciente: 342
+Nome: Tio Patinhas Silva
+Chegada: 1571
+ID do Paciente: 343
+Nome: Fulano do Pão
+Chegada: 1572
+ID do Paciente: 344
+Nome: Ciclano da Silva Sauro
+Chegada: 1574
+ID do Paciente: 345
+Nome: João do Pão
+Chegada: 1575
+ID do Paciente: 346
+Nome: Lucas Souza
+Chegada: 1576
+ID do Paciente: 347
+Nome: Beltrano do Pão
+Chegada: 1578
+ID do Paciente: 348
+Nome: Beltrano Pinto
+Chegada: 1582
+ID do Paciente: 349
+Nome: João da Silva
+Chegada: 1583
+ID do Paciente: 350
+Nome: Zé Souza
+Chegada: 1590
+ID do Paciente: 351
+Nome: Fulano Almeida
+Chegada: 1600
+ID do Paciente: 352
+Nome: Bia do Pão
+Chegada: 1607
+ID do Paciente: 353
+Nome: Ciclano Silva
+Chegada: 1620
+ID do Paciente: 354
+Nome: Ana da Silva
+Chegada: 1622
+ID do Paciente: 355
+Nome: Ana do Pão
+Chegada: 1625
+ID do Paciente: 356
+Nome: Bia Oliveira
+Chegada: 1626
+ID do Paciente: 357
+Nome: Beltrano da Silva Sauro
+Chegada: 1628
+ID do Paciente: 358
+Nome: Maria da Silva Sauro
+Chegada: 1631
+ID do Paciente: 359
+Nome: Pedro Pereira
+Chegada: 1633
+ID do Paciente: 360
+Nome: Pedro Oliveira
+Chegada: 1635
+ID do Paciente: 361
+Nome: Chico Santos
+Chegada: 1637
+ID do Paciente: 362
+Nome: Pedro Silva
+Chegada: 1639
+ID do Paciente: 363
+Nome: Lucas Silva
+Chegada: 1646
+ID do Paciente: 364
+Nome: Fulano da Silva
+Chegada: 1654
+ID do Paciente: 365
+Nome: Zé Costa
+Chegada: 1660
+ID do Paciente: 366
+Nome: Bia Costa
+Chegada: 1662
+ID do Paciente: 367
+Nome: Ana Oliveira
+Chegada: 1666
+ID do Paciente: 368
+Nome: Maria Nogueira
+Chegada: 1677
+ID do Paciente: 369
+Nome: Pedro Pinto
+Chegada: 1678
+ID do Paciente: 370
+Nome: Bia Santos
+Chegada: 1681
+ID do Paciente: 371
+Nome: Pedro Costa
+Chegada: 1686
+ID do Paciente: 372
+Nome: Tio Patinhas da Esquina
+Chegada: 1687
+ID do Paciente: 373
+Nome: Carla Nogueira
+Chegada: 1688
+ID do Paciente: 374
+Nome: Zé Ninguém Almeida
+Chegada: 1689
+ID do Paciente: 375
+Nome: Chico Almeida
+Chegada: 1691
+ID do Paciente: 376
+Nome: Chico da Silva Sauro
+Chegada: 1694
+ID do Paciente: 377
+Nome: Ana Pinto
+Chegada: 1695
+ID do Paciente: 378
+Nome: João da Silva Sauro
+Chegada: 1700
+ID do Paciente: 379
+Nome: Pedro Souza
+Chegada: 1701
+ID do Paciente: 380
+Nome: Fulano Souza
+Chegada: 1702
+ID do Paciente: 381
+Nome: Chico do Pé Rachado
+Chegada: 1714
+ID do Paciente: 382
+Nome: Tina Almeida
+Chegada: 1726
+ID do Paciente: 383
+Nome: Zé Ninguém Santos
+Chegada: 1729
+ID do Paciente: 384
+Nome: Zé Ninguém Nogueira
+Chegada: 1730
+ID do Paciente: 385
+Nome: Zé do Pão
+Chegada: 1734
+ID do Paciente: 386
+Nome: Ciclano Almeida
+Chegada: 1748
+ID do Paciente: 387
+Nome: Tio Patinhas Pereira
+Chegada: 1751
+ID do Paciente: 388
+Nome: Zé da Silva Sauro
+Chegada: 1768
+ID do Paciente: 389
+Nome: Tio Patinhas da Esquina
+Chegada: 1769
+ID do Paciente: 390
+Nome: Pedro Souza
+Chegada: 1772
+ID do Paciente: 391
+Nome: Maria Almeida
+Chegada: 1773
+ID do Paciente: 392
+Nome: Tina do Pão
+Chegada: 1775
+ID do Paciente: 393
+Nome: Tio Patinhas Almeida
+Chegada: 1781
+ID do Paciente: 394
+Nome: Ciclano do Pão
+Chegada: 1790
+ID do Paciente: 395
+Nome: Ciclano da Silva Sauro
+Chegada: 1795
+ID do Paciente: 396
+Nome: Ana Costa
+Chegada: 1796
+ID do Paciente: 397
+Nome: Tio Patinhas da Silva
+Chegada: 1798
+ID do Paciente: 398
+Nome: Ana Oliveira
+Chegada: 1801
+ID do Paciente: 399
+Nome: João Almeida
+Chegada: 1803
+ID do Paciente: 400
+Nome: Zé da Esquina
+Chegada: 1806
+ID do Paciente: 401
+Nome: Pedro Souza
+Chegada: 1816
+ID do Paciente: 402
+Nome: Tina Pereira
+Chegada: 1818
+ID do Paciente: 403
+Nome: Ana Pereira
+Chegada: 1824
+ID do Paciente: 404
+Nome: Zé Ninguém Almeida
+Chegada: 1832
+ID do Paciente: 405
+Nome: Pedro da Silva
+Chegada: 1834
+ID do Paciente: 406
+Nome: Lucas da Esquina
+Chegada: 1838
+ID do Paciente: 407
+Nome: Tina Pinto
+Chegada: 1840
+ID do Paciente: 408
+Nome: Tina da Silva
+Chegada: 1842
+ID do Paciente: 409
+Nome: Lucas do Pão
+Chegada: 1852
+ID do Paciente: 410
+Nome: Bia da Esquina
+Chegada: 1856
+ID do Paciente: 411
+Nome: João do Pé Rachado
+Chegada: 1860
+ID do Paciente: 412
+Nome: Chico Pereira
+Chegada: 1862
+ID do Paciente: 413
+Nome: Tio Patinhas do Pé Rachado
+Chegada: 1867
+ID do Paciente: 414
+Nome: Beltrano da Esquina
+Chegada: 1905
+ID do Paciente: 415
+Nome: Tio Patinhas do Pé Rachado
+Chegada: 1906
+ID do Paciente: 416
+Nome: Maria do Pão
+Chegada: 1908
+ID do Paciente: 417
+Nome: Maria Pereira
+Chegada: 1910
+ID do Paciente: 418
+Nome: Zé Ninguém Costa
+Chegada: 1914
+ID do Paciente: 419
+Nome: Chico Silva
+Chegada: 1917
+ID do Paciente: 420
+Nome: Ana Pinto
+Chegada: 1919
+ID do Paciente: 421
+Nome: João Costa
+Chegada: 1921
+ID do Paciente: 422
+Nome: João Silva
+Chegada: 1927
+ID do Paciente: 423
+Nome: Pedro Pereira
+Chegada: 1930
+ID do Paciente: 424
+Nome: Lucas Souza
+Chegada: 1931
+ID do Paciente: 425
+Nome: Ciclano da Silva
+Chegada: 1947
+ID do Paciente: 426
+Nome: Zé Ninguém da Silva Sauro
+Chegada: 1951
+ID do Paciente: 427
+Nome: Pedro Costa
+Chegada: 1955
+ID do Paciente: 428
+Nome: Pedro Pereira
+Chegada: 1958
+ID do Paciente: 429
+Nome: Fulano Almeida
+Chegada: 1961
+ID do Paciente: 430
+Nome: Zé da Esquina
+Chegada: 1975
+ID do Paciente: 431
+Nome: Carla da Silva Sauro
+Chegada: 1976
+ID do Paciente: 432
+Nome: Ana do Pão
+Chegada: 1990
+ID do Paciente: 433
+Nome: Zé Ninguém da Esquina
+Chegada: 1992
+ID do Paciente: 434
+Nome: Pedro Santos
+Chegada: 1995
+ID do Paciente: 435
+Nome: Bia do Pão
+Chegada: 1998
+ID do Paciente: 436
+Nome: Zé Pereira
+Chegada: 2003
+ID do Paciente: 437
+Nome: Carla Souza
+Chegada: 2011
+ID do Paciente: 438
+Nome: Ciclano do Pé Rachado
+Chegada: 2013
+ID do Paciente: 439
+Nome: Tina Souza
+Chegada: 2021
+ID do Paciente: 440
+Nome: Zé Ninguém Oliveira
+Chegada: 2023
+ID do Paciente: 441
+Nome: Tina Pinto
+Chegada: 2024
+ID do Paciente: 442
+Nome: Lucas Santos
+Chegada: 2026
+ID do Paciente: 443
+Nome: Pedro do Pé Rachado
+Chegada: 2027
+ID do Paciente: 444
+Nome: Tina Santos
+Chegada: 2028
+ID do Paciente: 445
+Nome: Fulano Oliveira
+Chegada: 2037
+ID do Paciente: 446
+Nome: Fulano Souza
+Chegada: 2044
+ID do Paciente: 447
+Nome: Maria Nogueira
+Chegada: 2047
+ID do Paciente: 448
+Nome: Pedro do Pão
+Chegada: 2048
+ID do Paciente: 449
+Nome: Tio Patinhas da Silva Sauro
+Chegada: 2056
+ID do Paciente: 450
+Nome: Zé Oliveira
+Chegada: 2062
+ID do Paciente: 451
+Nome: Ciclano do Pão
+Chegada: 2063
+ID do Paciente: 452
+Nome: Ciclano Almeida
+Chegada: 2071
+ID do Paciente: 453
+Nome: Lucas do Pão
+Chegada: 2076
+ID do Paciente: 454
+Nome: Tio Patinhas da Silva Sauro
+Chegada: 2078
+ID do Paciente: 455
+Nome: Maria Pinto
+Chegada: 2082
+ID do Paciente: 456
+Nome: Ana do Pão
+Chegada: 2089
+ID do Paciente: 457
+Nome: Bia Pereira
+Chegada: 2090
+ID do Paciente: 458
+Nome: Zé Ninguém Pereira
+Chegada: 2092
+ID do Paciente: 459
+Nome: Ana do Pão
+Chegada: 2093
+ID do Paciente: 460
+Nome: João da Silva Sauro
+Chegada: 2099
+ID do Paciente: 461
+Nome: Tio Patinhas Pereira
+Chegada: 2103
+ID do Paciente: 462
+Nome: Ana do Pé Rachado
+Chegada: 2105
+ID do Paciente: 463
+Nome: Tina Almeida
+Chegada: 2107
+ID do Paciente: 464
+Nome: Bia Souza
+Chegada: 2108
+ID do Paciente: 465
+Nome: João da Silva Sauro
+Chegada: 2110
+ID do Paciente: 466
+Nome: Fulano Silva
+Chegada: 2114
+ID do Paciente: 467
+Nome: Lucas da Silva Sauro
+Chegada: 2115
+ID do Paciente: 468
+Nome: Bia da Esquina
+Chegada: 2129
+ID do Paciente: 469
+Nome: Pedro Pinto
+Chegada: 2130
+ID do Paciente: 470
+Nome: Bia Nogueira
+Chegada: 2139
+ID do Paciente: 471
+Nome: Zé do Pão
+Chegada: 2140
+ID do Paciente: 472
+Nome: Fulano Nogueira
+Chegada: 2143
+ID do Paciente: 473
+Nome: Zé Ninguém Oliveira
+Chegada: 2145
+ID do Paciente: 474
+Nome: Zé da Silva Sauro
+Chegada: 2147
+ID do Paciente: 475
+Nome: João da Silva
+Chegada: 2152
+ID do Paciente: 476
+Nome: Ciclano Pinto
+Chegada: 2154
+ID do Paciente: 477
+Nome: Tina Pinto
+Chegada: 2156
+ID do Paciente: 478
+Nome: Carla Silva
+Chegada: 2163
+ID do Paciente: 479
+Nome: Lucas do Pão
+Chegada: 2173
+ID do Paciente: 480
+Nome: Pedro do Pão
+Chegada: 2174
+ID do Paciente: 481
+Nome: Bia Souza
+Chegada: 2177
+ID do Paciente: 482
+Nome: Tio Patinhas da Silva Sauro
+Chegada: 2183
+ID do Paciente: 483
+Nome: Zé Ninguém Nogueira
+Chegada: 2184
+ID do Paciente: 484
+Nome: Tina Nogueira
+Chegada: 2190
+ID do Paciente: 485
+Nome: Tio Patinhas Nogueira
+Chegada: 2192
+ID do Paciente: 486
+Nome: Beltrano do Pé Rachado
+Chegada: 2194
+ID do Paciente: 487
+Nome: Zé Almeida
+Chegada: 2198
+ID do Paciente: 488
+Nome: Ciclano da Silva Sauro
+Chegada: 2199
+ID do Paciente: 489
+Nome: Carla Santos
+Chegada: 2201
+ID do Paciente: 490
+Nome: Carla da Esquina
+Chegada: 2202
+ID do Paciente: 491
+Nome: João Oliveira
+Chegada: 2204
+ID do Paciente: 492
+Nome: João Silva
+Chegada: 2210
+ID do Paciente: 493
+Nome: Bia Nogueira
+Chegada: 2212
+ID do Paciente: 494
+Nome: Zé Silva
+Chegada: 2214
+ID do Paciente: 495
+Nome: Lucas Santos
+Chegada: 2217
+ID do Paciente: 496
+Nome: Carla Pinto
+Chegada: 2219
+ID do Paciente: 497
+Nome: Tina do Pão
+Chegada: 2221
+ID do Paciente: 498
+Nome: Bia Silva
+Chegada: 2223
+ID do Paciente: 499
+Nome: Fulano Pinto
+Chegada: 2228
+ID do Paciente: 500
+Nome: Carla da Esquina
+Chegada: 2231
+ID do Paciente: 501
+Nome: Fulano Oliveira
+Chegada: 2236
+ID do Paciente: 502
+Nome: Ana Oliveira
+Chegada: 2243
+ID do Paciente: 503
+Nome: Zé da Silva Sauro
+Chegada: 2244
+ID do Paciente: 504
+Nome: Lucas da Silva Sauro
+Chegada: 2248
+ID do Paciente: 505
+Nome: Pedro da Silva
+Chegada: 2252
+ID do Paciente: 506
+Nome: Zé Ninguém Pereira
+Chegada: 2260
+ID do Paciente: 507
+Nome: Carla da Silva
+Chegada: 2265
+ID do Paciente: 508
+Nome: Pedro do Pão
+Chegada: 2267
+ID do Paciente: 509
+Nome: Zé Ninguém Pinto
+Chegada: 2280
+ID do Paciente: 510
+Nome: Zé Pinto
+Chegada: 2285
+ID do Paciente: 511
+Nome: João Oliveira
+Chegada: 2303
+ID do Paciente: 512
+Nome: Beltrano Costa
+Chegada: 2307
+ID do Paciente: 513
+Nome: Ana Pinto
+Chegada: 2313
+ID do Paciente: 514
+Nome: João Santos
+Chegada: 2325
+ID do Paciente: 515
+Nome: Chico Costa
+Chegada: 2326
+ID do Paciente: 516
+Nome: Chico Pinto
+Chegada: 2332
+ID do Paciente: 517
+Nome: Pedro Silva
+Chegada: 2337
+ID do Paciente: 518
+Nome: Tio Patinhas da Esquina
+Chegada: 2339
+ID do Paciente: 519
+Nome: Beltrano Almeida
+Chegada: 2341
+ID do Paciente: 520
+Nome: Chico Pinto
+Chegada: 2356
+ID do Paciente: 521
+Nome: Bia da Silva
+Chegada: 2360
+ID do Paciente: 522
+Nome: Ana Pereira
+Chegada: 2361
+ID do Paciente: 523
+Nome: Bia Oliveira
+Chegada: 2363
+ID do Paciente: 524
+Nome: João da Silva
+Chegada: 2372
+ID do Paciente: 525
+Nome: João Nogueira
+Chegada: 2373
+ID do Paciente: 526
+Nome: Zé do Pé Rachado
+Chegada: 2387
+ID do Paciente: 527
+Nome: Zé do Pé Rachado
+Chegada: 2396
+ID do Paciente: 528
+Nome: Tio Patinhas Nogueira
+Chegada: 2400
+ID do Paciente: 529
+Nome: Fulano da Silva Sauro
+Chegada: 2406
+ID do Paciente: 530
+Nome: Zé do Pão
+Chegada: 2412
+ID do Paciente: 531
+Nome: Beltrano Souza
+Chegada: 2419
+ID do Paciente: 532
+Nome: João da Esquina
+Chegada: 2423
+ID do Paciente: 533
+Nome: Ciclano Silva
+Chegada: 2424
+ID do Paciente: 534
+Nome: Chico do Pão
+Chegada: 2427
+ID do Paciente: 535
+Nome: Maria Costa
+Chegada: 2430
+ID do Paciente: 536
+Nome: Lucas Pereira
+Chegada: 2433
+ID do Paciente: 537
+Nome: Tina do Pão
+Chegada: 2445
+ID do Paciente: 538
+Nome: Beltrano da Silva Sauro
+Chegada: 2453
+ID do Paciente: 539
+Nome: Ciclano Souza
+Chegada: 2456
+ID do Paciente: 540
+Nome: Beltrano Souza
+Chegada: 2466
+ID do Paciente: 541
+Nome: Lucas Costa
+Chegada: 2467
+ID do Paciente: 542
+Nome: Lucas da Esquina
+Chegada: 2484
+ID do Paciente: 543
+Nome: Pedro Oliveira
+Chegada: 2490
+ID do Paciente: 544
+Nome: João Silva
+Chegada: 2492
+ID do Paciente: 545
+Nome: Fulano Costa
+Chegada: 2493
+ID do Paciente: 546
+Nome: Ana Pinto
+Chegada: 2507
+ID do Paciente: 547
+Nome: Zé Almeida
+Chegada: 2509
+ID do Paciente: 548
+Nome: Pedro da Silva Sauro
+Chegada: 2511
+ID do Paciente: 549
+Nome: Fulano Almeida
+Chegada: 2514
+ID do Paciente: 550
+Nome: Zé Ninguém do Pé Rachado
+Chegada: 2524
+ID do Paciente: 551
+Nome: Zé Silva
+Chegada: 2527
+ID do Paciente: 552
+Nome: Carla do Pão
+Chegada: 2534
+ID do Paciente: 553
+Nome: Pedro da Silva
+Chegada: 2537
+ID do Paciente: 554
+Nome: Zé da Silva Sauro
+Chegada: 2550
+ID do Paciente: 555
+Nome: Lucas Pereira
+Chegada: 2551
+ID do Paciente: 556
+Nome: Fulano Costa
+Chegada: 2553
+ID do Paciente: 557
+Nome: Lucas da Silva
+Chegada: 2568
+ID do Paciente: 558
+Nome: Ciclano Nogueira
+Chegada: 2571
+ID do Paciente: 559
+Nome: Zé da Silva Sauro
+Chegada: 2573
+ID do Paciente: 560
+Nome: Ciclano Costa
+Chegada: 2579
+ID do Paciente: 561
+Nome: Pedro Oliveira
+Chegada: 2588
+ID do Paciente: 562
+Nome: Beltrano da Esquina
+Chegada: 2593
+ID do Paciente: 563
+Nome: Tina da Silva Sauro
+Chegada: 2594
+ID do Paciente: 564
+Nome: Fulano do Pé Rachado
+Chegada: 2595
+ID do Paciente: 565
+Nome: João Oliveira
+Chegada: 2598
+ID do Paciente: 566
+Nome: João da Silva
+Chegada: 2600
+ID do Paciente: 567
+Nome: Carla Silva
+Chegada: 2624
+ID do Paciente: 568
+Nome: Lucas da Esquina
+Chegada: 2627
+ID do Paciente: 569
+Nome: Tio Patinhas da Silva
+Chegada: 2628
+ID do Paciente: 570
+Nome: Fulano da Esquina
+Chegada: 2633
+ID do Paciente: 571
+Nome: Ana Almeida
+Chegada: 2635
+ID do Paciente: 572
+Nome: Fulano Pereira
+Chegada: 2638
+ID do Paciente: 573
+Nome: Tina da Esquina
+Chegada: 2639
+ID do Paciente: 574
+Nome: Pedro Oliveira
+Chegada: 2643
+ID do Paciente: 575
+Nome: Lucas Santos
+Chegada: 2646
+ID do Paciente: 576
+Nome: Ciclano do Pé Rachado
+Chegada: 2656
+ID do Paciente: 577
+Nome: Zé Ninguém Souza
+Chegada: 2663
+ID do Paciente: 578
+Nome: Fulano Almeida
+Chegada: 2664
+ID do Paciente: 579
+Nome: Carla do Pé Rachado
+Chegada: 2666
+ID do Paciente: 580
+Nome: Ciclano Costa
+Chegada: 2671
+ID do Paciente: 581
+Nome: Beltrano Almeida
+Chegada: 2672
+ID do Paciente: 582
+Nome: Chico Santos
+Chegada: 2678
+ID do Paciente: 583
+Nome: Maria Pinto
+Chegada: 2682
+ID do Paciente: 584
+Nome: Fulano da Silva Sauro
+Chegada: 2685
+ID do Paciente: 585
+Nome: Carla da Esquina
+Chegada: 2686
+ID do Paciente: 586
+Nome: Carla Souza
+Chegada: 2691
+ID do Paciente: 587
+Nome: Beltrano da Silva
+Chegada: 2693
+ID do Paciente: 588
+Nome: Bia Oliveira
+Chegada: 2706
+ID do Paciente: 589
+Nome: Carla da Esquina
+Chegada: 2707
+ID do Paciente: 590
+Nome: Carla da Silva Sauro
+Chegada: 2720
+ID do Paciente: 591
+Nome: Zé Oliveira
+Chegada: 2722
+ID do Paciente: 592
+Nome: Tina do Pé Rachado
+Chegada: 2726
+ID do Paciente: 593
+Nome: Fulano Silva
+Chegada: 2727
+ID do Paciente: 594
+Nome: Tio Patinhas da Silva
+Chegada: 2728
+ID do Paciente: 595
+Nome: Maria Silva
+Chegada: 2733
+ID do Paciente: 596
+Nome: Pedro da Silva Sauro
+Chegada: 2734
+ID do Paciente: 597
+Nome: Tina Almeida
+Chegada: 2747
+ID do Paciente: 598
+Nome: Zé Ninguém Souza
+Chegada: 2754
+ID do Paciente: 599
+Nome: Carla Oliveira
+Chegada: 2755
+ID do Paciente: 600
+Nome: Fulano da Silva Sauro
+Chegada: 2757
+ID do Paciente: 601
+Nome: Pedro Pinto
+Chegada: 2762
+ID do Paciente: 602
+Nome: Lucas da Silva Sauro
+Chegada: 2763
+ID do Paciente: 603
+Nome: Lucas Pereira
+Chegada: 2769
+ID do Paciente: 604
+Nome: Zé Ninguém Santos
+Chegada: 2777
+ID do Paciente: 605
+Nome: Zé Pereira
+Chegada: 2779
+ID do Paciente: 606
+Nome: Lucas Silva
+Chegada: 2781
+ID do Paciente: 607
+Nome: Fulano Nogueira
+Chegada: 2784
+ID do Paciente: 608
+Nome: Maria Nogueira
+Chegada: 2792
+ID do Paciente: 609
+Nome: Tio Patinhas Oliveira
+Chegada: 2793
+ID do Paciente: 610
+Nome: Pedro Silva
+Chegada: 2795
+ID do Paciente: 611
+Nome: Zé do Pão
+Chegada: 2799
+ID do Paciente: 612
+Nome: Carla Pinto
+Chegada: 2806
+ID do Paciente: 613
+Nome: Chico Santos
+Chegada: 2813
+ID do Paciente: 614
+Nome: Carla da Silva
+Chegada: 2814
+ID do Paciente: 615
+Nome: Tina Silva
+Chegada: 2822
+ID do Paciente: 616
+Nome: Tina Costa
+Chegada: 2828
+ID do Paciente: 617
+Nome: Lucas Nogueira
+Chegada: 2838
+ID do Paciente: 618
+Nome: Ana do Pé Rachado
+Chegada: 2839
+ID do Paciente: 619
+Nome: Fulano Pereira
+Chegada: 2842
+ID do Paciente: 620
+Nome: Pedro Costa
+Chegada: 2843
+ID do Paciente: 621
+Nome: Chico Costa
+Chegada: 2845
+ID do Paciente: 622
+Nome: Maria do Pão
+Chegada: 2847
+ID do Paciente: 623
+Nome: Zé Ninguém da Silva Sauro
+Chegada: 2849
+ID do Paciente: 624
+Nome: Tina da Silva Sauro
+Chegada: 2852
+ID do Paciente: 625
+Nome: Bia Santos
+Chegada: 2853
+ID do Paciente: 626
+Nome: Zé Almeida
+Chegada: 2858
+ID do Paciente: 627
+Nome: Maria Santos
+Chegada: 2860
+ID do Paciente: 628
+Nome: Zé da Silva
+Chegada: 2863
+ID do Paciente: 629
+Nome: Bia Silva
+Chegada: 2864
+ID do Paciente: 630
+Nome: Carla Oliveira
+Chegada: 2868
+ID do Paciente: 631
+Nome: Ana Pereira
+Chegada: 2871
+ID do Paciente: 632
+Nome: Ciclano Souza
+Chegada: 2873
+ID do Paciente: 633
+Nome: Ciclano Nogueira
+Chegada: 2881
+ID do Paciente: 634
+Nome: Chico Nogueira
+Chegada: 2888
+ID do Paciente: 635
+Nome: Beltrano Pinto
+Chegada: 2890
+ID do Paciente: 636
+Nome: Maria Santos
+Chegada: 2892
+ID do Paciente: 637
+Nome: Chico da Silva
+Chegada: 2898
+ID do Paciente: 638
+Nome: Beltrano da Esquina
+Chegada: 2901
+ID do Paciente: 639
+Nome: Ana do Pão
+Chegada: 2913
+ID do Paciente: 640
+Nome: Zé da Silva Sauro
+Chegada: 2920
+ID do Paciente: 641
+Nome: Lucas Oliveira
+Chegada: 2923
+ID do Paciente: 642
+Nome: Tio Patinhas Souza
+Chegada: 2930
+ID do Paciente: 643
+Nome: Bia Nogueira
+Chegada: 2936
+ID do Paciente: 644
+Nome: Zé Ninguém Nogueira
+Chegada: 2938
+ID do Paciente: 645
+Nome: Lucas da Esquina
+Chegada: 2940
+ID do Paciente: 646
+Nome: Ciclano da Silva
+Chegada: 2941
+ID do Paciente: 647
+Nome: Carla da Esquina
+Chegada: 2944
+ID do Paciente: 648
+Nome: Fulano Costa
+Chegada: 2945
+ID do Paciente: 649
+Nome: Pedro Oliveira
+Chegada: 2948
+ID do Paciente: 650
+Nome: Lucas Costa
+Chegada: 2949
+ID do Paciente: 651
+Nome: Tio Patinhas Souza
+Chegada: 2960
+ID do Paciente: 652
+Nome: Pedro Nogueira
+Chegada: 2961
+ID do Paciente: 653
+Nome: Lucas Costa
+Chegada: 2962
+ID do Paciente: 654
+Nome: João da Esquina
+Chegada: 2964
+ID do Paciente: 655
+Nome: Zé Almeida
+Chegada: 2974
+ID do Paciente: 656
+Nome: Carla do Pé Rachado
+Chegada: 2982
+ID do Paciente: 657
+Nome: Bia da Silva
+Chegada: 2985
+ID do Paciente: 658
+Nome: Fulano Pereira
+Chegada: 2987
+ID do Paciente: 659
+Nome: Beltrano da Silva Sauro
+Chegada: 2991
+ID do Paciente: 660
+Nome: Carla Souza
+Chegada: 2994
+ID do Paciente: 661
+Nome: Carla do Pé Rachado
+Chegada: 2998
+ID do Paciente: 662
+Nome: Tio Patinhas Pinto
+Chegada: 3003
+ID do Paciente: 663
+Nome: Tina do Pão
+Chegada: 3017
+ID do Paciente: 664
+Nome: Chico Nogueira
+Chegada: 3029
+ID do Paciente: 665
+Nome: Ciclano do Pé Rachado
+Chegada: 3034
+ID do Paciente: 666
+Nome: Ana Nogueira
+Chegada: 3040
+ID do Paciente: 667
+Nome: Pedro do Pão
+Chegada: 3049
+ID do Paciente: 668
+Nome: Zé Ninguém Nogueira
+Chegada: 3055
+ID do Paciente: 669
+Nome: Tina Pinto
+Chegada: 3065
+ID do Paciente: 670
+Nome: Pedro do Pé Rachado
+Chegada: 3067
+ID do Paciente: 671
+Nome: Chico Oliveira
+Chegada: 3071
+ID do Paciente: 672
+Nome: João Almeida
+Chegada: 3075
+ID do Paciente: 673
+Nome: Fulano da Silva Sauro
+Chegada: 3078
+ID do Paciente: 674
+Nome: Beltrano da Esquina
+Chegada: 3083
+ID do Paciente: 675
+Nome: Bia Nogueira
+Chegada: 3084
+ID do Paciente: 676
+Nome: Zé Ninguém Oliveira
+Chegada: 3089
+ID do Paciente: 677
+Nome: Zé Nogueira
+Chegada: 3092
+ID do Paciente: 678
+Nome: Maria da Silva Sauro
+Chegada: 3093
+ID do Paciente: 679
+Nome: Bia Pereira
+Chegada: 3094
+ID do Paciente: 680
+Nome: Beltrano Nogueira
+Chegada: 3096
+ID do Paciente: 681
+Nome: Ciclano Santos
+Chegada: 3100
+ID do Paciente: 682
+Nome: Tina Santos
+Chegada: 3107
+ID do Paciente: 683
+Nome: Zé Ninguém Oliveira
+Chegada: 3113
+ID do Paciente: 684
+Nome: Tio Patinhas Nogueira
+Chegada: 3119
+ID do Paciente: 685
+Nome: Maria da Esquina
+Chegada: 3124
+ID do Paciente: 686
+Nome: Fulano Pereira
+Chegada: 3140
+ID do Paciente: 687
+Nome: Zé Ninguém Almeida
+Chegada: 3145
+ID do Paciente: 688
+Nome: Maria Pereira
+Chegada: 3148
+ID do Paciente: 689
+Nome: Maria Nogueira
+Chegada: 3151
+ID do Paciente: 690
+Nome: Bia da Silva Sauro
+Chegada: 3153
+ID do Paciente: 691
+Nome: Ciclano Almeida
+Chegada: 3155
+ID do Paciente: 692
+Nome: Chico Silva
+Chegada: 3156
+ID do Paciente: 693
+Nome: Beltrano da Silva
+Chegada: 3170
+ID do Paciente: 694
+Nome: Carla Oliveira
+Chegada: 3173
+ID do Paciente: 695
+Nome: Fulano Nogueira
+Chegada: 3178
+ID do Paciente: 696
+Nome: Maria Silva
+Chegada: 3182
+ID do Paciente: 697
+Nome: Lucas Santos
+Chegada: 3192
+ID do Paciente: 698
+Nome: Bia da Silva Sauro
+Chegada: 3193
+ID do Paciente: 699
+Nome: Zé Ninguém Souza
+Chegada: 3197
+ID do Paciente: 700
+Nome: Tio Patinhas do Pé Rachado
+Chegada: 3198
+ID do Paciente: 701
+Nome: Lucas do Pé Rachado
+Chegada: 3201
+ID do Paciente: 702
+Nome: Fulano Oliveira
+Chegada: 3219
+ID do Paciente: 703
+Nome: Ana Almeida
+Chegada: 3226
+ID do Paciente: 704
+Nome: Bia Santos
+Chegada: 3232
+ID do Paciente: 705
+Nome: Pedro Santos
+Chegada: 3236
+ID do Paciente: 706
+Nome: Carla da Silva Sauro
+Chegada: 3240
+ID do Paciente: 707
+Nome: Carla Almeida
+Chegada: 3246
+ID do Paciente: 708
+Nome: Bia Silva
+Chegada: 3248
+ID do Paciente: 709
+Nome: João Costa
+Chegada: 3254
+ID do Paciente: 710
+Nome: Ciclano da Esquina
+Chegada: 3258
+ID do Paciente: 711
+Nome: Tio Patinhas Santos
+Chegada: 3263
+ID do Paciente: 712
+Nome: Zé Ninguém Silva
+Chegada: 3270
+ID do Paciente: 713
+Nome: Zé Ninguém Santos
+Chegada: 3272
+ID do Paciente: 714
+Nome: Lucas Souza
+Chegada: 3273
+ID do Paciente: 715
+Nome: João Nogueira
+Chegada: 3275
+ID do Paciente: 716
+Nome: Maria Costa
+Chegada: 3282
+ID do Paciente: 717
+Nome: Ana Almeida
+Chegada: 3283
+ID do Paciente: 718
+Nome: João Oliveira
+Chegada: 3286
+ID do Paciente: 719
+Nome: Tio Patinhas Santos
+Chegada: 3294
+ID do Paciente: 720
+Nome: Chico Costa
+Chegada: 3296
+ID do Paciente: 721
+Nome: Chico Costa
+Chegada: 3300
+ID do Paciente: 722
+Nome: Ciclano da Esquina
+Chegada: 3308
+ID do Paciente: 723
+Nome: Ciclano Souza
+Chegada: 3309
+ID do Paciente: 724
+Nome: Bia Almeida
+Chegada: 3311
+ID do Paciente: 725
+Nome: Tina Souza
+Chegada: 3315
+ID do Paciente: 726
+Nome: Maria do Pé Rachado
+Chegada: 3322
+ID do Paciente: 727
+Nome: Lucas Costa
+Chegada: 3323
+ID do Paciente: 728
+Nome: Pedro da Silva
+Chegada: 3326
+ID do Paciente: 729
+Nome: Ciclano da Esquina
+Chegada: 3327
+ID do Paciente: 730
+Nome: Pedro Pinto
+Chegada: 3328
+ID do Paciente: 731
+Nome: Fulano Santos
+Chegada: 3330
+ID do Paciente: 732
+Nome: Maria Silva
+Chegada: 3335
+ID do Paciente: 733
+Nome: Ciclano Almeida
+Chegada: 3341
+ID do Paciente: 734
+Nome: Lucas Silva
+Chegada: 3342
+ID do Paciente: 735
+Nome: Lucas da Silva
+Chegada: 3346
+ID do Paciente: 736
+Nome: Fulano Souza
+Chegada: 3352
+ID do Paciente: 737
+Nome: Zé Nogueira
+Chegada: 3353
+ID do Paciente: 738
+Nome: Ana Souza
+Chegada: 3358
+ID do Paciente: 739
+Nome: Maria Pereira
+Chegada: 3360
+ID do Paciente: 740
+Nome: Ciclano Oliveira
+Chegada: 3361
+ID do Paciente: 741
+Nome: João Pinto
+Chegada: 3363
+ID do Paciente: 742
+Nome: Ana da Esquina
+Chegada: 3388
+ID do Paciente: 743
+Nome: Lucas da Silva Sauro
+Chegada: 3395
+ID do Paciente: 744
+Nome: João da Esquina
+Chegada: 3401
+ID do Paciente: 745
+Nome: Fulano Santos
+Chegada: 3404
+ID do Paciente: 746
+Nome: Fulano da Silva Sauro
+Chegada: 3405
+ID do Paciente: 747
+Nome: Zé Ninguém Souza
+Chegada: 3406
+ID do Paciente: 748
+Nome: Ciclano do Pão
+Chegada: 3419
+ID do Paciente: 749
+Nome: Zé Oliveira
+Chegada: 3424
+ID do Paciente: 750
+Nome: Fulano Pinto
+Chegada: 3431
+ID do Paciente: 751
+Nome: Beltrano Costa
+Chegada: 3432
+ID do Paciente: 752
+Nome: Fulano Pinto
+Chegada: 3442
+ID do Paciente: 753
+Nome: Maria Almeida
+Chegada: 3443
+ID do Paciente: 754
+Nome: Fulano da Silva
+Chegada: 3449
+ID do Paciente: 755
+Nome: Tina Silva
+Chegada: 3451
+ID do Paciente: 756
+Nome: Fulano Costa
+Chegada: 3452
+ID do Paciente: 757
+Nome: Lucas do Pé Rachado
+Chegada: 3454
+ID do Paciente: 758
+Nome: Zé Oliveira
+Chegada: 3455
+ID do Paciente: 759
+Nome: Ciclano Pereira
+Chegada: 3460
+ID do Paciente: 760
+Nome: Ciclano Santos
+Chegada: 3461
+ID do Paciente: 761
+Nome: Bia Costa
+Chegada: 3463
+ID do Paciente: 762
+Nome: Tina Oliveira
+Chegada: 3473
+ID do Paciente: 763
+Nome: Bia da Esquina
+Chegada: 3479
+ID do Paciente: 764
+Nome: Bia Silva
+Chegada: 3490
+ID do Paciente: 765
+Nome: Lucas Pereira
+Chegada: 3493
+ID do Paciente: 766
+Nome: Tina Costa
+Chegada: 3495
+ID do Paciente: 767
+Nome: Tio Patinhas da Silva Sauro
+Chegada: 3498
+ID do Paciente: 768
+Nome: Zé Ninguém do Pé Rachado
+Chegada: 3500
+ID do Paciente: 769
+Nome: Tina Pereira
+Chegada: 3512
+ID do Paciente: 770
+Nome: Lucas Pereira
+Chegada: 3515
+ID do Paciente: 771
+Nome: Zé Ninguém Costa
+Chegada: 3516
+ID do Paciente: 772
+Nome: Tina do Pé Rachado
+Chegada: 3519
+ID do Paciente: 773
+Nome: Ciclano da Silva
+Chegada: 3520
+ID do Paciente: 774
+Nome: Maria Costa
+Chegada: 3521
+ID do Paciente: 775
+Nome: Maria Costa
+Chegada: 3525
+ID do Paciente: 776
+Nome: João Nogueira
+Chegada: 3546
+ID do Paciente: 777
+Nome: Maria Silva
+Chegada: 3548
+ID do Paciente: 778
+Nome: Zé Ninguém do Pão
+Chegada: 3552
+ID do Paciente: 779
+Nome: Maria Costa
+Chegada: 3562
+ID do Paciente: 780
+Nome: Chico Santos
+Chegada: 3567
+ID do Paciente: 781
+Nome: Pedro Souza
+Chegada: 3572
+ID do Paciente: 782
+Nome: Zé Ninguém da Silva
+Chegada: 3574
+ID do Paciente: 783
+Nome: Pedro do Pão
+Chegada: 3575
+ID do Paciente: 784
+Nome: Bia do Pão
+Chegada: 3577
+ID do Paciente: 785
+Nome: Lucas da Silva Sauro
+Chegada: 3581
+ID do Paciente: 786
+Nome: Zé Nogueira
+Chegada: 3582
+ID do Paciente: 787
+Nome: Tina da Esquina
+Chegada: 3590
+ID do Paciente: 788
+Nome: Zé Ninguém Pereira
+Chegada: 3591
+ID do Paciente: 789
+Nome: Zé Ninguém Pinto
+Chegada: 3604
+ID do Paciente: 790
+Nome: Fulano Santos
+Chegada: 3619
+ID do Paciente: 791
+Nome: Tio Patinhas Oliveira
+Chegada: 3625
+ID do Paciente: 792
+Nome: Maria Costa
+Chegada: 3626
+ID do Paciente: 793
+Nome: Pedro Nogueira
+Chegada: 3629
+ID do Paciente: 794
+Nome: Chico Santos
+Chegada: 3633
+ID do Paciente: 795
+Nome: Bia Costa
+Chegada: 3637
+ID do Paciente: 796
+Nome: Tio Patinhas da Silva
+Chegada: 3645
+ID do Paciente: 797
+Nome: Tio Patinhas Almeida
+Chegada: 3647
+ID do Paciente: 798
+Nome: Chico da Silva
+Chegada: 3650
+ID do Paciente: 799
+Nome: Pedro Silva
+Chegada: 3653
+ID do Paciente: 800
+Nome: Lucas Silva
+Chegada: 3658
+ID do Paciente: 801
+Nome: Ciclano Souza
+Chegada: 3661
+ID do Paciente: 802
+Nome: Beltrano do Pão
+Chegada: 3662
+ID do Paciente: 803
+Nome: Carla Oliveira
+Chegada: 3671
+ID do Paciente: 804
+Nome: Tio Patinhas Almeida
+Chegada: 3672
+ID do Paciente: 805
+Nome: Beltrano Costa
+Chegada: 3679
+ID do Paciente: 806
+Nome: Zé da Silva Sauro
+Chegada: 3682
+ID do Paciente: 807
+Nome: Ana do Pão
+Chegada: 3695
+ID do Paciente: 808
+Nome: Fulano Souza
+Chegada: 3696
+ID do Paciente: 809
+Nome: Maria Silva
+Chegada: 3697
+ID do Paciente: 810
+Nome: Fulano da Silva Sauro
+Chegada: 3700
+ID do Paciente: 811
+Nome: Fulano Nogueira
+Chegada: 3703
+ID do Paciente: 812
+Nome: Lucas Souza
+Chegada: 3704
+ID do Paciente: 813
+Nome: João Pereira
+Chegada: 3708
+ID do Paciente: 814
+Nome: Zé Almeida
+Chegada: 3713
+ID do Paciente: 815
+Nome: Chico Souza
+Chegada: 3714
+ID do Paciente: 816
+Nome: Bia Pinto
+Chegada: 3715
+ID do Paciente: 817
+Nome: Lucas da Silva Sauro
+Chegada: 3729
+ID do Paciente: 818
+Nome: Pedro Santos
+Chegada: 3730
+ID do Paciente: 819
+Nome: Fulano Santos
+Chegada: 3736
+ID do Paciente: 820
+Nome: Ana Silva
+Chegada: 3737
+ID do Paciente: 821
+Nome: Zé Pereira
+Chegada: 3738
+ID do Paciente: 822
+Nome: Tina Souza
+Chegada: 3744
+ID do Paciente: 823
+Nome: Zé Santos
+Chegada: 3745
+ID do Paciente: 824
+Nome: Beltrano da Silva Sauro
+Chegada: 3747
+ID do Paciente: 825
+Nome: Beltrano Silva
+Chegada: 3756
+ID do Paciente: 826
+Nome: Lucas da Silva
+Chegada: 3759
+ID do Paciente: 827
+Nome: Beltrano da Silva Sauro
+Chegada: 3762
+ID do Paciente: 828
+Nome: Ciclano Santos
+Chegada: 3766
+ID do Paciente: 829
+Nome: Ciclano Oliveira
+Chegada: 3772
+ID do Paciente: 830
+Nome: Bia Souza
+Chegada: 3776
+ID do Paciente: 831
+Nome: Ana Costa
+Chegada: 3779
+ID do Paciente: 832
+Nome: Pedro Pinto
+Chegada: 3781
+ID do Paciente: 833
+Nome: Ana Costa
+Chegada: 3788
+ID do Paciente: 834
+Nome: João Pereira
+Chegada: 3790
+ID do Paciente: 835
+Nome: Ciclano da Esquina
+Chegada: 3792
+ID do Paciente: 836
+Nome: Chico da Esquina
+Chegada: 3794
+ID do Paciente: 837
+Nome: Bia Costa
+Chegada: 3800
+ID do Paciente: 838
+Nome: Bia Pinto
+Chegada: 3802
+ID do Paciente: 839
+Nome: Tio Patinhas Nogueira
+Chegada: 3803
+ID do Paciente: 840
+Nome: Ciclano do Pé Rachado
+Chegada: 3807
+ID do Paciente: 841
+Nome: Beltrano Oliveira
+Chegada: 3809
+ID do Paciente: 842
+Nome: Lucas Pinto
+Chegada: 3813
+ID do Paciente: 843
+Nome: Tio Patinhas Souza
+Chegada: 3816
+ID do Paciente: 844
+Nome: Carla do Pé Rachado
+Chegada: 3817
+ID do Paciente: 845
+Nome: Pedro Pereira
+Chegada: 3819
+ID do Paciente: 846
+Nome: Fulano da Silva Sauro
+Chegada: 3820
+ID do Paciente: 847
+Nome: Tio Patinhas da Silva
+Chegada: 3822
+ID do Paciente: 848
+Nome: João da Silva
+Chegada: 3835
+ID do Paciente: 849
+Nome: Bia Costa
+Chegada: 3855
+ID do Paciente: 850
+Nome: Maria Silva
+Chegada: 3857
+ID do Paciente: 851
+Nome: Ana Pereira
+Chegada: 3865
+ID do Paciente: 852
+Nome: Pedro Nogueira
+Chegada: 3867
+ID do Paciente: 853
+Nome: Ana Santos
+Chegada: 3870
+ID do Paciente: 854
+Nome: Pedro Nogueira
+Chegada: 3876
+ID do Paciente: 855
+Nome: Lucas do Pé Rachado
+Chegada: 3877
+ID do Paciente: 856
+Nome: Maria Oliveira
+Chegada: 3892
+ID do Paciente: 857
+Nome: João da Silva
+Chegada: 3893
+ID do Paciente: 858
+Nome: Lucas do Pão
+Chegada: 3902
+ID do Paciente: 859
+Nome: Maria da Silva
+Chegada: 3908
+ID do Paciente: 860
+Nome: Zé Ninguém Pinto
+Chegada: 3915
+ID do Paciente: 861
+Nome: Chico Nogueira
+Chegada: 3917
+ID do Paciente: 862
+Nome: Zé Ninguém Pinto
+Chegada: 3919
+ID do Paciente: 863
+Nome: João Nogueira
+Chegada: 3930
+ID do Paciente: 864
+Nome: Tio Patinhas Almeida
+Chegada: 3934
+ID do Paciente: 865
+Nome: Zé Ninguém Almeida
+Chegada: 3935
+ID do Paciente: 866
+Nome: Zé Ninguém Nogueira
+Chegada: 3939
+ID do Paciente: 867
+Nome: Pedro Santos
+Chegada: 3940
+ID do Paciente: 868
+Nome: Chico da Esquina
+Chegada: 3942
+ID do Paciente: 869
+Nome: Zé Silva
+Chegada: 3946
+ID do Paciente: 870
+Nome: Fulano Pereira
+Chegada: 3950
+ID do Paciente: 871
+Nome: Ciclano Almeida
+Chegada: 3957
+ID do Paciente: 872
+Nome: Zé Ninguém Pereira
+Chegada: 3959
+ID do Paciente: 873
+Nome: Bia Nogueira
+Chegada: 3960
+ID do Paciente: 874
+Nome: Ana Souza
+Chegada: 3970
+ID do Paciente: 875
+Nome: Carla do Pé Rachado
+Chegada: 3981
+ID do Paciente: 876
+Nome: Lucas Pinto
+Chegada: 3983
+ID do Paciente: 877
+Nome: Bia Nogueira
+Chegada: 3986
+ID do Paciente: 878
+Nome: Tina Oliveira
+Chegada: 3987
+ID do Paciente: 879
+Nome: Chico Nogueira
+Chegada: 3991
+ID do Paciente: 880
+Nome: Fulano Souza
+Chegada: 3993
+ID do Paciente: 881
+Nome: Lucas da Silva
+Chegada: 3997
+ID do Paciente: 882
+Nome: Zé Costa
+Chegada: 3998
+ID do Paciente: 883
+Nome: Maria Santos
+Chegada: 3999
+ID do Paciente: 884
+Nome: Ciclano Souza
+Chegada: 4009
+ID do Paciente: 885
+Nome: Pedro do Pão
+Chegada: 4017
+ID do Paciente: 886
+Nome: Zé Ninguém Costa
+Chegada: 4022
+ID do Paciente: 887
+Nome: Zé Nogueira
+Chegada: 4027
+ID do Paciente: 888
+Nome: Zé Pereira
+Chegada: 4031
+ID do Paciente: 889
+Nome: Chico Costa
+Chegada: 4032
+ID do Paciente: 890
+Nome: Fulano Pereira
+Chegada: 4035
+ID do Paciente: 891
+Nome: Lucas Santos
+Chegada: 4037
+ID do Paciente: 892
+Nome: Zé Ninguém da Esquina
+Chegada: 4042
+ID do Paciente: 893
+Nome: Tina da Esquina
+Chegada: 4043
+ID do Paciente: 894
+Nome: Maria Nogueira
+Chegada: 4044
+ID do Paciente: 895
+Nome: Pedro Oliveira
+Chegada: 4046
+ID do Paciente: 896
+Nome: Carla Oliveira
+Chegada: 4049
+ID do Paciente: 897
+Nome: Carla Pinto
+Chegada: 4062
+ID do Paciente: 898
+Nome: João Pereira
+Chegada: 4066
+ID do Paciente: 899
+Nome: Chico da Silva
+Chegada: 4072
+ID do Paciente: 900
+Nome: Bia da Silva Sauro
+Chegada: 4074
+ID do Paciente: 901
+Nome: Ana Pinto
+Chegada: 4076
+ID do Paciente: 902
+Nome: Carla do Pão
+Chegada: 4081
+ID do Paciente: 903
+Nome: Lucas do Pé Rachado
+Chegada: 4083
+ID do Paciente: 904
+Nome: Pedro Santos
+Chegada: 4085
+ID do Paciente: 905
+Nome: Lucas Souza
+Chegada: 4088
+ID do Paciente: 906
+Nome: Fulano da Silva
+Chegada: 4089
+ID do Paciente: 907
+Nome: Zé Ninguém da Esquina
+Chegada: 4091
+ID do Paciente: 908
+Nome: Ana da Esquina
+Chegada: 4092
+ID do Paciente: 909
+Nome: Chico Almeida
+Chegada: 4094
+ID do Paciente: 910
+Nome: Ana Souza
+Chegada: 4095
+ID do Paciente: 911
+Nome: Ciclano da Silva
+Chegada: 4103
+ID do Paciente: 912
+Nome: Bia Nogueira
+Chegada: 4104
+ID do Paciente: 913
+Nome: Tina Nogueira
+Chegada: 4109
+ID do Paciente: 914
+Nome: Ana do Pão
+Chegada: 4113
+ID do Paciente: 915
+Nome: Bia da Silva Sauro
+Chegada: 4114
+ID do Paciente: 916
+Nome: Ana Santos
+Chegada: 4117
+ID do Paciente: 917
+Nome: Tio Patinhas do Pão
+Chegada: 4127
+ID do Paciente: 918
+Nome: Carla da Esquina
+Chegada: 4129
+ID do Paciente: 919
+Nome: Beltrano da Esquina
+Chegada: 4130
+ID do Paciente: 920
+Nome: Bia Silva
+Chegada: 4131
+ID do Paciente: 921
+Nome: Ciclano Nogueira
+Chegada: 4135
+ID do Paciente: 922
+Nome: Tio Patinhas do Pão
+Chegada: 4136
+ID do Paciente: 923
+Nome: Chico Silva
+Chegada: 4138
+ID do Paciente: 924
+Nome: Ciclano do Pé Rachado
+Chegada: 4140
+ID do Paciente: 925
+Nome: Tio Patinhas Souza
+Chegada: 4144
+ID do Paciente: 926
+Nome: Maria do Pão
+Chegada: 4148
+ID do Paciente: 927
+Nome: Lucas da Silva
+Chegada: 4149
+ID do Paciente: 928
+Nome: Zé da Esquina
+Chegada: 4150
+ID do Paciente: 929
+Nome: Bia da Silva
+Chegada: 4151
+ID do Paciente: 930
+Nome: Chico Almeida
+Chegada: 4153
+ID do Paciente: 931
+Nome: Chico Silva
+Chegada: 4155
+ID do Paciente: 932
+Nome: Bia Costa
+Chegada: 4156
+ID do Paciente: 933
+Nome: Tio Patinhas do Pão
+Chegada: 4157
+ID do Paciente: 934
+Nome: Lucas Nogueira
+Chegada: 4167
+ID do Paciente: 935
+Nome: Carla Santos
+Chegada: 4174
+ID do Paciente: 936
+Nome: Bia da Silva Sauro
+Chegada: 4179
+ID do Paciente: 937
+Nome: Carla Pinto
+Chegada: 4183
+ID do Paciente: 938
+Nome: Tio Patinhas do Pé Rachado
+Chegada: 4189
+ID do Paciente: 939
+Nome: João Silva
+Chegada: 4190
+ID do Paciente: 940
+Nome: Carla Pinto
+Chegada: 4191
+ID do Paciente: 941
+Nome: Tio Patinhas Almeida
+Chegada: 4193
+ID do Paciente: 942
+Nome: Beltrano Almeida
+Chegada: 4198
+ID do Paciente: 943
+Nome: Tina Pereira
+Chegada: 4220
+ID do Paciente: 944
+Nome: Bia Almeida
+Chegada: 4227
+ID do Paciente: 945
+Nome: Beltrano Costa
+Chegada: 4228
+ID do Paciente: 946
+Nome: Ciclano do Pão
+Chegada: 4229
+ID do Paciente: 947
+Nome: Lucas Pinto
+Chegada: 4233
+ID do Paciente: 948
+Nome: Lucas Silva
+Chegada: 4234
+ID do Paciente: 949
+Nome: Carla Pereira
+Chegada: 4237
+ID do Paciente: 950
+Nome: Ciclano Almeida
+Chegada: 4241
+ID do Paciente: 951
+Nome: Maria da Silva Sauro
+Chegada: 4247
+ID do Paciente: 952
+Nome: Chico Silva
+Chegada: 4248
+ID do Paciente: 953
+Nome: Beltrano do Pé Rachado
+Chegada: 4254
+ID do Paciente: 954
+Nome: Fulano Pinto
+Chegada: 4262
+ID do Paciente: 955
+Nome: Bia Silva
+Chegada: 4263
+ID do Paciente: 956
+Nome: Ana Almeida
+Chegada: 4268
+ID do Paciente: 957
+Nome: Tio Patinhas da Esquina
+Chegada: 4273
+ID do Paciente: 958
+Nome: Beltrano Almeida
+Chegada: 4280
+ID do Paciente: 959
+Nome: Beltrano Nogueira
+Chegada: 4285
+ID do Paciente: 960
+Nome: Chico Santos
+Chegada: 4286
+ID do Paciente: 961
+Nome: João Nogueira
+Chegada: 4290
+ID do Paciente: 962
+Nome: Tina da Silva Sauro
+Chegada: 4291
+ID do Paciente: 963
+Nome: Maria Pereira
+Chegada: 4297
+ID do Paciente: 964
+Nome: Bia da Esquina
+Chegada: 4307
+ID do Paciente: 965
+Nome: Zé do Pé Rachado
+Chegada: 4314
+ID do Paciente: 966
+Nome: Chico Pereira
+Chegada: 4324
+ID do Paciente: 967
+Nome: Maria Pereira
+Chegada: 4333
+ID do Paciente: 968
+Nome: Carla Silva
+Chegada: 4343
+ID do Paciente: 969
+Nome: Tio Patinhas Santos
+Chegada: 4346
+ID do Paciente: 970
+Nome: Ana Souza
+Chegada: 4350
+ID do Paciente: 971
+Nome: Zé Almeida
+Chegada: 4353
+ID do Paciente: 972
+Nome: Chico da Esquina
+Chegada: 4354
+ID do Paciente: 973
+Nome: Fulano da Silva
+Chegada: 4357
+ID do Paciente: 974
+Nome: Ana Almeida
+Chegada: 4364
+ID do Paciente: 975
+Nome: João Costa
+Chegada: 4378
+ID do Paciente: 976
+Nome: Zé Ninguém do Pão
+Chegada: 4379
+ID do Paciente: 977
+Nome: Maria Silva
+Chegada: 4380
+ID do Paciente: 978
+Nome: Lucas Nogueira
+Chegada: 4387
+ID do Paciente: 979
+Nome: Zé Ninguém da Silva Sauro
+Chegada: 4391
+ID do Paciente: 980
+Nome: Pedro Souza
+Chegada: 4393
+ID do Paciente: 981
+Nome: Lucas Almeida
+Chegada: 4394
+ID do Paciente: 982
+Nome: Pedro Pinto
+Chegada: 4405
+ID do Paciente: 983
+Nome: Pedro Santos
+Chegada: 4409
+ID do Paciente: 984
+Nome: Zé Oliveira
+Chegada: 4410
+ID do Paciente: 985
+Nome: Carla da Silva Sauro
+Chegada: 4413
+ID do Paciente: 986
+Nome: João da Silva
+Chegada: 4416
+ID do Paciente: 987
+Nome: Maria Santos
+Chegada: 4425
+ID do Paciente: 988
+Nome: Maria Costa
+Chegada: 4426
+ID do Paciente: 989
+Nome: Pedro Santos
+Chegada: 4430
+ID do Paciente: 990
+Nome: Bia Costa
+Chegada: 4434
+ID do Paciente: 991
+Nome: Bia da Silva Sauro
+Chegada: 4443
+ID do Paciente: 992
+Nome: Maria Oliveira
+Chegada: 4448
+ID do Paciente: 993
+Nome: Ciclano Santos
+Chegada: 4456
+ID do Paciente: 994
+Nome: Beltrano do Pão
+Chegada: 4460
+ID do Paciente: 995
+Nome: Ana da Silva
+Chegada: 4464
+ID do Paciente: 996
+Nome: Pedro Pinto
+Chegada: 4474
+ID do Paciente: 997
+Nome: Bia da Esquina
+Chegada: 4475
+ID do Paciente: 998
+Nome: Bia Souza
+Chegada: 4477
+ID do Paciente: 999
+Nome: Bia Pereira
+Chegada: 4494
+ID do Paciente: 1000
+Nome: Lucas Santos
+Chegada: 4497
+ID do Paciente: 1001
+Nome: Ana Pereira
+Chegada: 4499
+ID do Paciente: 1002
+Nome: Maria da Silva Sauro
+Chegada: 4506
+ID do Paciente: 1003
+Nome: Maria Silva
+Chegada: 4509
+ID do Paciente: 1004
+Nome: Fulano da Silva
+Chegada: 4510
+ID do Paciente: 1005
+Nome: Zé Nogueira
+Chegada: 4511
+ID do Paciente: 1006
+Nome: Bia Costa
+Chegada: 4512
+ID do Paciente: 1007
+Nome: Ana Oliveira
+Chegada: 4519
+ID do Paciente: 1008
+Nome: Ana do Pé Rachado
+Chegada: 4541
+ID do Paciente: 1009
+Nome: Bia Almeida
+Chegada: 4544
+ID do Paciente: 1010
+Nome: Pedro do Pão
+Chegada: 4545
+ID do Paciente: 1011
+Nome: Maria Pinto
+Chegada: 4546
+ID do Paciente: 1012
+Nome: Lucas Pereira
+Chegada: 4549
+ID do Paciente: 1013
+Nome: Ana do Pé Rachado
+Chegada: 4551
+ID do Paciente: 1014
+Nome: Lucas do Pão
+Chegada: 4554
+ID do Paciente: 1015
+Nome: Tio Patinhas Almeida
+Chegada: 4556
+ID do Paciente: 1016
+Nome: Ana Souza
+Chegada: 4570
+ID do Paciente: 1017
+Nome: Ciclano Souza
+Chegada: 4571
+ID do Paciente: 1018
+Nome: Bia Pereira
+Chegada: 4581
+ID do Paciente: 1019
+Nome: Fulano Almeida
+Chegada: 4585
+ID do Paciente: 1020
+Nome: Zé Ninguém Silva
+Chegada: 4590
+ID do Paciente: 1021
+Nome: Maria Silva
+Chegada: 4595
+ID do Paciente: 1022
+Nome: Lucas Silva
+Chegada: 4599
+ID do Paciente: 1023
+Nome: Zé Ninguém do Pão
+Chegada: 4601
+ID do Paciente: 1024
+Nome: Tina do Pé Rachado
+Chegada: 4616
+ID do Paciente: 1025
+Nome: João da Esquina
+Chegada: 4619
+ID do Paciente: 1026
+Nome: Tio Patinhas Nogueira
+Chegada: 4622
+ID do Paciente: 1027
+Nome: João Souza
+Chegada: 4624
+ID do Paciente: 1028
+Nome: Zé Ninguém Santos
+Chegada: 4634
+ID do Paciente: 1029
+Nome: Chico do Pão
+Chegada: 4635
+ID do Paciente: 1030
+Nome: João Costa
+Chegada: 4638
+ID do Paciente: 1031
+Nome: Tina do Pão
+Chegada: 4640
+ID do Paciente: 1032
+Nome: Chico da Silva Sauro
+Chegada: 4642
+ID do Paciente: 1033
+Nome: Zé Pereira
+Chegada: 4644
+ID do Paciente: 1034
+Nome: Beltrano Santos
+Chegada: 4648
+ID do Paciente: 1035
+Nome: Zé do Pão
+Chegada: 4650
+ID do Paciente: 1036
+Nome: Carla Costa
+Chegada: 4655
+ID do Paciente: 1037
+Nome: Lucas Oliveira
+Chegada: 4666
+ID do Paciente: 1038
+Nome: Maria Silva
+Chegada: 4671
+ID do Paciente: 1039
+Nome: Lucas da Esquina
+Chegada: 4675
+ID do Paciente: 1040
+Nome: Zé Ninguém do Pão
+Chegada: 4680
+ID do Paciente: 1041
+Nome: João Santos
+Chegada: 4685
+ID do Paciente: 1042
+Nome: Maria Santos
+Chegada: 4687
+ID do Paciente: 1043
+Nome: Zé Ninguém da Esquina
+Chegada: 4704
+ID do Paciente: 1044
+Nome: Bia Nogueira
+Chegada: 4719
+ID do Paciente: 1045
+Nome: Zé Ninguém Souza
+Chegada: 4723
+ID do Paciente: 1046
+Nome: Zé Ninguém Nogueira
+Chegada: 4728
+ID do Paciente: 1047
+Nome: Zé Ninguém Costa
+Chegada: 4732
+ID do Paciente: 1048
+Nome: Maria Oliveira
+Chegada: 4733
+ID do Paciente: 1049
+Nome: Tio Patinhas Nogueira
+Chegada: 4735
+ID do Paciente: 1050
+Nome: Fulano Pinto
+Chegada: 4743
+ID do Paciente: 1051
+Nome: Pedro da Silva Sauro
+Chegada: 4744
+ID do Paciente: 1052
+Nome: Bia Santos
+Chegada: 4746
+ID do Paciente: 1053
+Nome: Pedro Santos
+Chegada: 4757
+ID do Paciente: 1054
+Nome: Ana do Pão
+Chegada: 4758
+ID do Paciente: 1055
+Nome: Carla da Silva Sauro
+Chegada: 4764
+ID do Paciente: 1056
+Nome: Tina Silva
+Chegada: 4769
+ID do Paciente: 1057
+Nome: Carla da Esquina
+Chegada: 4770
+ID do Paciente: 1058
+Nome: Carla do Pão
+Chegada: 4774
+ID do Paciente: 1059
+Nome: Zé Ninguém Oliveira
+Chegada: 4778
+ID do Paciente: 1060
+Nome: Maria da Silva
+Chegada: 4781
+ID do Paciente: 1061
+Nome: Chico Souza
+Chegada: 4783
+ID do Paciente: 1062
+Nome: Tio Patinhas da Silva Sauro
+Chegada: 4785
+ID do Paciente: 1063
+Nome: Zé Silva
+Chegada: 4787
+ID do Paciente: 1064
+Nome: Zé Costa
+Chegada: 4795
+ID do Paciente: 1065
+Nome: Zé Ninguém Silva
+Chegada: 4796
+ID do Paciente: 1066
+Nome: Zé Ninguém Pinto
+Chegada: 4797
+ID do Paciente: 1067
+Nome: Ciclano Santos
+Chegada: 4800
+ID do Paciente: 1068
+Nome: João Pinto
+Chegada: 4803
+ID do Paciente: 1069
+Nome: Carla Silva
+Chegada: 4806
+ID do Paciente: 1070
+Nome: Fulano Almeida
+Chegada: 4815
+ID do Paciente: 1071
+Nome: Carla Nogueira
+Chegada: 4818
+ID do Paciente: 1072
+Nome: Zé Almeida
+Chegada: 4833
+ID do Paciente: 1073
+Nome: Zé Ninguém Pereira
+Chegada: 4846
+ID do Paciente: 1074
+Nome: João do Pão
+Chegada: 4857
+ID do Paciente: 1075
+Nome: João da Esquina
+Chegada: 4866
+ID do Paciente: 1076
+Nome: João Oliveira
+Chegada: 4870
+ID do Paciente: 1077
+Nome: Bia da Esquina
+Chegada: 4872
+ID do Paciente: 1078
+Nome: Lucas Silva
+Chegada: 4875
+ID do Paciente: 1079
+Nome: Zé Silva
+Chegada: 4880
+ID do Paciente: 1080
+Nome: Pedro do Pé Rachado
+Chegada: 4884
+ID do Paciente: 1081
+Nome: Ana Pinto
+Chegada: 4887
+ID do Paciente: 1082
+Nome: Pedro Oliveira
+Chegada: 4898
+ID do Paciente: 1083
+Nome: João Souza
+Chegada: 4910
+ID do Paciente: 1084
+Nome: Beltrano Nogueira
+Chegada: 4914
+ID do Paciente: 1085
+Nome: Fulano Almeida
+Chegada: 4919
+ID do Paciente: 1086
+Nome: Pedro Souza
+Chegada: 4920
+ID do Paciente: 1087
+Nome: Tio Patinhas Pereira
+Chegada: 4921
+ID do Paciente: 1088
+Nome: Lucas do Pão
+Chegada: 4937
+ID do Paciente: 1089
+Nome: Fulano da Silva
+Chegada: 4942
+ID do Paciente: 1090
+Nome: Chico Santos
+Chegada: 4944
+ID do Paciente: 1091
+Nome: Pedro Costa
+Chegada: 4945
+ID do Paciente: 1092
+Nome: Carla Almeida
+Chegada: 4948
+ID do Paciente: 1093
+Nome: Bia da Silva Sauro
+Chegada: 4950
+ID do Paciente: 1094
+Nome: Fulano do Pé Rachado
+Chegada: 4954
+ID do Paciente: 1095
+Nome: Bia Silva
+Chegada: 4955
+ID do Paciente: 1096
+Nome: Pedro do Pé Rachado
+Chegada: 4956
+ID do Paciente: 1097
+Nome: Ana Pereira
+Chegada: 4957
+ID do Paciente: 1098
+Nome: Chico Nogueira
+Chegada: 4965
+ID do Paciente: 1099
+Nome: Zé Ninguém da Silva
+Chegada: 4967
+ID do Paciente: 1100
+Nome: João do Pé Rachado
+Chegada: 4968
+ID do Paciente: 1101
+Nome: Bia do Pão
+Chegada: 4970
+ID do Paciente: 1102
+Nome: Tio Patinhas Santos
+Chegada: 4971
+ID do Paciente: 1103
+Nome: Ciclano Almeida
+Chegada: 4972
+ID do Paciente: 1104
+Nome: Lucas Almeida
+Chegada: 4975
+ID do Paciente: 1105
+Nome: Carla Silva
+Chegada: 4977
+ID do Paciente: 1106
+Nome: Tina da Silva
+Chegada: 4979
+ID do Paciente: 1107
+Nome: Tina Oliveira
+Chegada: 4981
+ID do Paciente: 1108
+Nome: Chico Santos
+Chegada: 4986
+ID do Paciente: 1109
+Nome: Ana Souza
+Chegada: 4991
+ID do Paciente: 1110
+Nome: Ciclano da Silva Sauro
+Chegada: 4994
+ID do Paciente: 1111
+Nome: Carla do Pé Rachado
+Chegada: 4996
+ID do Paciente: 1112
+Nome: Fulano Santos
+Chegada: 4997
+ID do Paciente: 1113
+Nome: Carla da Esquina
+Chegada: 5000
+ID do Paciente: 1114
+Nome: Tio Patinhas da Esquina
+Chegada: 5005
+ID do Paciente: 1115
+Nome: Zé Ninguém do Pé Rachado
+Chegada: 5006
+ID do Paciente: 1116
+Nome: Tina da Silva Sauro
+Chegada: 5009
+ID do Paciente: 1117
+Nome: Carla Santos
+Chegada: 5010
+ID do Paciente: 1118
+Nome: Ana da Esquina
+Chegada: 5012
+ID do Paciente: 1119
+Nome: Carla Pereira
+Chegada: 5022
+ID do Paciente: 1120
+Nome: Lucas da Silva Sauro
+Chegada: 5027
+ID do Paciente: 1121
+Nome: Zé Souza
+Chegada: 5032
+ID do Paciente: 1122
+Nome: Tio Patinhas da Esquina
+Chegada: 5034
+ID do Paciente: 1123
+Nome: Ana Pereira
+Chegada: 5035
+ID do Paciente: 1124
+Nome: Ana da Esquina
+Chegada: 5036
+ID do Paciente: 1125
+Nome: Bia Costa
+Chegada: 5038
+ID do Paciente: 1126
+Nome: Fulano Costa
+Chegada: 5044
+ID do Paciente: 1127
+Nome: Tina Nogueira
+Chegada: 5047
+ID do Paciente: 1128
+Nome: Zé Ninguém Almeida
+Chegada: 5057
+ID do Paciente: 1129
+Nome: Beltrano da Esquina
+Chegada: 5061
+ID do Paciente: 1130
+Nome: Tina Santos
+Chegada: 5067
+ID do Paciente: 1131
+Nome: Ciclano da Esquina
+Chegada: 5070
+ID do Paciente: 1132
+Nome: Bia Souza
+Chegada: 5077
+ID do Paciente: 1133
+Nome: Ciclano da Silva
+Chegada: 5078
+ID do Paciente: 1134
+Nome: Zé Costa
+Chegada: 5080
+ID do Paciente: 1135
+Nome: Ciclano Pereira
+Chegada: 5081
+ID do Paciente: 1136
+Nome: Tio Patinhas Silva
+Chegada: 5082
+ID do Paciente: 1137
+Nome: Tio Patinhas Santos
+Chegada: 5083
+ID do Paciente: 1138
+Nome: Bia da Esquina
+Chegada: 5085
+ID do Paciente: 1139
+Nome: Bia Silva
+Chegada: 5087
+ID do Paciente: 1140
+Nome: Ciclano Almeida
+Chegada: 5091
+ID do Paciente: 1141
+Nome: Ana Oliveira
+Chegada: 5092
+ID do Paciente: 1142
+Nome: João da Silva
+Chegada: 5094
+ID do Paciente: 1143
+Nome: Carla Souza
+Chegada: 5106
+ID do Paciente: 1144
+Nome: Ciclano Pinto
+Chegada: 5109
+ID do Paciente: 1145
+Nome: Fulano Pinto
+Chegada: 5110
+ID do Paciente: 1146
+Nome: Maria Pereira
+Chegada: 5114
+ID do Paciente: 1147
+Nome: Pedro da Silva Sauro
+Chegada: 5120
+ID do Paciente: 1148
+Nome: Tina Nogueira
+Chegada: 5121
+ID do Paciente: 1149
+Nome: Beltrano Costa
+Chegada: 5125
+ID do Paciente: 1150
+Nome: Beltrano Costa
+Chegada: 5127
+ID do Paciente: 1151
+Nome: Zé Souza
+Chegada: 5129
+ID do Paciente: 1152
+Nome: Fulano Souza
+Chegada: 5141
+ID do Paciente: 1153
+Nome: Fulano Santos
+Chegada: 5143
+ID do Paciente: 1154
+Nome: Zé do Pé Rachado
+Chegada: 5144
+ID do Paciente: 1155
+Nome: Pedro Nogueira
+Chegada: 5145
+ID do Paciente: 1156
+Nome: Ciclano Silva
+Chegada: 5150
+ID do Paciente: 1157
+Nome: Beltrano Almeida
+Chegada: 5159
+ID do Paciente: 1158
+Nome: Beltrano da Esquina
+Chegada: 5169
+ID do Paciente: 1159
+Nome: Fulano Costa
+Chegada: 5172
+ID do Paciente: 1160
+Nome: Maria Almeida
+Chegada: 5173
+ID do Paciente: 1161
+Nome: Beltrano Pinto
+Chegada: 5179
+ID do Paciente: 1162
+Nome: Ciclano do Pão
+Chegada: 5180
+ID do Paciente: 1163
+Nome: Zé da Silva Sauro
+Chegada: 5182
+ID do Paciente: 1164
+Nome: Chico Oliveira
+Chegada: 5184
+ID do Paciente: 1165
+Nome: Tina da Esquina
+Chegada: 5185
+ID do Paciente: 1166
+Nome: Maria Silva
+Chegada: 5186
+ID do Paciente: 1167
+Nome: Pedro Silva
+Chegada: 5197
+ID do Paciente: 1168
+Nome: Tio Patinhas da Esquina
+Chegada: 5198
+ID do Paciente: 1169
+Nome: Pedro Costa
+Chegada: 5199
+ID do Paciente: 1170
+Nome: Maria Santos
+Chegada: 5205
+ID do Paciente: 1171
+Nome: Tio Patinhas Costa
+Chegada: 5217
+ID do Paciente: 1172
+Nome: Beltrano da Silva
+Chegada: 5225
+ID do Paciente: 1173
+Nome: Ciclano do Pé Rachado
+Chegada: 5241
+ID do Paciente: 1174
+Nome: Zé Ninguém Silva
+Chegada: 5244
+ID do Paciente: 1175
+Nome: Beltrano Santos
+Chegada: 5246
+ID do Paciente: 1176
+Nome: Pedro Oliveira
+Chegada: 5250
+ID do Paciente: 1177
+Nome: Tio Patinhas Pinto
+Chegada: 5259
+ID do Paciente: 1178
+Nome: Fulano Almeida
+Chegada: 5263
+ID do Paciente: 1179
+Nome: Zé da Silva
+Chegada: 5270
+ID do Paciente: 1180
+Nome: Ciclano do Pé Rachado
+Chegada: 5278
+ID do Paciente: 1181
+Nome: Maria Nogueira
+Chegada: 5280
+ID do Paciente: 1182
+Nome: Fulano Pereira
+Chegada: 5282
+ID do Paciente: 1183
+Nome: Fulano da Silva Sauro
+Chegada: 5286
+ID do Paciente: 1184
+Nome: Fulano do Pão
+Chegada: 5288
+ID do Paciente: 1185
+Nome: Zé Pinto
+Chegada: 5291
+ID do Paciente: 1186
+Nome: Beltrano do Pão
+Chegada: 5294
+ID do Paciente: 1187
+Nome: Tina da Silva
+Chegada: 5301
+ID do Paciente: 1188
+Nome: Maria do Pé Rachado
+Chegada: 5306
+ID do Paciente: 1189
+Nome: Pedro Souza
+Chegada: 5308
+ID do Paciente: 1190
+Nome: Maria da Esquina
+Chegada: 5309
+ID do Paciente: 1191
+Nome: Bia Oliveira
+Chegada: 5315
+ID do Paciente: 1192
+Nome: Zé Ninguém da Esquina
+Chegada: 5317
+ID do Paciente: 1193
+Nome: Pedro Silva
+Chegada: 5320
+ID do Paciente: 1194
+Nome: Carla Nogueira
+Chegada: 5326
+ID do Paciente: 1195
+Nome: João do Pé Rachado
+Chegada: 5339
+ID do Paciente: 1196
+Nome: Chico do Pé Rachado
+Chegada: 5341
+ID do Paciente: 1197
+Nome: Zé Ninguém do Pé Rachado
+Chegada: 5345
+ID do Paciente: 1198
+Nome: Pedro Nogueira
+Chegada: 5347
+ID do Paciente: 1199
+Nome: Maria Pinto
+Chegada: 5348
+ID do Paciente: 1200
+Nome: Ana do Pé Rachado
+Chegada: 5352
+ID do Paciente: 1201
+Nome: Maria Pinto
+Chegada: 5354
+ID do Paciente: 1202
+Nome: Beltrano Souza
+Chegada: 5356
+ID do Paciente: 1203
+Nome: Chico Silva
+Chegada: 5370
+ID do Paciente: 1204
+Nome: Ciclano Almeida
+Chegada: 5377
+ID do Paciente: 1205
+Nome: Ciclano Costa
+Chegada: 5403
+ID do Paciente: 1206
+Nome: João Nogueira
+Chegada: 5404
+ID do Paciente: 1207
+Nome: Maria da Esquina
+Chegada: 5406
+ID do Paciente: 1208
+Nome: Zé Almeida
+Chegada: 5413
+ID do Paciente: 1209
+Nome: Tina Souza
+Chegada: 5414
+ID do Paciente: 1210
+Nome: Fulano Pereira
+Chegada: 5415
+ID do Paciente: 1211
+Nome: Beltrano Almeida
+Chegada: 5417
+ID do Paciente: 1212
+Nome: Zé Ninguém da Esquina
+Chegada: 5421
+ID do Paciente: 1213
+Nome: Carla Nogueira
+Chegada: 5425
+ID do Paciente: 1214
+Nome: Tina Oliveira
+Chegada: 5428
+ID do Paciente: 1215
+Nome: Tina Silva
+Chegada: 5433
+ID do Paciente: 1216
+Nome: Tina Almeida
+Chegada: 5438
+ID do Paciente: 1217
+Nome: Zé da Silva
+Chegada: 5452
+ID do Paciente: 1218
+Nome: Beltrano Nogueira
+Chegada: 5454
+ID do Paciente: 1219
+Nome: Fulano Santos
+Chegada: 5471
+ID do Paciente: 1220
+Nome: Tina Silva
+Chegada: 5472
+ID do Paciente: 1221
+Nome: Zé Pinto
+Chegada: 5474
+ID do Paciente: 1222
+Nome: Beltrano Silva
+Chegada: 5475
+ID do Paciente: 1223
+Nome: Tina Pereira
+Chegada: 5476
+ID do Paciente: 1224
+Nome: Fulano Oliveira
+Chegada: 5481
+ID do Paciente: 1225
+Nome: Carla Santos
+Chegada: 5485
+ID do Paciente: 1226
+Nome: Chico do Pé Rachado
+Chegada: 5487
+ID do Paciente: 1227
+Nome: Fulano da Esquina
+Chegada: 5491
+ID do Paciente: 1228
+Nome: Tio Patinhas da Silva Sauro
+Chegada: 5493
+ID do Paciente: 1229
+Nome: João Santos
+Chegada: 5494
+ID do Paciente: 1230
+Nome: Zé da Silva Sauro
+Chegada: 5496
+ID do Paciente: 1231
+Nome: Carla da Esquina
+Chegada: 5501
+ID do Paciente: 1232
+Nome: Bia Nogueira
+Chegada: 5504
+ID do Paciente: 1233
+Nome: Zé Ninguém Souza
+Chegada: 5509
+ID do Paciente: 1234
+Nome: Tina da Silva
+Chegada: 5513
+ID do Paciente: 1235
+Nome: Zé do Pão
+Chegada: 5522
+ID do Paciente: 1236
+Nome: Maria Costa
+Chegada: 5526
+ID do Paciente: 1237
+Nome: Tio Patinhas Pereira
+Chegada: 5528
+ID do Paciente: 1238
+Nome: Tina do Pé Rachado
+Chegada: 5530
+ID do Paciente: 1239
+Nome: Zé do Pão
+Chegada: 5532
+ID do Paciente: 1240
+Nome: Fulano Pinto
+Chegada: 5533
+ID do Paciente: 1241
+Nome: Lucas do Pão
+Chegada: 5536
+ID do Paciente: 1242
+Nome: Tina Pereira
+Chegada: 5538
+ID do Paciente: 1243
+Nome: Zé Oliveira
+Chegada: 5539
+ID do Paciente: 1244
+Nome: João Oliveira
+Chegada: 5544
+ID do Paciente: 1245
+Nome: Zé Ninguém do Pão
+Chegada: 5552
+ID do Paciente: 1246
+Nome: Ciclano Oliveira
+Chegada: 5555
+ID do Paciente: 1247
+Nome: João Almeida
+Chegada: 5556
+ID do Paciente: 1248
+Nome: Beltrano Nogueira
+Chegada: 5561
+ID do Paciente: 1249
+Nome: Lucas do Pão
+Chegada: 5566
+ID do Paciente: 1250
+Nome: Zé da Silva
+Chegada: 5567
+ID do Paciente: 1251
+Nome: Lucas Souza
+Chegada: 5569
+ID do Paciente: 1252
+Nome: Zé Souza
+Chegada: 5570
+ID do Paciente: 1253
+Nome: Fulano do Pé Rachado
+Chegada: 5573
+ID do Paciente: 1254
+Nome: Carla Souza
+Chegada: 5575
+ID do Paciente: 1255
+Nome: Lucas da Silva Sauro
+Chegada: 5579
+ID do Paciente: 1256
+Nome: Pedro do Pé Rachado
+Chegada: 5582
+ID do Paciente: 1257
+Nome: Bia da Silva Sauro
+Chegada: 5586
+ID do Paciente: 1258
+Nome: Ana Silva
+Chegada: 5590
+ID do Paciente: 1259
+Nome: Fulano Pereira
+Chegada: 5594
+ID do Paciente: 1260
+Nome: João da Esquina
+Chegada: 5595
+ID do Paciente: 1261
+Nome: Bia Souza
+Chegada: 5596
+ID do Paciente: 1262
+Nome: Tio Patinhas do Pão
+Chegada: 5600
+ID do Paciente: 1263
+Nome: Chico Nogueira
+Chegada: 5606
+ID do Paciente: 1264
+Nome: Zé Nogueira
+Chegada: 5612
+ID do Paciente: 1265
+Nome: Chico do Pão
+Chegada: 5613
+ID do Paciente: 1266
+Nome: Zé Oliveira
+Chegada: 5614
+ID do Paciente: 1267
+Nome: Carla da Silva
+Chegada: 5615
+ID do Paciente: 1268
+Nome: Lucas Pereira
+Chegada: 5617
+ID do Paciente: 1269
+Nome: Zé Ninguém Pereira
+Chegada: 5619
+ID do Paciente: 1270
+Nome: Ciclano da Silva Sauro
+Chegada: 5622
+ID do Paciente: 1271
+Nome: Ciclano Souza
+Chegada: 5624
+ID do Paciente: 1272
+Nome: João Souza
+Chegada: 5627
+ID do Paciente: 1273
+Nome: Lucas Santos
+Chegada: 5628
+ID do Paciente: 1274
+Nome: Chico Oliveira
+Chegada: 5633
+ID do Paciente: 1275
+Nome: Bia do Pão
+Chegada: 5643
+ID do Paciente: 1276
+Nome: Maria Silva
+Chegada: 5647
+ID do Paciente: 1277
+Nome: Fulano Santos
+Chegada: 5649
+ID do Paciente: 1278
+Nome: Pedro Souza
+Chegada: 5652
+ID do Paciente: 1279
+Nome: Carla do Pé Rachado
+Chegada: 5662
+ID do Paciente: 1280
+Nome: Chico Pinto
+Chegada: 5663
+ID do Paciente: 1281
+Nome: Tina Costa
+Chegada: 5670
+ID do Paciente: 1282
+Nome: Ciclano Souza
+Chegada: 5681
+ID do Paciente: 1283
+Nome: Ana Oliveira
+Chegada: 5682
+ID do Paciente: 1284
+Nome: João do Pé Rachado
+Chegada: 5686
+ID do Paciente: 1285
+Nome: Chico Pinto
+Chegada: 5687
+ID do Paciente: 1286
+Nome: Tina Silva
+Chegada: 5694
+ID do Paciente: 1287
+Nome: Tio Patinhas da Silva
+Chegada: 5697
+ID do Paciente: 1288
+Nome: João do Pé Rachado
+Chegada: 5702
+ID do Paciente: 1289
+Nome: Tina da Silva
+Chegada: 5703
+ID do Paciente: 1290
+Nome: Zé Silva
+Chegada: 5704
+ID do Paciente: 1291
+Nome: Zé Ninguém Souza
+Chegada: 5715
+ID do Paciente: 1292
+Nome: Pedro Souza
+Chegada: 5718
+ID do Paciente: 1293
+Nome: Tio Patinhas Souza
+Chegada: 5720
+ID do Paciente: 1294
+Nome: Lucas Nogueira
+Chegada: 5722
+ID do Paciente: 1295
+Nome: Ana Oliveira
+Chegada: 5724
+ID do Paciente: 1296
+Nome: Zé Ninguém Santos
+Chegada: 5728
+ID do Paciente: 1297
+Nome: Chico Costa
+Chegada: 5731
+ID do Paciente: 1298
+Nome: Pedro Souza
+Chegada: 5735
+ID do Paciente: 1299
+Nome: Ciclano da Silva Sauro
+Chegada: 5742
+ID do Paciente: 1300
+Nome: Zé Ninguém da Silva
+Chegada: 5746
+ID do Paciente: 1301
+Nome: Pedro do Pé Rachado
+Chegada: 5749
+ID do Paciente: 1302
+Nome: Beltrano Almeida
+Chegada: 5758
+ID do Paciente: 1303
+Nome: Ana da Silva Sauro
+Chegada: 5775
+ID do Paciente: 1304
+Nome: Bia Oliveira
+Chegada: 5778
+ID do Paciente: 1305
+Nome: Bia do Pé Rachado
+Chegada: 5780
+ID do Paciente: 1306
+Nome: Ana Pinto
+Chegada: 5782
+ID do Paciente: 1307
+Nome: Fulano do Pão
+Chegada: 5786
+ID do Paciente: 1308
+Nome: Beltrano do Pé Rachado
+Chegada: 5787
+ID do Paciente: 1309
+Nome: Fulano Santos
+Chegada: 5793
+ID do Paciente: 1310
+Nome: João Almeida
+Chegada: 5796
+ID do Paciente: 1311
+Nome: Beltrano Oliveira
+Chegada: 5797
+ID do Paciente: 1312
+Nome: Carla Oliveira
+Chegada: 5798
+ID do Paciente: 1313
+Nome: Lucas Costa
+Chegada: 5806
+ID do Paciente: 1314
+Nome: Bia do Pé Rachado
+Chegada: 5816
+ID do Paciente: 1315
+Nome: Bia do Pão
+Chegada: 5817
+ID do Paciente: 1316
+Nome: Ciclano Almeida
+Chegada: 5832
+ID do Paciente: 1317
+Nome: Pedro do Pé Rachado
+Chegada: 5836
+ID do Paciente: 1318
+Nome: Carla Pinto
+Chegada: 5837
+ID do Paciente: 1319
+Nome: Pedro Costa
+Chegada: 5843
+ID do Paciente: 1320
+Nome: Ana da Silva Sauro
+Chegada: 5845
+ID do Paciente: 1321
+Nome: Ciclano da Esquina
+Chegada: 5849
+ID do Paciente: 1322
+Nome: Bia Nogueira
+Chegada: 5851
+ID do Paciente: 1323
+Nome: Tio Patinhas do Pé Rachado
+Chegada: 5858
+ID do Paciente: 1324
+Nome: João Nogueira
+Chegada: 5867
+ID do Paciente: 1325
+Nome: Zé Ninguém da Silva
+Chegada: 5872
+ID do Paciente: 1326
+Nome: Fulano Silva
+Chegada: 5878
+ID do Paciente: 1327
+Nome: Fulano Silva
+Chegada: 5879
+ID do Paciente: 1328
+Nome: João do Pé Rachado
+Chegada: 5881
+ID do Paciente: 1329
+Nome: Bia Pinto
+Chegada: 5885
+ID do Paciente: 1330
+Nome: Pedro Souza
+Chegada: 5889
+ID do Paciente: 1331
+Nome: Beltrano Pinto
+Chegada: 5892
+ID do Paciente: 1332
+Nome: Maria Silva
+Chegada: 5899
+ID do Paciente: 1333
+Nome: João Oliveira
+Chegada: 5903
+ID do Paciente: 1334
+Nome: Chico Pinto
+Chegada: 5904
+ID do Paciente: 1335
+Nome: Maria Nogueira
+Chegada: 5908
+ID do Paciente: 1336
+Nome: Ana Almeida
+Chegada: 5909
+ID do Paciente: 1337
+Nome: Chico Pinto
+Chegada: 5914
+ID do Paciente: 1338
+Nome: Tina Santos
+Chegada: 5919
+ID do Paciente: 1339
+Nome: Lucas Pereira
+Chegada: 5922
+ID do Paciente: 1340
+Nome: Zé Ninguém da Esquina
+Chegada: 5924
+ID do Paciente: 1341
+Nome: Fulano Pinto
+Chegada: 5930
+ID do Paciente: 1342
+Nome: Fulano Pereira
+Chegada: 5932
+ID do Paciente: 1343
+Nome: Carla Costa
+Chegada: 5941
+ID do Paciente: 1344
+Nome: Ana Costa
+Chegada: 5943
+ID do Paciente: 1345
+Nome: Chico da Esquina
+Chegada: 5950
+ID do Paciente: 1346
+Nome: Ciclano Silva
+Chegada: 5962
+ID do Paciente: 1347
+Nome: Pedro da Esquina
+Chegada: 5978
+ID do Paciente: 1348
+Nome: Maria Almeida
+Chegada: 5984
+ID do Paciente: 1349
+Nome: Tio Patinhas da Esquina
+Chegada: 5995
+ID do Paciente: 1350
+Nome: Zé da Esquina
+Chegada: 6000
+ID do Paciente: 1351
+Nome: Tio Patinhas do Pé Rachado
+Chegada: 6001
+ID do Paciente: 1352
+Nome: Beltrano do Pé Rachado
+Chegada: 6003
+ID do Paciente: 1353
+Nome: Pedro Pereira
+Chegada: 6006
+ID do Paciente: 1354
+Nome: Zé Ninguém Oliveira
+Chegada: 6020
+ID do Paciente: 1355
+Nome: Carla do Pé Rachado
+Chegada: 6024
+ID do Paciente: 1356
+Nome: Lucas Souza
+Chegada: 6029
+ID do Paciente: 1357
+Nome: Pedro Pereira
+Chegada: 6030
+ID do Paciente: 1358
+Nome: Tina da Esquina
+Chegada: 6031
+ID do Paciente: 1359
+Nome: Tio Patinhas do Pão
+Chegada: 6032
+ID do Paciente: 1360
+Nome: Zé Ninguém Santos
+Chegada: 6039
+ID do Paciente: 1361
+Nome: Tio Patinhas da Silva Sauro
+Chegada: 6042
+ID do Paciente: 1362
+Nome: Beltrano da Silva Sauro
+Chegada: 6043
+ID do Paciente: 1363
+Nome: Tio Patinhas Oliveira
+Chegada: 6047
+ID do Paciente: 1364
+Nome: Tina Silva
+Chegada: 6049
+ID do Paciente: 1365
+Nome: João Santos
+Chegada: 6050
+ID do Paciente: 1366
+Nome: João do Pão
+Chegada: 6052
+ID do Paciente: 1367
+Nome: Bia do Pão
+Chegada: 6053
+ID do Paciente: 1368
+Nome: Bia Costa
+Chegada: 6054
+ID do Paciente: 1369
+Nome: Zé Santos
+Chegada: 6055
+ID do Paciente: 1370
+Nome: Beltrano Nogueira
+Chegada: 6059
+ID do Paciente: 1371
+Nome: Beltrano Oliveira
+Chegada: 6066
+ID do Paciente: 1372
+Nome: Tio Patinhas Santos
+Chegada: 6070
+ID do Paciente: 1373
+Nome: Ana Pereira
+Chegada: 6073
+ID do Paciente: 1374
+Nome: Maria Costa
+Chegada: 6079
+ID do Paciente: 1375
+Nome: Tio Patinhas da Esquina
+Chegada: 6084
+ID do Paciente: 1376
+Nome: Ana Costa
+Chegada: 6088
+ID do Paciente: 1377
+Nome: Ana Nogueira
+Chegada: 6089
+ID do Paciente: 1378
+Nome: Chico Pereira
+Chegada: 6093
+ID do Paciente: 1379
+Nome: Zé Ninguém Costa
+Chegada: 6095
+ID do Paciente: 1380
+Nome: Zé Santos
+Chegada: 6096
+ID do Paciente: 1381
+Nome: Ana da Silva Sauro
+Chegada: 6097
+ID do Paciente: 1382
+Nome: Tio Patinhas do Pé Rachado
+Chegada: 6101
+ID do Paciente: 1383
+Nome: Zé Ninguém do Pé Rachado
+Chegada: 6112
+ID do Paciente: 1384
+Nome: Zé Ninguém Costa
+Chegada: 6114
+ID do Paciente: 1385
+Nome: Tio Patinhas Souza
+Chegada: 6115
+ID do Paciente: 1386
+Nome: Zé da Silva Sauro
+Chegada: 6117
+ID do Paciente: 1387
+Nome: Fulano da Esquina
+Chegada: 6121
+ID do Paciente: 1388
+Nome: Zé Ninguém Silva
+Chegada: 6124
+ID do Paciente: 1389
+Nome: Zé Pereira
+Chegada: 6126
+ID do Paciente: 1390
+Nome: Zé Ninguém da Silva Sauro
+Chegada: 6127
+ID do Paciente: 1391
+Nome: Lucas do Pão
+Chegada: 6135
+ID do Paciente: 1392
+Nome: Zé do Pão
+Chegada: 6139
+ID do Paciente: 1393
+Nome: Chico Souza
+Chegada: 6165
+ID do Paciente: 1394
+Nome: Bia Nogueira
+Chegada: 6172
+ID do Paciente: 1395
+Nome: Fulano da Silva
+Chegada: 6176
+ID do Paciente: 1396
+Nome: Tina da Esquina
+Chegada: 6180
+ID do Paciente: 1397
+Nome: João da Silva Sauro
+Chegada: 6182
+ID do Paciente: 1398
+Nome: Zé Santos
+Chegada: 6190
+ID do Paciente: 1399
+Nome: Bia Nogueira
+Chegada: 6197
+ID do Paciente: 1400
+Nome: Chico Costa
+Chegada: 6198
+ID do Paciente: 1401
+Nome: Ana da Silva Sauro
+Chegada: 6200
+ID do Paciente: 1402
+Nome: Ana Oliveira
+Chegada: 6208
+ID do Paciente: 1403
+Nome: Ana da Silva
+Chegada: 6209
+ID do Paciente: 1404
+Nome: Lucas da Silva
+Chegada: 6211
+ID do Paciente: 1405
+Nome: Beltrano Costa
+Chegada: 6216
+ID do Paciente: 1406
+Nome: Ciclano Silva
+Chegada: 6217
+ID do Paciente: 1407
+Nome: Fulano do Pé Rachado
+Chegada: 6225
+ID do Paciente: 1408
+Nome: Ana da Silva Sauro
+Chegada: 6226
+ID do Paciente: 1409
+Nome: Ciclano Nogueira
+Chegada: 6243
+ID do Paciente: 1410
+Nome: Ciclano Costa
+Chegada: 6246
+ID do Paciente: 1411
+Nome: Maria da Silva
+Chegada: 6248
+ID do Paciente: 1412
+Nome: Zé Ninguém do Pão
+Chegada: 6251
+ID do Paciente: 1413
+Nome: Fulano Oliveira
+Chegada: 6253
+ID do Paciente: 1414
+Nome: Beltrano Silva
+Chegada: 6258
+ID do Paciente: 1415
+Nome: Beltrano Costa
+Chegada: 6259
+ID do Paciente: 1416
+Nome: Tio Patinhas do Pé Rachado
+Chegada: 6261
+ID do Paciente: 1417
+Nome: Zé Ninguém Silva
+Chegada: 6262
+ID do Paciente: 1418
+Nome: Zé Souza
+Chegada: 6264
+ID do Paciente: 1419
+Nome: Bia Costa
+Chegada: 6268
+ID do Paciente: 1420
+Nome: Bia da Silva Sauro
+Chegada: 6276
+ID do Paciente: 1421
+Nome: Bia Costa
+Chegada: 6277
+ID do Paciente: 1422
+Nome: Beltrano Oliveira
+Chegada: 6284
+ID do Paciente: 1423
+Nome: Pedro Oliveira
+Chegada: 6287
+ID do Paciente: 1424
+Nome: Bia da Silva
+Chegada: 6290
+ID do Paciente: 1425
+Nome: Chico Souza
+Chegada: 6293
+ID do Paciente: 1426
+Nome: Tina Costa
+Chegada: 6297
+ID do Paciente: 1427
+Nome: Maria do Pão
+Chegada: 6299
+ID do Paciente: 1428
+Nome: Beltrano Costa
+Chegada: 6301
+ID do Paciente: 1429
+Nome: Pedro Souza
+Chegada: 6309
+ID do Paciente: 1430
+Nome: Beltrano do Pão
+Chegada: 6311
+ID do Paciente: 1431
+Nome: Ana da Silva
+Chegada: 6312
+ID do Paciente: 1432
+Nome: João Nogueira
+Chegada: 6314
+ID do Paciente: 1433
+Nome: João Almeida
+Chegada: 6315
+ID do Paciente: 1434
+Nome: Ana Almeida
+Chegada: 6316
+ID do Paciente: 1435
+Nome: Lucas Souza
+Chegada: 6323
+ID do Paciente: 1436
+Nome: Bia do Pão
+Chegada: 6324
+ID do Paciente: 1437
+Nome: Maria Silva
+Chegada: 6325
+ID do Paciente: 1438
+Nome: Bia da Silva
+Chegada: 6326
+ID do Paciente: 1439
+Nome: Zé Ninguém Oliveira
+Chegada: 6332
+ID do Paciente: 1440
+Nome: Zé Ninguém Pinto
+Chegada: 6333
+ID do Paciente: 1441
+Nome: Ciclano da Silva Sauro
+Chegada: 6334
+ID do Paciente: 1442
+Nome: Bia Pinto
+Chegada: 6336
+ID do Paciente: 1443
+Nome: Ciclano Silva
+Chegada: 6343
+ID do Paciente: 1444
+Nome: João Pereira
+Chegada: 6351
+ID do Paciente: 1445
+Nome: João Oliveira
+Chegada: 6353
+ID do Paciente: 1446
+Nome: Maria Costa
+Chegada: 6356
+ID do Paciente: 1447
+Nome: Beltrano Pereira
+Chegada: 6361
+ID do Paciente: 1448
+Nome: Zé Silva
+Chegada: 6364
+ID do Paciente: 1449
+Nome: Bia Pereira
+Chegada: 6371
+ID do Paciente: 1450
+Nome: Fulano Pinto
+Chegada: 6378
+ID do Paciente: 1451
+Nome: Tina da Silva
+Chegada: 6382
+ID do Paciente: 1452
+Nome: Beltrano Santos
+Chegada: 6383
+ID do Paciente: 1453
+Nome: Lucas Silva
+Chegada: 6393
+ID do Paciente: 1454
+Nome: Zé Costa
+Chegada: 6394
+ID do Paciente: 1455
+Nome: João Santos
+Chegada: 6395
+ID do Paciente: 1456
+Nome: Carla Costa
+Chegada: 6397
+ID do Paciente: 1457
+Nome: Pedro Oliveira
+Chegada: 6399
+ID do Paciente: 1458
+Nome: Bia da Esquina
+Chegada: 6401
+ID do Paciente: 1459
+Nome: Zé Ninguém da Silva Sauro
+Chegada: 6403
+ID do Paciente: 1460
+Nome: Ciclano Almeida
+Chegada: 6410
+ID do Paciente: 1461
+Nome: Pedro Costa
+Chegada: 6413
+ID do Paciente: 1462
+Nome: Pedro Costa
+Chegada: 6416
+ID do Paciente: 1463
+Nome: João Costa
+Chegada: 6417
+ID do Paciente: 1464
+Nome: Ciclano Pinto
+Chegada: 6419
+ID do Paciente: 1465
+Nome: Ciclano da Silva
+Chegada: 6423
+ID do Paciente: 1466
+Nome: Zé da Esquina
+Chegada: 6428
+ID do Paciente: 1467
+Nome: Maria Pinto
+Chegada: 6431
+ID do Paciente: 1468
+Nome: Zé Ninguém da Esquina
+Chegada: 6437
+ID do Paciente: 1469
+Nome: Pedro do Pé Rachado
+Chegada: 6439
+ID do Paciente: 1470
+Nome: Bia do Pão
+Chegada: 6443
+ID do Paciente: 1471
+Nome: Tio Patinhas da Silva Sauro
+Chegada: 6445
+ID do Paciente: 1472
+Nome: Ana Santos
+Chegada: 6449
+ID do Paciente: 1473
+Nome: Tina Oliveira
+Chegada: 6450
+ID do Paciente: 1474
+Nome: João Pereira
+Chegada: 6453
+ID do Paciente: 1475
+Nome: Ciclano Oliveira
+Chegada: 6457
+ID do Paciente: 1476
+Nome: Chico da Esquina
+Chegada: 6461
+ID do Paciente: 1477
+Nome: Tio Patinhas do Pé Rachado
+Chegada: 6463
+ID do Paciente: 1478
+Nome: Ciclano da Silva Sauro
+Chegada: 6465
+ID do Paciente: 1479
+Nome: João Pinto
+Chegada: 6468
+ID do Paciente: 1480
+Nome: Ciclano da Silva Sauro
+Chegada: 6471
+ID do Paciente: 1481
+Nome: Ana do Pão
+Chegada: 6475
+ID do Paciente: 1482
+Nome: Pedro do Pé Rachado
+Chegada: 6476
+ID do Paciente: 1483
+Nome: Beltrano da Silva Sauro
+Chegada: 6483
+ID do Paciente: 1484
+Nome: Zé Silva
+Chegada: 6495
+ID do Paciente: 1485
+Nome: Tio Patinhas Almeida
+Chegada: 6499
+ID do Paciente: 1486
+Nome: Ciclano da Esquina
+Chegada: 6505
+ID do Paciente: 1487
+Nome: Ana Santos
+Chegada: 6515
+ID do Paciente: 1488
+Nome: Bia Almeida
+Chegada: 6521
+ID do Paciente: 1489
+Nome: Maria Costa
+Chegada: 6522
+ID do Paciente: 1490
+Nome: Tio Patinhas Silva
+Chegada: 6524
+ID do Paciente: 1491
+Nome: Pedro Pinto
+Chegada: 6536
+ID do Paciente: 1492
+Nome: Lucas do Pé Rachado
+Chegada: 6540
+ID do Paciente: 1493
+Nome: Fulano da Silva Sauro
+Chegada: 6552
+ID do Paciente: 1494
+Nome: Fulano Costa
+Chegada: 6554
+ID do Paciente: 1495
+Nome: Tio Patinhas Pinto
+Chegada: 6562
+ID do Paciente: 1496
+Nome: Beltrano Silva
+Chegada: 6578
+ID do Paciente: 1497
+Nome: Beltrano Nogueira
+Chegada: 6587
+ID do Paciente: 1498
+Nome: Ciclano Oliveira
+Chegada: 6588
+ID do Paciente: 1499
+Nome: Lucas Pereira
+Chegada: 6590
+ID do Paciente: 1500
+Nome: João Pereira
+Chegada: 6597
+ID do Paciente: 1501
+Nome: Fulano Oliveira
+Chegada: 6601
+ID do Paciente: 1502
+Nome: Tina do Pé Rachado
+Chegada: 6604
+ID do Paciente: 1503
+Nome: Zé Ninguém da Silva Sauro
+Chegada: 6605
+ID do Paciente: 1504
+Nome: João da Esquina
+Chegada: 6615
+ID do Paciente: 1505
+Nome: Maria do Pé Rachado
+Chegada: 6616
+ID do Paciente: 1506
+Nome: Ciclano do Pé Rachado
+Chegada: 6618
+ID do Paciente: 1507
+Nome: João da Silva
+Chegada: 6620
+ID do Paciente: 1508
+Nome: Lucas Nogueira
+Chegada: 6623
+ID do Paciente: 1509
+Nome: Maria Souza
+Chegada: 6630
+ID do Paciente: 1510
+Nome: Ana da Silva Sauro
+Chegada: 6641
+ID do Paciente: 1511
+Nome: João da Silva
+Chegada: 6642
+ID do Paciente: 1512
+Nome: Chico Pinto
+Chegada: 6646
+ID do Paciente: 1513
+Nome: Fulano da Silva
+Chegada: 6647
+ID do Paciente: 1514
+Nome: Ana Pereira
+Chegada: 6650
+ID do Paciente: 1515
+Nome: Zé Ninguém Almeida
+Chegada: 6656
+ID do Paciente: 1516
+Nome: Ana do Pé Rachado
+Chegada: 6661
+ID do Paciente: 1517
+Nome: João da Esquina
+Chegada: 6666
+ID do Paciente: 1518
+Nome: Pedro da Silva
+Chegada: 6672
+ID do Paciente: 1519
+Nome: Zé Ninguém Nogueira
+Chegada: 6681
+ID do Paciente: 1520
+Nome: Fulano do Pão
+Chegada: 6701
+ID do Paciente: 1521
+Nome: Tina Pereira
+Chegada: 6702
+ID do Paciente: 1522
+Nome: Maria Souza
+Chegada: 6705
+ID do Paciente: 1523
+Nome: Fulano da Esquina
+Chegada: 6713
+ID do Paciente: 1524
+Nome: Tina Nogueira
+Chegada: 6722
+ID do Paciente: 1525
+Nome: Lucas Oliveira
+Chegada: 6726
+ID do Paciente: 1526
+Nome: Beltrano da Esquina
+Chegada: 6734
+ID do Paciente: 1527
+Nome: Fulano Nogueira
+Chegada: 6736
+ID do Paciente: 1528
+Nome: Lucas Almeida
+Chegada: 6746
+ID do Paciente: 1529
+Nome: Bia Nogueira
+Chegada: 6747
+ID do Paciente: 1530
+Nome: Ciclano Pereira
+Chegada: 6750
+ID do Paciente: 1531
+Nome: Tio Patinhas do Pão
+Chegada: 6755
+ID do Paciente: 1532
+Nome: Bia Pinto
+Chegada: 6759
+ID do Paciente: 1533
+Nome: Carla do Pão
+Chegada: 6763
+ID do Paciente: 1534
+Nome: Lucas da Silva Sauro
+Chegada: 6769
+ID do Paciente: 1535
+Nome: Pedro Almeida
+Chegada: 6771
+ID do Paciente: 1536
+Nome: Chico Oliveira
+Chegada: 6775
+ID do Paciente: 1537
+Nome: Pedro da Silva Sauro
+Chegada: 6782
+ID do Paciente: 1538
+Nome: Fulano do Pão
+Chegada: 6783
+ID do Paciente: 1539
+Nome: Fulano Pereira
+Chegada: 6784
+ID do Paciente: 1540
+Nome: Chico Santos
+Chegada: 6785
+ID do Paciente: 1541
+Nome: Zé da Esquina
+Chegada: 6792
+ID do Paciente: 1542
+Nome: Zé Ninguém da Silva Sauro
+Chegada: 6796
+ID do Paciente: 1543
+Nome: Chico do Pão
+Chegada: 6799
+ID do Paciente: 1544
+Nome: João Souza
+Chegada: 6800
+ID do Paciente: 1545
+Nome: Tina Nogueira
+Chegada: 6808
+ID do Paciente: 1546
+Nome: Tina do Pé Rachado
+Chegada: 6809
+ID do Paciente: 1547
+Nome: Ciclano Costa
+Chegada: 6810
+ID do Paciente: 1548
+Nome: Lucas do Pé Rachado
+Chegada: 6814
+ID do Paciente: 1549
+Nome: Maria Nogueira
+Chegada: 6816
+ID do Paciente: 1550
+Nome: Pedro Pereira
+Chegada: 6820
+ID do Paciente: 1551
+Nome: Zé Ninguém Pereira
+Chegada: 6821
+ID do Paciente: 1552
+Nome: Carla da Esquina
+Chegada: 6839
+ID do Paciente: 1553
+Nome: Carla Silva
+Chegada: 6842
+ID do Paciente: 1554
+Nome: Tio Patinhas do Pé Rachado
+Chegada: 6843
+ID do Paciente: 1555
+Nome: Pedro do Pé Rachado
+Chegada: 6846
+ID do Paciente: 1556
+Nome: Beltrano Almeida
+Chegada: 6852
+ID do Paciente: 1557
+Nome: Carla do Pão
+Chegada: 6855
+ID do Paciente: 1558
+Nome: Lucas Oliveira
+Chegada: 6874
+ID do Paciente: 1559
+Nome: Zé Almeida
+Chegada: 6876
+ID do Paciente: 1560
+Nome: Zé Ninguém do Pé Rachado
+Chegada: 6881
+ID do Paciente: 1561
+Nome: Fulano Costa
+Chegada: 6888
+ID do Paciente: 1562
+Nome: Beltrano do Pão
+Chegada: 6893
+ID do Paciente: 1563
+Nome: Zé Ninguém da Esquina
+Chegada: 6896
+ID do Paciente: 1564
+Nome: Chico da Esquina
+Chegada: 6906
+ID do Paciente: 1565
+Nome: Chico Costa
+Chegada: 6909
+ID do Paciente: 1566
+Nome: Ana do Pé Rachado
+Chegada: 6912
+ID do Paciente: 1567
+Nome: Bia Nogueira
+Chegada: 6915
+ID do Paciente: 1568
+Nome: Beltrano Nogueira
+Chegada: 6918
+ID do Paciente: 1569
+Nome: Fulano do Pé Rachado
+Chegada: 6922
+ID do Paciente: 1570
+Nome: Bia Santos
+Chegada: 6930
+ID do Paciente: 1571
+Nome: Tina Nogueira
+Chegada: 6935
+ID do Paciente: 1572
+Nome: Tina Nogueira
+Chegada: 6938
+ID do Paciente: 1573
+Nome: Maria do Pé Rachado
+Chegada: 6940
+ID do Paciente: 1574
+Nome: Zé Ninguém da Silva
+Chegada: 6941
+ID do Paciente: 1575
+Nome: Zé Costa
+Chegada: 6950
+ID do Paciente: 1576
+Nome: Carla Silva
+Chegada: 6953
+ID do Paciente: 1577
+Nome: Ana Nogueira
+Chegada: 6959
+ID do Paciente: 1578
+Nome: Pedro Almeida
+Chegada: 6961
+ID do Paciente: 1579
+Nome: Carla Nogueira
+Chegada: 6967
+ID do Paciente: 1580
+Nome: Chico do Pé Rachado
+Chegada: 6969
+ID do Paciente: 1581
+Nome: Lucas da Silva
+Chegada: 6971
+ID do Paciente: 1582
+Nome: Fulano Souza
+Chegada: 6972
+ID do Paciente: 1583
+Nome: Tio Patinhas Silva
+Chegada: 6978
+ID do Paciente: 1584
+Nome: Maria da Esquina
+Chegada: 6981
+ID do Paciente: 1585
+Nome: Maria Pereira
+Chegada: 6986
+ID do Paciente: 1586
+Nome: Ciclano da Esquina
+Chegada: 6987
+ID do Paciente: 1587
+Nome: Tina da Silva
+Chegada: 6990
+ID do Paciente: 1588
+Nome: Carla Silva
+Chegada: 6995
+ID do Paciente: 1589
+Nome: Ciclano Silva
+Chegada: 7006
+ID do Paciente: 1590
+Nome: João da Esquina
+Chegada: 7019
+ID do Paciente: 1591
+Nome: Bia da Silva
+Chegada: 7024
+ID do Paciente: 1592
+Nome: Maria Santos
+Chegada: 7027
+ID do Paciente: 1593
+Nome: Bia do Pé Rachado
+Chegada: 7040
+ID do Paciente: 1594
+Nome: Fulano Nogueira
+Chegada: 7041
+ID do Paciente: 1595
+Nome: Bia Costa
+Chegada: 7043
+ID do Paciente: 1596
+Nome: Beltrano Oliveira
+Chegada: 7049
+ID do Paciente: 1597
+Nome: Ana Costa
+Chegada: 7050
+ID do Paciente: 1598
+Nome: Beltrano Nogueira
+Chegada: 7055
+ID do Paciente: 1599
+Nome: Tina do Pão
+Chegada: 7071
+ID do Paciente: 1600
+Nome: Tina Pereira
+Chegada: 7073
+ID do Paciente: 1601
+Nome: Lucas Pereira
+Chegada: 7076
+ID do Paciente: 1602
+Nome: Beltrano da Silva
+Chegada: 7082
+ID do Paciente: 1603
+Nome: Zé Pereira
+Chegada: 7092
+ID do Paciente: 1604
+Nome: Fulano Silva
+Chegada: 7096
+ID do Paciente: 1605
+Nome: Maria Almeida
+Chegada: 7099
+ID do Paciente: 1606
+Nome: Tio Patinhas Oliveira
+Chegada: 7113
+ID do Paciente: 1607
+Nome: Bia Costa
+Chegada: 7117
+ID do Paciente: 1608
+Nome: Ana Oliveira
+Chegada: 7124
+ID do Paciente: 1609
+Nome: Chico Pinto
+Chegada: 7125
+ID do Paciente: 1610
+Nome: Tina Souza
+Chegada: 7133
+ID do Paciente: 1611
+Nome: Bia Silva
+Chegada: 7134
+ID do Paciente: 1612
+Nome: Tina Costa
+Chegada: 7141
+ID do Paciente: 1613
+Nome: Carla da Esquina
+Chegada: 7145
+ID do Paciente: 1614
+Nome: Chico Pereira
+Chegada: 7146
+ID do Paciente: 1615
+Nome: Zé Pinto
+Chegada: 7160
+ID do Paciente: 1616
+Nome: Maria Souza
+Chegada: 7163
+ID do Paciente: 1617
+Nome: Maria da Esquina
+Chegada: 7172
+ID do Paciente: 1618
+Nome: Tina Souza
+Chegada: 7183
+ID do Paciente: 1619
+Nome: Zé Ninguém Costa
+Chegada: 7184
+ID do Paciente: 1620
+Nome: Zé Ninguém da Silva Sauro
+Chegada: 7185
+ID do Paciente: 1621
+Nome: Lucas Pereira
+Chegada: 7186
+ID do Paciente: 1622
+Nome: Beltrano Costa
+Chegada: 7191
+ID do Paciente: 1623
+Nome: Beltrano Costa
+Chegada: 7200
+ID do Paciente: 1624
+Nome: Lucas Nogueira
+Chegada: 7203
+ID do Paciente: 1625
+Nome: Zé Ninguém da Esquina
+Chegada: 7210
+ID do Paciente: 1626
+Nome: Ciclano Pereira
+Chegada: 7218
+ID do Paciente: 1627
+Nome: Beltrano Souza
+Chegada: 7222
+ID do Paciente: 1628
+Nome: João Souza
+Chegada: 7224
+ID do Paciente: 1629
+Nome: Zé Nogueira
+Chegada: 7229
+ID do Paciente: 1630
+Nome: Ciclano Souza
+Chegada: 7232
+ID do Paciente: 1631
+Nome: Pedro do Pé Rachado
+Chegada: 7235
+ID do Paciente: 1632
+Nome: João da Silva
+Chegada: 7244
+ID do Paciente: 1633
+Nome: Zé Almeida
+Chegada: 7246
+ID do Paciente: 1634
+Nome: Pedro Almeida
+Chegada: 7248
+ID do Paciente: 1635
+Nome: Fulano da Esquina
+Chegada: 7249
+ID do Paciente: 1636
+Nome: Zé Pinto
+Chegada: 7253
+ID do Paciente: 1637
+Nome: Fulano Pinto
+Chegada: 7259
+ID do Paciente: 1638
+Nome: Tina Pinto
+Chegada: 7260
+ID do Paciente: 1639
+Nome: Pedro da Silva Sauro
+Chegada: 7263
+ID do Paciente: 1640
+Nome: Maria Costa
+Chegada: 7266
+ID do Paciente: 1641
+Nome: Maria Oliveira
+Chegada: 7269
+ID do Paciente: 1642
+Nome: Ana Nogueira
+Chegada: 7275
+ID do Paciente: 1643
+Nome: Ana Pereira
+Chegada: 7279
+ID do Paciente: 1644
+Nome: João Souza
+Chegada: 7287
+ID do Paciente: 1645
+Nome: Ciclano do Pé Rachado
+Chegada: 7289
+ID do Paciente: 1646
+Nome: Chico Souza
+Chegada: 7295
+ID do Paciente: 1647
+Nome: Chico da Silva
+Chegada: 7297
+ID do Paciente: 1648
+Nome: Pedro da Esquina
+Chegada: 7308
+ID do Paciente: 1649
+Nome: Tina Pinto
+Chegada: 7311
+ID do Paciente: 1650
+Nome: João Souza
+Chegada: 7314
+ID do Paciente: 1651
+Nome: Pedro do Pé Rachado
+Chegada: 7316
+ID do Paciente: 1652
+Nome: Bia Silva
+Chegada: 7328
+ID do Paciente: 1653
+Nome: Ana Costa
+Chegada: 7341
+ID do Paciente: 1654
+Nome: Zé Ninguém Pinto
+Chegada: 7342
+ID do Paciente: 1655
+Nome: Carla Oliveira
+Chegada: 7343
+ID do Paciente: 1656
+Nome: Maria Souza
+Chegada: 7350
+ID do Paciente: 1657
+Nome: João Pereira
+Chegada: 7357
+ID do Paciente: 1658
+Nome: Lucas Silva
+Chegada: 7365
+ID do Paciente: 1659
+Nome: Lucas Pereira
+Chegada: 7366
+ID do Paciente: 1660
+Nome: Carla Nogueira
+Chegada: 7367
+ID do Paciente: 1661
+Nome: Tina Nogueira
+Chegada: 7372
+ID do Paciente: 1662
+Nome: Maria Costa
+Chegada: 7379
+ID do Paciente: 1663
+Nome: Lucas Santos
+Chegada: 7388
+ID do Paciente: 1664
+Nome: Zé Oliveira
+Chegada: 7396
+ID do Paciente: 1665
+Nome: Bia da Silva Sauro
+Chegada: 7398
+ID do Paciente: 1666
+Nome: Beltrano Souza
+Chegada: 7403
+ID do Paciente: 1667
+Nome: Carla do Pé Rachado
+Chegada: 7408
+ID do Paciente: 1668
+Nome: Carla da Silva
+Chegada: 7419
+ID do Paciente: 1669
+Nome: Ana Pinto
+Chegada: 7427
+ID do Paciente: 1670
+Nome: Beltrano da Esquina
+Chegada: 7429
+ID do Paciente: 1671
+Nome: Beltrano do Pão
+Chegada: 7431
+ID do Paciente: 1672
+Nome: Beltrano Silva
+Chegada: 7433
+ID do Paciente: 1673
+Nome: Ciclano Nogueira
+Chegada: 7455
+ID do Paciente: 1674
+Nome: Pedro Souza
+Chegada: 7460
+ID do Paciente: 1675
+Nome: Carla Pinto
+Chegada: 7468
+ID do Paciente: 1676
+Nome: Ciclano Silva
+Chegada: 7472
+ID do Paciente: 1677
+Nome: Bia da Esquina
+Chegada: 7476
+ID do Paciente: 1678
+Nome: João Souza
+Chegada: 7483
+ID do Paciente: 1679
+Nome: Fulano Pereira
+Chegada: 7485
+ID do Paciente: 1680
+Nome: Ciclano Pereira
+Chegada: 7495
+ID do Paciente: 1681
+Nome: Chico Silva
+Chegada: 7508
+ID do Paciente: 1682
+Nome: Lucas Costa
+Chegada: 7518
+ID do Paciente: 1683
+Nome: Carla Souza
+Chegada: 7522
+ID do Paciente: 1684
+Nome: Chico Nogueira
+Chegada: 7532
+ID do Paciente: 1685
+Nome: Lucas Souza
+Chegada: 7540
+ID do Paciente: 1686
+Nome: Tina Pinto
+Chegada: 7552
+ID do Paciente: 1687
+Nome: Fulano Almeida
+Chegada: 7554
+ID do Paciente: 1688
+Nome: Ciclano Silva
+Chegada: 7560
+ID do Paciente: 1689
+Nome: Tina Pereira
+Chegada: 7564
+ID do Paciente: 1690
+Nome: João Costa
+Chegada: 7568
+ID do Paciente: 1691
+Nome: João Souza
+Chegada: 7570
+ID do Paciente: 1692
+Nome: Pedro Nogueira
+Chegada: 7572
+ID do Paciente: 1693
+Nome: Zé Silva
+Chegada: 7575
+ID do Paciente: 1694
+Nome: Tina Oliveira
+Chegada: 7582
+ID do Paciente: 1695
+Nome: Fulano da Silva
+Chegada: 7583
+ID do Paciente: 1696
+Nome: Maria Almeida
+Chegada: 7590
+ID do Paciente: 1697
+Nome: Lucas Silva
+Chegada: 7593
+ID do Paciente: 1698
+Nome: Maria Oliveira
+Chegada: 7594
+ID do Paciente: 1699
+Nome: Fulano do Pão
+Chegada: 7596
+ID do Paciente: 1700
+Nome: Carla da Silva
+Chegada: 7600
+ID do Paciente: 1701
+Nome: Ciclano Costa
+Chegada: 7603
+ID do Paciente: 1702
+Nome: Ciclano da Silva
+Chegada: 7607
+ID do Paciente: 1703
+Nome: Maria da Esquina
+Chegada: 7633
+ID do Paciente: 1704
+Nome: João da Silva Sauro
+Chegada: 7634
+ID do Paciente: 1705
+Nome: Zé da Silva Sauro
+Chegada: 7635
+ID do Paciente: 1706
+Nome: Zé Ninguém Oliveira
+Chegada: 7641
+ID do Paciente: 1707
+Nome: Pedro Silva
+Chegada: 7642
+ID do Paciente: 1708
+Nome: Fulano do Pão
+Chegada: 7646
+ID do Paciente: 1709
+Nome: Pedro do Pão
+Chegada: 7653
+ID do Paciente: 1710
+Nome: Lucas do Pão
+Chegada: 7654
+ID do Paciente: 1711
+Nome: Zé Ninguém Almeida
+Chegada: 7656
+ID do Paciente: 1712
+Nome: Ana da Esquina
+Chegada: 7662
+ID do Paciente: 1713
+Nome: Tio Patinhas da Silva
+Chegada: 7664
+ID do Paciente: 1714
+Nome: Ana da Silva Sauro
+Chegada: 7665
+ID do Paciente: 1715
+Nome: Zé Ninguém da Silva Sauro
+Chegada: 7668
+ID do Paciente: 1716
+Nome: Chico da Silva Sauro
+Chegada: 7675
+ID do Paciente: 1717
+Nome: Zé do Pé Rachado
+Chegada: 7676
+ID do Paciente: 1718
+Nome: Lucas da Esquina
+Chegada: 7685
+ID do Paciente: 1719
+Nome: João Almeida
+Chegada: 7693
+ID do Paciente: 1720
+Nome: Lucas Oliveira
+Chegada: 7703
+ID do Paciente: 1721
+Nome: Zé Ninguém do Pé Rachado
+Chegada: 7710
+ID do Paciente: 1722
+Nome: Tio Patinhas Santos
+Chegada: 7715
+ID do Paciente: 1723
+Nome: Ana Nogueira
+Chegada: 7717
+ID do Paciente: 1724
+Nome: Carla Almeida
+Chegada: 7723
+ID do Paciente: 1725
+Nome: João Costa
+Chegada: 7726
+ID do Paciente: 1726
+Nome: João Santos
+Chegada: 7731
+ID do Paciente: 1727
+Nome: Ana da Esquina
+Chegada: 7744
+ID do Paciente: 1728
+Nome: Lucas Silva
+Chegada: 7765
+ID do Paciente: 1729
+Nome: Tina Costa
+Chegada: 7769
+ID do Paciente: 1730
+Nome: Ciclano Costa
+Chegada: 7772
+ID do Paciente: 1731
+Nome: João do Pé Rachado
+Chegada: 7777
+ID do Paciente: 1732
+Nome: Carla Santos
+Chegada: 7780
+ID do Paciente: 1733
+Nome: Zé Almeida
+Chegada: 7783
+ID do Paciente: 1734
+Nome: Carla da Silva
+Chegada: 7785
+ID do Paciente: 1735
+Nome: Beltrano Souza
+Chegada: 7786
+ID do Paciente: 1736
+Nome: Tina da Silva
+Chegada: 7789
+ID do Paciente: 1737
+Nome: Tio Patinhas da Silva
+Chegada: 7791
+ID do Paciente: 1738
+Nome: Lucas Santos
+Chegada: 7792
+ID do Paciente: 1739
+Nome: Zé do Pé Rachado
+Chegada: 7803
+ID do Paciente: 1740
+Nome: Chico da Esquina
+Chegada: 7815
+ID do Paciente: 1741
+Nome: Tio Patinhas Pinto
+Chegada: 7816
+ID do Paciente: 1742
+Nome: Maria Pinto
+Chegada: 7820
+ID do Paciente: 1743
+Nome: João Santos
+Chegada: 7823
+ID do Paciente: 1744
+Nome: Ciclano da Silva Sauro
+Chegada: 7825
+ID do Paciente: 1745
+Nome: Chico da Silva
+Chegada: 7829
+ID do Paciente: 1746
+Nome: Bia Nogueira
+Chegada: 7831
+ID do Paciente: 1747
+Nome: Fulano Almeida
+Chegada: 7836
+ID do Paciente: 1748
+Nome: Lucas Silva
+Chegada: 7837
+ID do Paciente: 1749
+Nome: Ciclano Santos
+Chegada: 7843
+ID do Paciente: 1750
+Nome: Ciclano Almeida
+Chegada: 7847
+ID do Paciente: 1751
+Nome: Bia Nogueira
+Chegada: 7854
+ID do Paciente: 1752
+Nome: Chico da Silva Sauro
+Chegada: 7856
+ID do Paciente: 1753
+Nome: Carla da Esquina
+Chegada: 7857
+ID do Paciente: 1754
+Nome: Zé Oliveira
+Chegada: 7858
+ID do Paciente: 1755
+Nome: Zé Souza
+Chegada: 7862
+ID do Paciente: 1756
+Nome: Pedro da Silva Sauro
+Chegada: 7873
+ID do Paciente: 1757
+Nome: Ciclano da Esquina
+Chegada: 7890
+ID do Paciente: 1758
+Nome: Beltrano Silva
+Chegada: 7895
+ID do Paciente: 1759
+Nome: Tio Patinhas Nogueira
+Chegada: 7906
+ID do Paciente: 1760
+Nome: Pedro Silva
+Chegada: 7908
+ID do Paciente: 1761
+Nome: Bia Pereira
+Chegada: 7909
+ID do Paciente: 1762
+Nome: Tio Patinhas Souza
+Chegada: 7911
+ID do Paciente: 1763
+Nome: Ciclano da Esquina
+Chegada: 7913
+ID do Paciente: 1764
+Nome: Fulano do Pé Rachado
+Chegada: 7920
+ID do Paciente: 1765
+Nome: Fulano da Esquina
+Chegada: 7930
+ID do Paciente: 1766
+Nome: Fulano da Silva Sauro
+Chegada: 7937
+ID do Paciente: 1767
+Nome: Ciclano do Pé Rachado
+Chegada: 7939
+ID do Paciente: 1768
+Nome: Chico Costa
+Chegada: 7945
+ID do Paciente: 1769
+Nome: Ciclano Silva
+Chegada: 7951
+ID do Paciente: 1770
+Nome: Bia do Pão
+Chegada: 7953
+ID do Paciente: 1771
+Nome: Zé Souza
+Chegada: 7954
+ID do Paciente: 1772
+Nome: Maria Costa
+Chegada: 7963
+ID do Paciente: 1773
+Nome: Tina Silva
+Chegada: 7964
+ID do Paciente: 1774
+Nome: Zé Ninguém Pereira
+Chegada: 7968
+ID do Paciente: 1775
+Nome: Chico Pereira
+Chegada: 7969
+ID do Paciente: 1776
+Nome: Tio Patinhas Silva
+Chegada: 7971
+ID do Paciente: 1777
+Nome: Beltrano do Pé Rachado
+Chegada: 7974
+ID do Paciente: 1778
+Nome: Lucas da Silva
+Chegada: 7983
+ID do Paciente: 1779
+Nome: Maria Santos
+Chegada: 7986
+ID do Paciente: 1780
+Nome: Ciclano da Silva Sauro
+Chegada: 7998
+ID do Paciente: 1781
+Nome: Tina Almeida
+Chegada: 8004
+ID do Paciente: 1782
+Nome: Pedro Nogueira
+Chegada: 8005
+ID do Paciente: 1783
+Nome: Zé Pinto
+Chegada: 8007
+ID do Paciente: 1784
+Nome: Chico Pereira
+Chegada: 8013
+ID do Paciente: 1785
+Nome: Bia da Esquina
+Chegada: 8015
+ID do Paciente: 1786
+Nome: Fulano Nogueira
+Chegada: 8019
+ID do Paciente: 1787
+Nome: Carla Nogueira
+Chegada: 8020
+ID do Paciente: 1788
+Nome: Tio Patinhas do Pé Rachado
+Chegada: 8023
+ID do Paciente: 1789
+Nome: Chico Almeida
+Chegada: 8028
+ID do Paciente: 1790
+Nome: Zé Ninguém Nogueira
+Chegada: 8032
+ID do Paciente: 1791
+Nome: Maria Costa
+Chegada: 8033
+ID do Paciente: 1792
+Nome: Beltrano Pinto
+Chegada: 8037
+ID do Paciente: 1793
+Nome: Maria do Pé Rachado
+Chegada: 8042
+ID do Paciente: 1794
+Nome: Maria Santos
+Chegada: 8047
+ID do Paciente: 1795
+Nome: João da Silva Sauro
+Chegada: 8051
+ID do Paciente: 1796
+Nome: Zé do Pão
+Chegada: 8055
+ID do Paciente: 1797
+Nome: Chico Costa
+Chegada: 8064
+ID do Paciente: 1798
+Nome: Ana Almeida
+Chegada: 8071
+ID do Paciente: 1799
+Nome: Tina Santos
+Chegada: 8072
+ID do Paciente: 1800
+Nome: Pedro Pereira
+Chegada: 8074
+ID do Paciente: 1801
+Nome: Maria da Silva
+Chegada: 8087
+ID do Paciente: 1802
+Nome: Fulano Santos
+Chegada: 8090
+ID do Paciente: 1803
+Nome: Chico Nogueira
+Chegada: 8099
+ID do Paciente: 1804
+Nome: Tina do Pão
+Chegada: 8101
+ID do Paciente: 1805
+Nome: Beltrano Almeida
+Chegada: 8118
+ID do Paciente: 1806
+Nome: Lucas Pereira
+Chegada: 8123
+ID do Paciente: 1807
+Nome: Chico Pinto
+Chegada: 8126
+ID do Paciente: 1808
+Nome: Ciclano da Esquina
+Chegada: 8129
+ID do Paciente: 1809
+Nome: Zé Souza
+Chegada: 8132
+ID do Paciente: 1810
+Nome: Fulano do Pé Rachado
+Chegada: 8138
+ID do Paciente: 1811
+Nome: João Almeida
+Chegada: 8139
+ID do Paciente: 1812
+Nome: Ana Souza
+Chegada: 8146
+ID do Paciente: 1813
+Nome: Ana da Silva
+Chegada: 8152
+ID do Paciente: 1814
+Nome: Pedro Santos
+Chegada: 8153
+ID do Paciente: 1815
+Nome: Tio Patinhas da Silva
+Chegada: 8155
+ID do Paciente: 1816
+Nome: Maria Pereira
+Chegada: 8156
+ID do Paciente: 1817
+Nome: Fulano da Silva
+Chegada: 8162
+ID do Paciente: 1818
+Nome: Zé Nogueira
+Chegada: 8171
+ID do Paciente: 1819
+Nome: Beltrano Silva
+Chegada: 8185
+ID do Paciente: 1820
+Nome: Fulano Pereira
+Chegada: 8191
+ID do Paciente: 1821
+Nome: Carla Almeida
+Chegada: 8206
+ID do Paciente: 1822
+Nome: Ciclano do Pé Rachado
+Chegada: 8211
+ID do Paciente: 1823
+Nome: Fulano Almeida
+Chegada: 8212
+ID do Paciente: 1824
+Nome: Fulano Pereira
+Chegada: 8213
+ID do Paciente: 1825
+Nome: Zé da Esquina
+Chegada: 8227
+ID do Paciente: 1826
+Nome: Beltrano da Silva
+Chegada: 8234
+ID do Paciente: 1827
+Nome: Ana Almeida
+Chegada: 8236
+ID do Paciente: 1828
+Nome: Ciclano do Pão
+Chegada: 8253
+ID do Paciente: 1829
+Nome: Lucas do Pé Rachado
+Chegada: 8254
+ID do Paciente: 1830
+Nome: Tina Nogueira
+Chegada: 8256
+ID do Paciente: 1831
+Nome: Lucas Souza
+Chegada: 8265
+ID do Paciente: 1832
+Nome: Zé da Silva
+Chegada: 8273
+ID do Paciente: 1833
+Nome: Beltrano Nogueira
+Chegada: 8274
+ID do Paciente: 1834
+Nome: Maria Pinto
+Chegada: 8277
+ID do Paciente: 1835
+Nome: Carla Costa
+Chegada: 8285
+ID do Paciente: 1836
+Nome: Fulano Pinto
+Chegada: 8293
+ID do Paciente: 1837
+Nome: Tio Patinhas da Silva
+Chegada: 8297
+ID do Paciente: 1838
+Nome: Zé Ninguém Costa
+Chegada: 8305
+ID do Paciente: 1839
+Nome: Ciclano Souza
+Chegada: 8315
+ID do Paciente: 1840
+Nome: Zé Ninguém do Pão
+Chegada: 8322
+ID do Paciente: 1841
+Nome: Carla Pinto
+Chegada: 8331
+ID do Paciente: 1842
+Nome: João Souza
+Chegada: 8335
+ID do Paciente: 1843
+Nome: Ciclano Pereira
+Chegada: 8336
+ID do Paciente: 1844
+Nome: Carla da Silva Sauro
+Chegada: 8340
+ID do Paciente: 1845
+Nome: João Almeida
+Chegada: 8342
+ID do Paciente: 1846
+Nome: Bia da Silva
+Chegada: 8345
+ID do Paciente: 1847
+Nome: Bia Oliveira
+Chegada: 8356
+ID do Paciente: 1848
+Nome: Zé do Pão
+Chegada: 8357
+ID do Paciente: 1849
+Nome: Bia da Esquina
+Chegada: 8358
+ID do Paciente: 1850
+Nome: Carla do Pé Rachado
+Chegada: 8364
+ID do Paciente: 1851
+Nome: Carla Nogueira
+Chegada: 8365
+ID do Paciente: 1852
+Nome: Fulano Santos
+Chegada: 8370
+ID do Paciente: 1853
+Nome: Tina Almeida
+Chegada: 8375
+ID do Paciente: 1854
+Nome: Ana Pinto
+Chegada: 8389
+ID do Paciente: 1855
+Nome: Carla Pinto
+Chegada: 8390
+ID do Paciente: 1856
+Nome: Chico Costa
+Chegada: 8393
+ID do Paciente: 1857
+Nome: Carla da Silva
+Chegada: 8394
+ID do Paciente: 1858
+Nome: Fulano Nogueira
+Chegada: 8402
+ID do Paciente: 1859
+Nome: Beltrano Pinto
+Chegada: 8416
+ID do Paciente: 1860
+Nome: Carla Pinto
+Chegada: 8417
+ID do Paciente: 1861
+Nome: Lucas Nogueira
+Chegada: 8438
+ID do Paciente: 1862
+Nome: Ana Almeida
+Chegada: 8446
+ID do Paciente: 1863
+Nome: Ana Silva
+Chegada: 8456
+ID do Paciente: 1864
+Nome: João Santos
+Chegada: 8460
+ID do Paciente: 1865
+Nome: Lucas da Silva
+Chegada: 8463
+ID do Paciente: 1866
+Nome: João Silva
+Chegada: 8464
+ID do Paciente: 1867
+Nome: Ciclano Silva
+Chegada: 8468
+ID do Paciente: 1868
+Nome: Chico Silva
+Chegada: 8470
+ID do Paciente: 1869
+Nome: Bia Souza
+Chegada: 8475
+ID do Paciente: 1870
+Nome: Chico Nogueira
+Chegada: 8480
+ID do Paciente: 1871
+Nome: Carla Souza
+Chegada: 8485
+ID do Paciente: 1872
+Nome: João da Esquina
+Chegada: 8487
+ID do Paciente: 1873
+Nome: Beltrano da Esquina
+Chegada: 8490
+ID do Paciente: 1874
+Nome: Zé Ninguém da Silva
+Chegada: 8497
+ID do Paciente: 1875
+Nome: Tio Patinhas do Pão
+Chegada: 8499
+ID do Paciente: 1876
+Nome: Maria da Silva
+Chegada: 8503
+ID do Paciente: 1877
+Nome: Carla Costa
+Chegada: 8505
+ID do Paciente: 1878
+Nome: Ana do Pé Rachado
+Chegada: 8519
+ID do Paciente: 1879
+Nome: Pedro Nogueira
+Chegada: 8524
+ID do Paciente: 1880
+Nome: Ana da Esquina
+Chegada: 8530
+ID do Paciente: 1881
+Nome: Pedro Pinto
+Chegada: 8533
+ID do Paciente: 1882
+Nome: Lucas Costa
+Chegada: 8534
+ID do Paciente: 1883
+Nome: Zé Oliveira
+Chegada: 8548
+ID do Paciente: 1884
+Nome: João Souza
+Chegada: 8550
+ID do Paciente: 1885
+Nome: Beltrano da Silva Sauro
+Chegada: 8551
+ID do Paciente: 1886
+Nome: Chico Oliveira
+Chegada: 8558
+ID do Paciente: 1887
+Nome: Zé Ninguém Souza
+Chegada: 8561
+ID do Paciente: 1888
+Nome: Zé Ninguém Costa
+Chegada: 8566
+ID do Paciente: 1889
+Nome: Zé Ninguém do Pé Rachado
+Chegada: 8569
+ID do Paciente: 1890
+Nome: Tina do Pé Rachado
+Chegada: 8572
+ID do Paciente: 1891
+Nome: Beltrano Souza
+Chegada: 8575
+ID do Paciente: 1892
+Nome: Carla Almeida
+Chegada: 8582
+ID do Paciente: 1893
+Nome: Tio Patinhas do Pão
+Chegada: 8585
+ID do Paciente: 1894
+Nome: Zé Ninguém da Silva Sauro
+Chegada: 8586
+ID do Paciente: 1895
+Nome: Chico Nogueira
+Chegada: 8591
+ID do Paciente: 1896
+Nome: Ana da Esquina
+Chegada: 8602
+ID do Paciente: 1897
+Nome: Beltrano da Silva
+Chegada: 8609
+ID do Paciente: 1898
+Nome: Beltrano Pinto
+Chegada: 8620
+ID do Paciente: 1899
+Nome: Pedro da Silva Sauro
+Chegada: 8622
+ID do Paciente: 1900
+Nome: Tina Pinto
+Chegada: 8623
+ID do Paciente: 1901
+Nome: Pedro Costa
+Chegada: 8626
+ID do Paciente: 1902
+Nome: Maria do Pão
+Chegada: 8628
+ID do Paciente: 1903
+Nome: Zé da Silva
+Chegada: 8632
+ID do Paciente: 1904
+Nome: Ciclano Nogueira
+Chegada: 8642
+ID do Paciente: 1905
+Nome: Maria do Pé Rachado
+Chegada: 8646
+ID do Paciente: 1906
+Nome: Ana Silva
+Chegada: 8648
+ID do Paciente: 1907
+Nome: Fulano da Esquina
+Chegada: 8652
+ID do Paciente: 1908
+Nome: Carla Costa
+Chegada: 8656
+ID do Paciente: 1909
+Nome: João Souza
+Chegada: 8659
+ID do Paciente: 1910
+Nome: Tina Souza
+Chegada: 8667
+ID do Paciente: 1911
+Nome: Pedro da Esquina
+Chegada: 8669
+ID do Paciente: 1912
+Nome: Ciclano Souza
+Chegada: 8672
+ID do Paciente: 1913
+Nome: Ana Souza
+Chegada: 8674
+ID do Paciente: 1914
+Nome: Maria Costa
+Chegada: 8675
+ID do Paciente: 1915
+Nome: Zé Silva
+Chegada: 8676
+ID do Paciente: 1916
+Nome: Maria do Pé Rachado
+Chegada: 8677
+ID do Paciente: 1917
+Nome: Pedro da Esquina
+Chegada: 8682
+ID do Paciente: 1918
+Nome: Zé Ninguém Souza
+Chegada: 8684
+ID do Paciente: 1919
+Nome: Beltrano do Pé Rachado
+Chegada: 8690
+ID do Paciente: 1920
+Nome: Bia Santos
+Chegada: 8691
+ID do Paciente: 1921
+Nome: Pedro Souza
+Chegada: 8700
+ID do Paciente: 1922
+Nome: Carla Nogueira
+Chegada: 8701
+ID do Paciente: 1923
+Nome: Bia do Pão
+Chegada: 8704
+ID do Paciente: 1924
+Nome: Chico Pereira
+Chegada: 8705
+ID do Paciente: 1925
+Nome: Pedro da Silva Sauro
+Chegada: 8708
+ID do Paciente: 1926
+Nome: Carla Pereira
+Chegada: 8709
+ID do Paciente: 1927
+Nome: Ana da Silva Sauro
+Chegada: 8711
+ID do Paciente: 1928
+Nome: Lucas Costa
+Chegada: 8713
+ID do Paciente: 1929
+Nome: Ciclano Pereira
+Chegada: 8720
+ID do Paciente: 1930
+Nome: Ciclano Pereira
+Chegada: 8721
+ID do Paciente: 1931
+Nome: Zé Santos
+Chegada: 8742
+ID do Paciente: 1932
+Nome: Beltrano do Pão
+Chegada: 8745
+ID do Paciente: 1933
+Nome: João da Silva
+Chegada: 8753
+ID do Paciente: 1934
+Nome: Beltrano da Silva Sauro
+Chegada: 8754
+ID do Paciente: 1935
+Nome: Zé Costa
+Chegada: 8755
+ID do Paciente: 1936
+Nome: Beltrano da Esquina
+Chegada: 8758
+ID do Paciente: 1937
+Nome: Carla Costa
+Chegada: 8763
+ID do Paciente: 1938
+Nome: Pedro Oliveira
+Chegada: 8767
+ID do Paciente: 1939
+Nome: Bia Santos
+Chegada: 8771
+ID do Paciente: 1940
+Nome: Lucas da Silva
+Chegada: 8775
+ID do Paciente: 1941
+Nome: Zé Costa
+Chegada: 8779
+ID do Paciente: 1942
+Nome: Carla Souza
+Chegada: 8780
+ID do Paciente: 1943
+Nome: Zé Ninguém da Silva Sauro
+Chegada: 8786
+ID do Paciente: 1944
+Nome: Lucas Souza
+Chegada: 8790
+ID do Paciente: 1945
+Nome: Ciclano Pinto
+Chegada: 8796
+ID do Paciente: 1946
+Nome: Chico Nogueira
+Chegada: 8797
+ID do Paciente: 1947
+Nome: Chico Oliveira
+Chegada: 8806
+ID do Paciente: 1948
+Nome: Carla Pinto
+Chegada: 8807
+ID do Paciente: 1949
+Nome: Tio Patinhas Oliveira
+Chegada: 8809
+ID do Paciente: 1950
+Nome: João Almeida
+Chegada: 8816
+ID do Paciente: 1951
+Nome: Pedro Almeida
+Chegada: 8823
+ID do Paciente: 1952
+Nome: Tio Patinhas Souza
+Chegada: 8824
+ID do Paciente: 1953
+Nome: Zé Costa
+Chegada: 8831
+ID do Paciente: 1954
+Nome: Tio Patinhas da Silva
+Chegada: 8834
+ID do Paciente: 1955
+Nome: Beltrano Almeida
+Chegada: 8840
+ID do Paciente: 1956
+Nome: Lucas Almeida
+Chegada: 8862
+ID do Paciente: 1957
+Nome: Zé Ninguém Santos
+Chegada: 8865
+ID do Paciente: 1958
+Nome: Zé Silva
+Chegada: 8870
+ID do Paciente: 1959
+Nome: Pedro Almeida
+Chegada: 8877
+ID do Paciente: 1960
+Nome: Chico Silva
+Chegada: 8879
+ID do Paciente: 1961
+Nome: João Oliveira
+Chegada: 8884
+ID do Paciente: 1962
+Nome: Tio Patinhas Almeida
+Chegada: 8887
+ID do Paciente: 1963
+Nome: João da Silva
+Chegada: 8895
+ID do Paciente: 1964
+Nome: Bia do Pé Rachado
+Chegada: 8906
+ID do Paciente: 1965
+Nome: Pedro Oliveira
+Chegada: 8909
+ID do Paciente: 1966
+Nome: Chico da Esquina
+Chegada: 8916
+ID do Paciente: 1967
+Nome: Fulano Pereira
+Chegada: 8918
+ID do Paciente: 1968
+Nome: Tio Patinhas Almeida
+Chegada: 8939
+ID do Paciente: 1969
+Nome: Beltrano Santos
+Chegada: 8941
+ID do Paciente: 1970
+Nome: Beltrano Almeida
+Chegada: 8954
+ID do Paciente: 1971
+Nome: Maria Nogueira
+Chegada: 8955
+ID do Paciente: 1972
+Nome: Zé Nogueira
+Chegada: 8961
+ID do Paciente: 1973
+Nome: Chico Souza
+Chegada: 8965
+ID do Paciente: 1974
+Nome: Chico da Esquina
+Chegada: 8966
+ID do Paciente: 1975
+Nome: Maria da Silva Sauro
+Chegada: 8969
+ID do Paciente: 1976
+Nome: João Pereira
+Chegada: 8970
+ID do Paciente: 1977
+Nome: Ciclano do Pé Rachado
+Chegada: 8977
+ID do Paciente: 1978
+Nome: João Costa
+Chegada: 8986
+ID do Paciente: 1979
+Nome: Fulano Santos
+Chegada: 8988
+ID do Paciente: 1980
+Nome: Maria Nogueira
+Chegada: 8992
+ID do Paciente: 1981
+Nome: João Nogueira
+Chegada: 8996
+ID do Paciente: 1982
+Nome: Maria da Esquina
+Chegada: 9000
+ID do Paciente: 1983
+Nome: Ciclano Almeida
+Chegada: 9001
+ID do Paciente: 1984
+Nome: Lucas do Pé Rachado
+Chegada: 9009
+ID do Paciente: 1985
+Nome: Beltrano Souza
+Chegada: 9011
+ID do Paciente: 1986
+Nome: Lucas Souza
+Chegada: 9012
+ID do Paciente: 1987
+Nome: Fulano Nogueira
+Chegada: 9018
+ID do Paciente: 1988
+Nome: João Souza
+Chegada: 9037
+ID do Paciente: 1989
+Nome: Ciclano da Silva Sauro
+Chegada: 9039
+ID do Paciente: 1990
+Nome: Chico Silva
+Chegada: 9046
+ID do Paciente: 1991
+Nome: Carla da Esquina
+Chegada: 9049
+ID do Paciente: 1992
+Nome: Zé da Silva Sauro
+Chegada: 9051
+ID do Paciente: 1993
+Nome: Pedro Oliveira
+Chegada: 9053
+ID do Paciente: 1994
+Nome: Zé Ninguém do Pé Rachado
+Chegada: 9056
+ID do Paciente: 1995
+Nome: Fulano do Pé Rachado
+Chegada: 9057
+ID do Paciente: 1996
+Nome: Lucas Silva
+Chegada: 9060
+ID do Paciente: 1997
+Nome: Maria Pinto
+Chegada: 9064
+ID do Paciente: 1998
+Nome: Maria do Pé Rachado
+Chegada: 9072
+ID do Paciente: 1999
+Nome: Maria da Esquina
+Chegada: 9078
+ID do Paciente: 2000
+Nome: Fulano Santos
+Chegada: 9085
+ID do Paciente: 2001
+Nome: Carla da Silva
+Chegada: 9086
+ID do Paciente: 2002
+Nome: Maria Santos
+Chegada: 9095
+ID do Paciente: 2003
+Nome: Bia Silva
+Chegada: 9104
+ID do Paciente: 2004
+Nome: Zé da Silva Sauro
+Chegada: 9106
+ID do Paciente: 2005
+Nome: Tina Costa
+Chegada: 9108
+ID do Paciente: 2006
+Nome: Pedro Costa
+Chegada: 9127
+ID do Paciente: 2007
+Nome: Fulano do Pé Rachado
+Chegada: 9128
+ID do Paciente: 2008
+Nome: João Pinto
+Chegada: 9133
+ID do Paciente: 2009
+Nome: Tio Patinhas da Esquina
+Chegada: 9138
+ID do Paciente: 2010
+Nome: Ciclano Nogueira
+Chegada: 9144
+ID do Paciente: 2011
+Nome: Tina da Esquina
+Chegada: 9146
+ID do Paciente: 2012
+Nome: Zé Pereira
+Chegada: 9147
+ID do Paciente: 2013
+Nome: Carla da Esquina
+Chegada: 9161
+ID do Paciente: 2014
+Nome: Pedro Santos
+Chegada: 9162
+ID do Paciente: 2015
+Nome: Zé Ninguém Pereira
+Chegada: 9164
+ID do Paciente: 2016
+Nome: Tina do Pé Rachado
+Chegada: 9170
+ID do Paciente: 2017
+Nome: Maria Costa
+Chegada: 9171
+ID do Paciente: 2018
+Nome: Pedro Pereira
+Chegada: 9177
+ID do Paciente: 2019
+Nome: João Nogueira
+Chegada: 9178
+ID do Paciente: 2020
+Nome: Lucas Santos
+Chegada: 9181
+ID do Paciente: 2021
+Nome: Bia Silva
+Chegada: 9182
+ID do Paciente: 2022
+Nome: Zé Almeida
+Chegada: 9186
+ID do Paciente: 2023
+Nome: Zé Ninguém Santos
+Chegada: 9187
+ID do Paciente: 2024
+Nome: Maria Pereira
+Chegada: 9190
+ID do Paciente: 2025
+Nome: Ciclano Oliveira
+Chegada: 9193
+ID do Paciente: 2026
+Nome: João Souza
+Chegada: 9199
+ID do Paciente: 2027
+Nome: Fulano Pinto
+Chegada: 9204
+ID do Paciente: 2028
+Nome: Ciclano da Silva Sauro
+Chegada: 9209
+ID do Paciente: 2029
+Nome: Ciclano Pinto
+Chegada: 9214
+ID do Paciente: 2030
+Nome: Zé Ninguém da Esquina
+Chegada: 9231
+ID do Paciente: 2031
+Nome: Zé Ninguém da Esquina
+Chegada: 9251
+ID do Paciente: 2032
+Nome: Beltrano do Pé Rachado
+Chegada: 9253
+ID do Paciente: 2033
+Nome: Bia da Silva
+Chegada: 9254
+ID do Paciente: 2034
+Nome: Ana Oliveira
+Chegada: 9262
+ID do Paciente: 2035
+Nome: Tio Patinhas Pereira
+Chegada: 9264
+ID do Paciente: 2036
+Nome: Ciclano Silva
+Chegada: 9268
+ID do Paciente: 2037
+Nome: Zé Ninguém Silva
+Chegada: 9272
+ID do Paciente: 2038
+Nome: Fulano da Silva Sauro
+Chegada: 9273
+ID do Paciente: 2039
+Nome: Bia Costa
+Chegada: 9279
+ID do Paciente: 2040
+Nome: Ciclano Pereira
+Chegada: 9288
+ID do Paciente: 2041
+Nome: Ciclano Silva
+Chegada: 9294
+ID do Paciente: 2042
+Nome: João Oliveira
+Chegada: 9299
+ID do Paciente: 2043
+Nome: Fulano Almeida
+Chegada: 9307
+ID do Paciente: 2044
+Nome: Bia Silva
+Chegada: 9308
+ID do Paciente: 2045
+Nome: Tio Patinhas da Silva Sauro
+Chegada: 9330
+ID do Paciente: 2046
+Nome: Beltrano Oliveira
+Chegada: 9331
+ID do Paciente: 2047
+Nome: Zé Silva
+Chegada: 9332
+ID do Paciente: 2048
+Nome: João da Silva Sauro
+Chegada: 9336
+ID do Paciente: 2049
+Nome: João Pereira
+Chegada: 9340
+ID do Paciente: 2050
+Nome: Maria do Pão
+Chegada: 9343
+ID do Paciente: 2051
+Nome: Beltrano da Esquina
+Chegada: 9351
+ID do Paciente: 2052
+Nome: Ciclano Pereira
+Chegada: 9352
+ID do Paciente: 2053
+Nome: Tio Patinhas Pereira
+Chegada: 9360
+ID do Paciente: 2054
+Nome: Tio Patinhas Almeida
+Chegada: 9369
+ID do Paciente: 2055
+Nome: Ciclano da Silva Sauro
+Chegada: 9371
+ID do Paciente: 2056
+Nome: Fulano da Esquina
+Chegada: 9373
+ID do Paciente: 2057
+Nome: Lucas Souza
+Chegada: 9376
+ID do Paciente: 2058
+Nome: Ciclano Pinto
+Chegada: 9378
+ID do Paciente: 2059
+Nome: Zé Ninguém Costa
+Chegada: 9386
+ID do Paciente: 2060
+Nome: Maria Silva
+Chegada: 9392
+ID do Paciente: 2061
+Nome: Maria do Pão
+Chegada: 9394
+ID do Paciente: 2062
+Nome: Tio Patinhas Pinto
+Chegada: 9396
+ID do Paciente: 2063
+Nome: Maria do Pé Rachado
+Chegada: 9408
+ID do Paciente: 2064
+Nome: Fulano Pinto
+Chegada: 9412
+ID do Paciente: 2065
+Nome: Bia Santos
+Chegada: 9413
+ID do Paciente: 2066
+Nome: Chico Costa
+Chegada: 9415
+ID do Paciente: 2067
+Nome: Tio Patinhas Pinto
+Chegada: 9416
+ID do Paciente: 2068
+Nome: Ana Oliveira
+Chegada: 9423
+ID do Paciente: 2069
+Nome: Fulano da Silva
+Chegada: 9429
+ID do Paciente: 2070
+Nome: Lucas do Pé Rachado
+Chegada: 9436
+ID do Paciente: 2071
+Nome: Maria do Pão
+Chegada: 9439
+ID do Paciente: 2072
+Nome: Tio Patinhas da Silva Sauro
+Chegada: 9440
+ID do Paciente: 2073
+Nome: Carla da Silva Sauro
+Chegada: 9442
+ID do Paciente: 2074
+Nome: Lucas Silva
+Chegada: 9451
+ID do Paciente: 2075
+Nome: Fulano Nogueira
+Chegada: 9452
+ID do Paciente: 2076
+Nome: Bia Souza
+Chegada: 9456
+ID do Paciente: 2077
+Nome: Ciclano Oliveira
+Chegada: 9460
+ID do Paciente: 2078
+Nome: Ciclano Pereira
+Chegada: 9466
+ID do Paciente: 2079
+Nome: Lucas Silva
+Chegada: 9467
+ID do Paciente: 2080
+Nome: Bia do Pé Rachado
+Chegada: 9469
+ID do Paciente: 2081
+Nome: Carla Santos
+Chegada: 9473
+ID do Paciente: 2082
+Nome: Lucas da Silva
+Chegada: 9477
+ID do Paciente: 2083
+Nome: João Pinto
+Chegada: 9484
+ID do Paciente: 2084
+Nome: Carla da Silva Sauro
+Chegada: 9487
+ID do Paciente: 2085
+Nome: Beltrano Almeida
+Chegada: 9489
+ID do Paciente: 2086
+Nome: Zé Souza
+Chegada: 9497
+ID do Paciente: 2087
+Nome: Bia Souza
+Chegada: 9498
+ID do Paciente: 2088
+Nome: Beltrano Souza
+Chegada: 9502
+ID do Paciente: 2089
+Nome: Ana do Pé Rachado
+Chegada: 9515
+ID do Paciente: 2090
+Nome: Tio Patinhas Silva
+Chegada: 9523
+ID do Paciente: 2091
+Nome: Ana Costa
+Chegada: 9524
+ID do Paciente: 2092
+Nome: Maria da Esquina
+Chegada: 9537
+ID do Paciente: 2093
+Nome: Zé Ninguém Almeida
+Chegada: 9545
+ID do Paciente: 2094
+Nome: Ciclano Pereira
+Chegada: 9546
+ID do Paciente: 2095
+Nome: Zé Ninguém Souza
+Chegada: 9547
+ID do Paciente: 2096
+Nome: Fulano do Pé Rachado
+Chegada: 9550
+ID do Paciente: 2097
+Nome: Ana da Silva Sauro
+Chegada: 9552
+ID do Paciente: 2098
+Nome: João Costa
+Chegada: 9557
+ID do Paciente: 2099
+Nome: Zé Almeida
+Chegada: 9562
+ID do Paciente: 2100
+Nome: Chico da Silva Sauro
+Chegada: 9581
+ID do Paciente: 2101
+Nome: João do Pão
+Chegada: 9591
+ID do Paciente: 2102
+Nome: Tio Patinhas Souza
+Chegada: 9594
+ID do Paciente: 2103
+Nome: Tio Patinhas Costa
+Chegada: 9597
+ID do Paciente: 2104
+Nome: Carla Pinto
+Chegada: 9598
+ID do Paciente: 2105
+Nome: Fulano Pinto
+Chegada: 9600
+ID do Paciente: 2106
+Nome: João da Silva Sauro
+Chegada: 9601
+ID do Paciente: 2107
+Nome: Zé Ninguém da Silva
+Chegada: 9604
+ID do Paciente: 2108
+Nome: Zé Ninguém Souza
+Chegada: 9612
+ID do Paciente: 2109
+Nome: João do Pão
+Chegada: 9617
+ID do Paciente: 2110
+Nome: Tio Patinhas Souza
+Chegada: 9618
+ID do Paciente: 2111
+Nome: Chico da Silva
+Chegada: 9624
+ID do Paciente: 2112
+Nome: Zé da Silva
+Chegada: 9628
+ID do Paciente: 2113
+Nome: Beltrano da Silva Sauro
+Chegada: 9629
+ID do Paciente: 2114
+Nome: Pedro Nogueira
+Chegada: 9633
+ID do Paciente: 2115
+Nome: Beltrano da Silva
+Chegada: 9635
+ID do Paciente: 2116
+Nome: Zé Ninguém Nogueira
+Chegada: 9637
+ID do Paciente: 2117
+Nome: Tio Patinhas Pinto
+Chegada: 9638
+ID do Paciente: 2118
+Nome: Chico Nogueira
+Chegada: 9649
+ID do Paciente: 2119
+Nome: Carla Costa
+Chegada: 9650
+ID do Paciente: 2120
+Nome: Tina do Pão
+Chegada: 9658
+ID do Paciente: 2121
+Nome: Beltrano da Esquina
+Chegada: 9659
+ID do Paciente: 2122
+Nome: Tio Patinhas Oliveira
+Chegada: 9666
+ID do Paciente: 2123
+Nome: Fulano Pereira
+Chegada: 9667
+ID do Paciente: 2124
+Nome: Bia Pereira
+Chegada: 9672
+ID do Paciente: 2125
+Nome: Zé Almeida
+Chegada: 9678
+ID do Paciente: 2126
+Nome: João Santos
+Chegada: 9679
+ID do Paciente: 2127
+Nome: Carla Oliveira
+Chegada: 9680
+ID do Paciente: 2128
+Nome: Tio Patinhas Santos
+Chegada: 9687
+ID do Paciente: 2129
+Nome: Ciclano da Silva Sauro
+Chegada: 9692
+ID do Paciente: 2130
+Nome: Lucas da Esquina
+Chegada: 9701
+ID do Paciente: 2131
+Nome: Ciclano Pereira
+Chegada: 9704
+ID do Paciente: 2132
+Nome: Pedro do Pão
+Chegada: 9705
+ID do Paciente: 2133
+Nome: Fulano Costa
+Chegada: 9709
+ID do Paciente: 2134
+Nome: Carla Oliveira
+Chegada: 9716
+ID do Paciente: 2135
+Nome: Ciclano da Esquina
+Chegada: 9719
+ID do Paciente: 2136
+Nome: Pedro da Esquina
+Chegada: 9723
+ID do Paciente: 2137
+Nome: Ciclano da Silva
+Chegada: 9730
+ID do Paciente: 2138
+Nome: Tio Patinhas Santos
+Chegada: 9732
+ID do Paciente: 2139
+Nome: Tio Patinhas Souza
+Chegada: 9740
+ID do Paciente: 2140
+Nome: Tio Patinhas Pinto
+Chegada: 9746
+ID do Paciente: 2141
+Nome: Carla do Pão
+Chegada: 9752
+ID do Paciente: 2142
+Nome: Chico Oliveira
+Chegada: 9755
+ID do Paciente: 2143
+Nome: Fulano Pinto
+Chegada: 9761
+ID do Paciente: 2144
+Nome: Maria do Pé Rachado
+Chegada: 9765
+ID do Paciente: 2145
+Nome: Lucas Santos
+Chegada: 9769
+ID do Paciente: 2146
+Nome: Zé Pereira
+Chegada: 9772
+ID do Paciente: 2147
+Nome: Lucas Pinto
+Chegada: 9780
+ID do Paciente: 2148
+Nome: Chico Nogueira
+Chegada: 9783
+ID do Paciente: 2149
+Nome: Lucas do Pé Rachado
+Chegada: 9789
+ID do Paciente: 2150
+Nome: Pedro Silva
+Chegada: 9797
+ID do Paciente: 2151
+Nome: Beltrano Costa
+Chegada: 9804
+ID do Paciente: 2152
+Nome: Zé Ninguém Oliveira
+Chegada: 9811
+ID do Paciente: 2153
+Nome: Pedro do Pé Rachado
+Chegada: 9812
+ID do Paciente: 2154
+Nome: João da Silva
+Chegada: 9815
+ID do Paciente: 2155
+Nome: Ana Pinto
+Chegada: 9817
+ID do Paciente: 2156
+Nome: Zé Souza
+Chegada: 9820
+ID do Paciente: 2157
+Nome: Bia Costa
+Chegada: 9821
+ID do Paciente: 2158
+Nome: Zé Ninguém da Silva
+Chegada: 9823
+ID do Paciente: 2159
+Nome: Bia Pinto
+Chegada: 9824
+ID do Paciente: 2160
+Nome: Zé Nogueira
+Chegada: 9840
+ID do Paciente: 2161
+Nome: Chico Souza
+Chegada: 9841
+ID do Paciente: 2162
+Nome: Bia Souza
+Chegada: 9842
+ID do Paciente: 2163
+Nome: Ana Pereira
+Chegada: 9862
+ID do Paciente: 2164
+Nome: Zé Pinto
+Chegada: 9865
+ID do Paciente: 2165
+Nome: Carla do Pé Rachado
+Chegada: 9866
+ID do Paciente: 2166
+Nome: Ciclano da Silva
+Chegada: 9870
+ID do Paciente: 2167
+Nome: Beltrano da Silva
+Chegada: 9887
+ID do Paciente: 2168
+Nome: Ana Almeida
+Chegada: 9896
+ID do Paciente: 2169
+Nome: Ciclano da Silva Sauro
+Chegada: 9903
+ID do Paciente: 2170
+Nome: Tina Silva
+Chegada: 9905
+ID do Paciente: 2171
+Nome: Lucas Almeida
+Chegada: 9913
+ID do Paciente: 2172
+Nome: Ana Pinto
+Chegada: 9918
+ID do Paciente: 2173
+Nome: Lucas da Silva Sauro
+Chegada: 9927
+ID do Paciente: 2174
+Nome: Bia Souza
+Chegada: 9929
+ID do Paciente: 2175
+Nome: Ana Pereira
+Chegada: 9934
+ID do Paciente: 2176
+Nome: Lucas Almeida
+Chegada: 9937
+ID do Paciente: 2177
+Nome: Pedro da Silva
+Chegada: 9939
+ID do Paciente: 2178
+Nome: Fulano da Silva
+Chegada: 9941
+ID do Paciente: 2179
+Nome: Ciclano do Pé Rachado
+Chegada: 9942
+ID do Paciente: 2180
+Nome: Lucas Pereira
+Chegada: 9945
+ID do Paciente: 2181
+Nome: Maria Pinto
+Chegada: 9953
+ID do Paciente: 2182
+Nome: Tio Patinhas Silva
+Chegada: 9969
+ID do Paciente: 2183
+Nome: Zé Ninguém Pinto
+Chegada: 9979
+ID do Paciente: 2184
+Nome: Lucas da Silva Sauro
+Chegada: 9980
+ID do Paciente: 2185
+Nome: Pedro da Silva
+Chegada: 9981
+ID do Paciente: 2186
+Nome: Pedro Oliveira
+Chegada: 9985
+ID do Paciente: 2187
+Nome: Bia do Pão
+Chegada: 9995

@@ -1,0 +1,1610 @@
+
+ID do Laudo: 0
+ID do Exame: 0
+Condição do Paciente: Saúde Normal
+Timestamp: 40
+
+ID do Laudo: 1
+ID do Exame: 3
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 71
+
+ID do Laudo: 2
+ID do Exame: 15
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 102
+
+ID do Laudo: 3
+ID do Exame: 18
+Condição do Paciente: Embolia Pulmonar
+Timestamp: 133
+
+ID do Laudo: 4
+ID do Exame: 24
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 164
+
+ID do Laudo: 5
+ID do Exame: 33
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 195
+
+ID do Laudo: 6
+ID do Exame: 37
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 226
+
+ID do Laudo: 7
+ID do Exame: 49
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 257
+
+ID do Laudo: 8
+ID do Exame: 60
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 288
+
+ID do Laudo: 9
+ID do Exame: 70
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 319
+
+ID do Laudo: 10
+ID do Exame: 64
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 350
+
+ID do Laudo: 11
+ID do Exame: 46
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 381
+
+ID do Laudo: 12
+ID do Exame: 74
+Condição do Paciente: Tuberculose
+Timestamp: 412
+
+ID do Laudo: 13
+ID do Exame: 63
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 443
+
+ID do Laudo: 14
+ID do Exame: 62
+Condição do Paciente: Tuberculose
+Timestamp: 474
+
+ID do Laudo: 15
+ID do Exame: 112
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 505
+
+ID do Laudo: 16
+ID do Exame: 114
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 536
+
+ID do Laudo: 17
+ID do Exame: 128
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 567
+
+ID do Laudo: 18
+ID do Exame: 110
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 598
+
+ID do Laudo: 19
+ID do Exame: 144
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 629
+
+ID do Laudo: 20
+ID do Exame: 150
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 660
+
+ID do Laudo: 21
+ID do Exame: 154
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 691
+
+ID do Laudo: 22
+ID do Exame: 166
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 722
+
+ID do Laudo: 23
+ID do Exame: 175
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 753
+
+ID do Laudo: 24
+ID do Exame: 172
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 784
+
+ID do Laudo: 25
+ID do Exame: 183
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 815
+
+ID do Laudo: 26
+ID do Exame: 191
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 846
+
+ID do Laudo: 27
+ID do Exame: 182
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 877
+
+ID do Laudo: 28
+ID do Exame: 202
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 908
+
+ID do Laudo: 29
+ID do Exame: 201
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 939
+
+ID do Laudo: 30
+ID do Exame: 153
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 970
+
+ID do Laudo: 31
+ID do Exame: 149
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1001
+
+ID do Laudo: 32
+ID do Exame: 220
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1032
+
+ID do Laudo: 33
+ID do Exame: 138
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1063
+
+ID do Laudo: 34
+ID do Exame: 232
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1094
+
+ID do Laudo: 35
+ID do Exame: 238
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1125
+
+ID do Laudo: 36
+ID do Exame: 246
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1156
+
+ID do Laudo: 37
+ID do Exame: 236
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1187
+
+ID do Laudo: 38
+ID do Exame: 269
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1218
+
+ID do Laudo: 39
+ID do Exame: 266
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1249
+
+ID do Laudo: 40
+ID do Exame: 258
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1280
+
+ID do Laudo: 41
+ID do Exame: 233
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1311
+
+ID do Laudo: 42
+ID do Exame: 107
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1342
+
+ID do Laudo: 43
+ID do Exame: 289
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 1373
+
+ID do Laudo: 44
+ID do Exame: 276
+Condição do Paciente: Tuberculose
+Timestamp: 1404
+
+ID do Laudo: 45
+ID do Exame: 302
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1435
+
+ID do Laudo: 46
+ID do Exame: 306
+Condição do Paciente: Tuberculose
+Timestamp: 1466
+
+ID do Laudo: 47
+ID do Exame: 322
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1497
+
+ID do Laudo: 48
+ID do Exame: 273
+Condição do Paciente: Tuberculose
+Timestamp: 1528
+
+ID do Laudo: 49
+ID do Exame: 265
+Condição do Paciente: Tuberculose
+Timestamp: 1559
+
+ID do Laudo: 50
+ID do Exame: 264
+Condição do Paciente: Tuberculose
+Timestamp: 1590
+
+ID do Laudo: 51
+ID do Exame: 346
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1621
+
+ID do Laudo: 52
+ID do Exame: 342
+Condição do Paciente: Tuberculose
+Timestamp: 1652
+
+ID do Laudo: 53
+ID do Exame: 354
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 1683
+
+ID do Laudo: 54
+ID do Exame: 366
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1714
+
+ID do Laudo: 55
+ID do Exame: 380
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1745
+
+ID do Laudo: 56
+ID do Exame: 372
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1776
+
+ID do Laudo: 57
+ID do Exame: 384
+Condição do Paciente: Tuberculose
+Timestamp: 1807
+
+ID do Laudo: 58
+ID do Exame: 396
+Condição do Paciente: Tuberculose
+Timestamp: 1838
+
+ID do Laudo: 59
+ID do Exame: 398
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1869
+
+ID do Laudo: 60
+ID do Exame: 406
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1900
+
+ID do Laudo: 61
+ID do Exame: 413
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1931
+
+ID do Laudo: 62
+ID do Exame: 419
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 1962
+
+ID do Laudo: 63
+ID do Exame: 412
+Condição do Paciente: Tuberculose
+Timestamp: 1993
+
+ID do Laudo: 64
+ID do Exame: 431
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2024
+
+ID do Laudo: 65
+ID do Exame: 438
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2055
+
+ID do Laudo: 66
+ID do Exame: 446
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2086
+
+ID do Laudo: 67
+ID do Exame: 451
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2117
+
+ID do Laudo: 68
+ID do Exame: 463
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2148
+
+ID do Laudo: 69
+ID do Exame: 442
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2179
+
+ID do Laudo: 70
+ID do Exame: 439
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2210
+
+ID do Laudo: 71
+ID do Exame: 481
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2241
+
+ID do Laudo: 72
+ID do Exame: 496
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2272
+
+ID do Laudo: 73
+ID do Exame: 434
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2303
+
+ID do Laudo: 74
+ID do Exame: 510
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2334
+
+ID do Laudo: 75
+ID do Exame: 505
+Condição do Paciente: Tuberculose
+Timestamp: 2365
+
+ID do Laudo: 76
+ID do Exame: 516
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2396
+
+ID do Laudo: 77
+ID do Exame: 521
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2427
+
+ID do Laudo: 78
+ID do Exame: 523
+Condição do Paciente: Tuberculose
+Timestamp: 2458
+
+ID do Laudo: 79
+ID do Exame: 531
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2489
+
+ID do Laudo: 80
+ID do Exame: 538
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 2520
+
+ID do Laudo: 81
+ID do Exame: 543
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2551
+
+ID do Laudo: 82
+ID do Exame: 548
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 2582
+
+ID do Laudo: 83
+ID do Exame: 556
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2613
+
+ID do Laudo: 84
+ID do Exame: 562
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2644
+
+ID do Laudo: 85
+ID do Exame: 561
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2675
+
+ID do Laudo: 86
+ID do Exame: 578
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2706
+
+ID do Laudo: 87
+ID do Exame: 560
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2737
+
+ID do Laudo: 88
+ID do Exame: 594
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 2768
+
+ID do Laudo: 89
+ID do Exame: 599
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2799
+
+ID do Laudo: 90
+ID do Exame: 606
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2830
+
+ID do Laudo: 91
+ID do Exame: 597
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2861
+
+ID do Laudo: 92
+ID do Exame: 620
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2892
+
+ID do Laudo: 93
+ID do Exame: 623
+Condição do Paciente: Tuberculose
+Timestamp: 2923
+
+ID do Laudo: 94
+ID do Exame: 639
+Condição do Paciente: Tuberculose
+Timestamp: 2954
+
+ID do Laudo: 95
+ID do Exame: 641
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 2985
+
+ID do Laudo: 96
+ID do Exame: 649
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 3016
+
+ID do Laudo: 97
+ID do Exame: 659
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 3047
+
+ID do Laudo: 98
+ID do Exame: 662
+Condição do Paciente: Tuberculose
+Timestamp: 3078
+
+ID do Laudo: 99
+ID do Exame: 667
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 3109
+
+ID do Laudo: 100
+ID do Exame: 676
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 3140
+
+ID do Laudo: 101
+ID do Exame: 684
+Condição do Paciente: Tuberculose
+Timestamp: 3171
+
+ID do Laudo: 102
+ID do Exame: 688
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 3202
+
+ID do Laudo: 103
+ID do Exame: 693
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 3233
+
+ID do Laudo: 104
+ID do Exame: 700
+Condição do Paciente: Tuberculose
+Timestamp: 3264
+
+ID do Laudo: 105
+ID do Exame: 709
+Condição do Paciente: Tuberculose
+Timestamp: 3295
+
+ID do Laudo: 106
+ID do Exame: 713
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 3326
+
+ID do Laudo: 107
+ID do Exame: 722
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 3357
+
+ID do Laudo: 108
+ID do Exame: 734
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 3388
+
+ID do Laudo: 109
+ID do Exame: 737
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 3419
+
+ID do Laudo: 110
+ID do Exame: 736
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 3450
+
+ID do Laudo: 111
+ID do Exame: 745
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 3481
+
+ID do Laudo: 112
+ID do Exame: 760
+Condição do Paciente: Tuberculose
+Timestamp: 3512
+
+ID do Laudo: 113
+ID do Exame: 765
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 3543
+
+ID do Laudo: 114
+ID do Exame: 771
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 3574
+
+ID do Laudo: 115
+ID do Exame: 778
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 3605
+
+ID do Laudo: 116
+ID do Exame: 779
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 3636
+
+ID do Laudo: 117
+ID do Exame: 792
+Condição do Paciente: Tuberculose
+Timestamp: 3667
+
+ID do Laudo: 118
+ID do Exame: 800
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 3698
+
+ID do Laudo: 119
+ID do Exame: 802
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 3729
+
+ID do Laudo: 120
+ID do Exame: 797
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 3760
+
+ID do Laudo: 121
+ID do Exame: 810
+Condição do Paciente: Tuberculose
+Timestamp: 3791
+
+ID do Laudo: 122
+ID do Exame: 825
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 3822
+
+ID do Laudo: 123
+ID do Exame: 837
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 3853
+
+ID do Laudo: 124
+ID do Exame: 845
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 3884
+
+ID do Laudo: 125
+ID do Exame: 849
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 3915
+
+ID do Laudo: 126
+ID do Exame: 855
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 3946
+
+ID do Laudo: 127
+ID do Exame: 860
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 3977
+
+ID do Laudo: 128
+ID do Exame: 871
+Condição do Paciente: Tuberculose
+Timestamp: 4008
+
+ID do Laudo: 129
+ID do Exame: 864
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 4039
+
+ID do Laudo: 130
+ID do Exame: 843
+Condição do Paciente: Tuberculose
+Timestamp: 4070
+
+ID do Laudo: 131
+ID do Exame: 890
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 4101
+
+ID do Laudo: 132
+ID do Exame: 907
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 4132
+
+ID do Laudo: 133
+ID do Exame: 901
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 4163
+
+ID do Laudo: 134
+ID do Exame: 924
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 4194
+
+ID do Laudo: 135
+ID do Exame: 920
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 4225
+
+ID do Laudo: 136
+ID do Exame: 939
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 4256
+
+ID do Laudo: 137
+ID do Exame: 948
+Condição do Paciente: Tuberculose
+Timestamp: 4287
+
+ID do Laudo: 138
+ID do Exame: 956
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 4318
+
+ID do Laudo: 139
+ID do Exame: 963
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 4349
+
+ID do Laudo: 140
+ID do Exame: 959
+Condição do Paciente: Tuberculose
+Timestamp: 4380
+
+ID do Laudo: 141
+ID do Exame: 946
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 4411
+
+ID do Laudo: 142
+ID do Exame: 942
+Condição do Paciente: Tuberculose
+Timestamp: 4442
+
+ID do Laudo: 143
+ID do Exame: 983
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 4473
+
+ID do Laudo: 144
+ID do Exame: 990
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 4504
+
+ID do Laudo: 145
+ID do Exame: 982
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 4535
+
+ID do Laudo: 146
+ID do Exame: 1007
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 4566
+
+ID do Laudo: 147
+ID do Exame: 1014
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 4597
+
+ID do Laudo: 148
+ID do Exame: 1006
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 4628
+
+ID do Laudo: 149
+ID do Exame: 1004
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 4659
+
+ID do Laudo: 150
+ID do Exame: 1031
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 4690
+
+ID do Laudo: 151
+ID do Exame: 1038
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 4721
+
+ID do Laudo: 152
+ID do Exame: 1037
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 4752
+
+ID do Laudo: 153
+ID do Exame: 1050
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 4783
+
+ID do Laudo: 154
+ID do Exame: 1051
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 4814
+
+ID do Laudo: 155
+ID do Exame: 1048
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 4845
+
+ID do Laudo: 156
+ID do Exame: 1072
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 4876
+
+ID do Laudo: 157
+ID do Exame: 1011
+Condição do Paciente: Tuberculose
+Timestamp: 4907
+
+ID do Laudo: 158
+ID do Exame: 1081
+Condição do Paciente: Tuberculose
+Timestamp: 4938
+
+ID do Laudo: 159
+ID do Exame: 1005
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 4969
+
+ID do Laudo: 160
+ID do Exame: 996
+Condição do Paciente: Tuberculose
+Timestamp: 5000
+
+ID do Laudo: 161
+ID do Exame: 1102
+Condição do Paciente: Tuberculose
+Timestamp: 5031
+
+ID do Laudo: 162
+ID do Exame: 1119
+Condição do Paciente: Tuberculose
+Timestamp: 5062
+
+ID do Laudo: 163
+ID do Exame: 1122
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5093
+
+ID do Laudo: 164
+ID do Exame: 1136
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5124
+
+ID do Laudo: 165
+ID do Exame: 1145
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5155
+
+ID do Laudo: 166
+ID do Exame: 1144
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5186
+
+ID do Laudo: 167
+ID do Exame: 1156
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5217
+
+ID do Laudo: 168
+ID do Exame: 1143
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5248
+
+ID do Laudo: 169
+ID do Exame: 1141
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5279
+
+ID do Laudo: 170
+ID do Exame: 1140
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5310
+
+ID do Laudo: 171
+ID do Exame: 1120
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5341
+
+ID do Laudo: 172
+ID do Exame: 1193
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5372
+
+ID do Laudo: 173
+ID do Exame: 1200
+Condição do Paciente: Tuberculose
+Timestamp: 5403
+
+ID do Laudo: 174
+ID do Exame: 1197
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 5434
+
+ID do Laudo: 175
+ID do Exame: 1209
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5465
+
+ID do Laudo: 176
+ID do Exame: 1194
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 5496
+
+ID do Laudo: 177
+ID do Exame: 1221
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 5527
+
+ID do Laudo: 178
+ID do Exame: 1232
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5558
+
+ID do Laudo: 179
+ID do Exame: 1240
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5589
+
+ID do Laudo: 180
+ID do Exame: 1253
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5620
+
+ID do Laudo: 181
+ID do Exame: 1256
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5651
+
+ID do Laudo: 182
+ID do Exame: 1271
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5682
+
+ID do Laudo: 183
+ID do Exame: 1276
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5713
+
+ID do Laudo: 184
+ID do Exame: 1269
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5744
+
+ID do Laudo: 185
+ID do Exame: 1297
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5775
+
+ID do Laudo: 186
+ID do Exame: 1296
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5806
+
+ID do Laudo: 187
+ID do Exame: 1310
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5837
+
+ID do Laudo: 188
+ID do Exame: 1306
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5868
+
+ID do Laudo: 189
+ID do Exame: 1304
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5899
+
+ID do Laudo: 190
+ID do Exame: 1235
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5930
+
+ID do Laudo: 191
+ID do Exame: 1329
+Condição do Paciente: Tuberculose
+Timestamp: 5961
+
+ID do Laudo: 192
+ID do Exame: 1343
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 5992
+
+ID do Laudo: 193
+ID do Exame: 1340
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 6023
+
+ID do Laudo: 194
+ID do Exame: 1324
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 6054
+
+ID do Laudo: 195
+ID do Exame: 1360
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 6085
+
+ID do Laudo: 196
+ID do Exame: 1364
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 6116
+
+ID do Laudo: 197
+ID do Exame: 1376
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 6147
+
+ID do Laudo: 198
+ID do Exame: 1391
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 6178
+
+ID do Laudo: 199
+ID do Exame: 1390
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 6209
+
+ID do Laudo: 200
+ID do Exame: 1397
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 6240
+
+ID do Laudo: 201
+ID do Exame: 1408
+Condição do Paciente: Tuberculose
+Timestamp: 6271
+
+ID do Laudo: 202
+ID do Exame: 1407
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 6302
+
+ID do Laudo: 203
+ID do Exame: 1421
+Condição do Paciente: Tuberculose
+Timestamp: 6333
+
+ID do Laudo: 204
+ID do Exame: 1429
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 6364
+
+ID do Laudo: 205
+ID do Exame: 1427
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 6395
+
+ID do Laudo: 206
+ID do Exame: 1446
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 6426
+
+ID do Laudo: 207
+ID do Exame: 1460
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 6457
+
+ID do Laudo: 208
+ID do Exame: 1458
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 6488
+
+ID do Laudo: 209
+ID do Exame: 1481
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 6519
+
+ID do Laudo: 210
+ID do Exame: 1477
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 6550
+
+ID do Laudo: 211
+ID do Exame: 1491
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 6581
+
+ID do Laudo: 212
+ID do Exame: 1492
+Condição do Paciente: Tuberculose
+Timestamp: 6612
+
+ID do Laudo: 213
+ID do Exame: 1490
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 6643
+
+ID do Laudo: 214
+ID do Exame: 1506
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 6674
+
+ID do Laudo: 215
+ID do Exame: 1514
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 6705
+
+ID do Laudo: 216
+ID do Exame: 1517
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 6736
+
+ID do Laudo: 217
+ID do Exame: 1524
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 6767
+
+ID do Laudo: 218
+ID do Exame: 1529
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 6798
+
+ID do Laudo: 219
+ID do Exame: 1535
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 6829
+
+ID do Laudo: 220
+ID do Exame: 1549
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 6860
+
+ID do Laudo: 221
+ID do Exame: 1545
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 6891
+
+ID do Laudo: 222
+ID do Exame: 1559
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 6922
+
+ID do Laudo: 223
+ID do Exame: 1561
+Condição do Paciente: Tuberculose
+Timestamp: 6953
+
+ID do Laudo: 224
+ID do Exame: 1574
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 6984
+
+ID do Laudo: 225
+ID do Exame: 1578
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 7015
+
+ID do Laudo: 226
+ID do Exame: 1572
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 7046
+
+ID do Laudo: 227
+ID do Exame: 1592
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 7077
+
+ID do Laudo: 228
+ID do Exame: 1569
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 7108
+
+ID do Laudo: 229
+ID do Exame: 1600
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 7139
+
+ID do Laudo: 230
+ID do Exame: 1608
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 7170
+
+ID do Laudo: 231
+ID do Exame: 1611
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 7201
+
+ID do Laudo: 232
+ID do Exame: 1619
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 7232
+
+ID do Laudo: 233
+ID do Exame: 1626
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 7263
+
+ID do Laudo: 234
+ID do Exame: 1636
+Condição do Paciente: Tuberculose
+Timestamp: 7294
+
+ID do Laudo: 235
+ID do Exame: 1637
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 7325
+
+ID do Laudo: 236
+ID do Exame: 1647
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 7356
+
+ID do Laudo: 237
+ID do Exame: 1652
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 7387
+
+ID do Laudo: 238
+ID do Exame: 1644
+Condição do Paciente: Tuberculose
+Timestamp: 7418
+
+ID do Laudo: 239
+ID do Exame: 1642
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 7449
+
+ID do Laudo: 240
+ID do Exame: 1671
+Condição do Paciente: Tuberculose
+Timestamp: 7480
+
+ID do Laudo: 241
+ID do Exame: 1613
+Condição do Paciente: Tuberculose
+Timestamp: 7511
+
+ID do Laudo: 242
+ID do Exame: 1676
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 7542
+
+ID do Laudo: 243
+ID do Exame: 1682
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 7573
+
+ID do Laudo: 244
+ID do Exame: 1681
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 7604
+
+ID do Laudo: 245
+ID do Exame: 1698
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 7635
+
+ID do Laudo: 246
+ID do Exame: 1692
+Condição do Paciente: Tuberculose
+Timestamp: 7666
+
+ID do Laudo: 247
+ID do Exame: 1711
+Condição do Paciente: Tuberculose
+Timestamp: 7697
+
+ID do Laudo: 248
+ID do Exame: 1714
+Condição do Paciente: Tuberculose
+Timestamp: 7728
+
+ID do Laudo: 249
+ID do Exame: 1723
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 7759
+
+ID do Laudo: 250
+ID do Exame: 1722
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 7790
+
+ID do Laudo: 251
+ID do Exame: 1729
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 7821
+
+ID do Laudo: 252
+ID do Exame: 1735
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 7852
+
+ID do Laudo: 253
+ID do Exame: 1746
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 7883
+
+ID do Laudo: 254
+ID do Exame: 1754
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 7914
+
+ID do Laudo: 255
+ID do Exame: 1750
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 7945
+
+ID do Laudo: 256
+ID do Exame: 1740
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 7976
+
+ID do Laudo: 257
+ID do Exame: 1761
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 8007
+
+ID do Laudo: 258
+ID do Exame: 1780
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 8038
+
+ID do Laudo: 259
+ID do Exame: 1786
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 8069
+
+ID do Laudo: 260
+ID do Exame: 1796
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 8100
+
+ID do Laudo: 261
+ID do Exame: 1778
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 8131
+
+ID do Laudo: 262
+ID do Exame: 1774
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 8162
+
+ID do Laudo: 263
+ID do Exame: 1797
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 8193
+
+ID do Laudo: 264
+ID do Exame: 1818
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 8224
+
+ID do Laudo: 265
+ID do Exame: 1821
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 8255
+
+ID do Laudo: 266
+ID do Exame: 1792
+Condição do Paciente: Tuberculose
+Timestamp: 8286
+
+ID do Laudo: 267
+ID do Exame: 1829
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 8317
+
+ID do Laudo: 268
+ID do Exame: 1785
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 8348
+
+ID do Laudo: 269
+ID do Exame: 1841
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 8379
+
+ID do Laudo: 270
+ID do Exame: 1748
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 8410
+
+ID do Laudo: 271
+ID do Exame: 1853
+Condição do Paciente: Tuberculose
+Timestamp: 8441
+
+ID do Laudo: 272
+ID do Exame: 1858
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 8472
+
+ID do Laudo: 273
+ID do Exame: 1865
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 8503
+
+ID do Laudo: 274
+ID do Exame: 1872
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 8534
+
+ID do Laudo: 275
+ID do Exame: 1878
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 8565
+
+ID do Laudo: 276
+ID do Exame: 1876
+Condição do Paciente: Tuberculose
+Timestamp: 8596
+
+ID do Laudo: 277
+ID do Exame: 1892
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 8627
+
+ID do Laudo: 278
+ID do Exame: 1897
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 8658
+
+ID do Laudo: 279
+ID do Exame: 1903
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 8689
+
+ID do Laudo: 280
+ID do Exame: 1916
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 8720
+
+ID do Laudo: 281
+ID do Exame: 1922
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 8751
+
+ID do Laudo: 282
+ID do Exame: 1919
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 8782
+
+ID do Laudo: 283
+ID do Exame: 1933
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 8813
+
+ID do Laudo: 284
+ID do Exame: 1945
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 8844
+
+ID do Laudo: 285
+ID do Exame: 1951
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 8875
+
+ID do Laudo: 286
+ID do Exame: 1950
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 8906
+
+ID do Laudo: 287
+ID do Exame: 1963
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 8937
+
+ID do Laudo: 288
+ID do Exame: 1967
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 8968
+
+ID do Laudo: 289
+ID do Exame: 1971
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 8999
+
+ID do Laudo: 290
+ID do Exame: 1941
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9030
+
+ID do Laudo: 291
+ID do Exame: 1983
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9061
+
+ID do Laudo: 292
+ID do Exame: 1988
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9092
+
+ID do Laudo: 293
+ID do Exame: 1993
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9123
+
+ID do Laudo: 294
+ID do Exame: 1940
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9154
+
+ID do Laudo: 295
+ID do Exame: 1909
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9185
+
+ID do Laudo: 296
+ID do Exame: 1900
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9216
+
+ID do Laudo: 297
+ID do Exame: 1898
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9247
+
+ID do Laudo: 298
+ID do Exame: 2018
+Condição do Paciente: Tuberculose
+Timestamp: 9278
+
+ID do Laudo: 299
+ID do Exame: 2013
+Condição do Paciente: Tuberculose
+Timestamp: 9309
+
+ID do Laudo: 300
+ID do Exame: 2006
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 9340
+
+ID do Laudo: 301
+ID do Exame: 2004
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 9371
+
+ID do Laudo: 302
+ID do Exame: 2002
+Condição do Paciente: Tuberculose
+Timestamp: 9402
+
+ID do Laudo: 303
+ID do Exame: 2058
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9433
+
+ID do Laudo: 304
+ID do Exame: 2068
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9464
+
+ID do Laudo: 305
+ID do Exame: 2056
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9495
+
+ID do Laudo: 306
+ID do Exame: 2055
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9526
+
+ID do Laudo: 307
+ID do Exame: 2084
+Condição do Paciente: Tuberculose
+Timestamp: 9557
+
+ID do Laudo: 308
+ID do Exame: 2090
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9588
+
+ID do Laudo: 309
+ID do Exame: 2096
+Condição do Paciente: Tuberculose
+Timestamp: 9619
+
+ID do Laudo: 310
+ID do Exame: 2106
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9650
+
+ID do Laudo: 311
+ID do Exame: 2110
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9681
+
+ID do Laudo: 312
+ID do Exame: 2122
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9712
+
+ID do Laudo: 313
+ID do Exame: 2130
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9743
+
+ID do Laudo: 314
+ID do Exame: 2118
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9774
+
+ID do Laudo: 315
+ID do Exame: 2103
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9805
+
+ID do Laudo: 316
+ID do Exame: 2148
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 9836
+
+ID do Laudo: 317
+ID do Exame: 2153
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9867
+
+ID do Laudo: 318
+ID do Exame: 2151
+Condição do Paciente: Fibrose Pulmonar
+Timestamp: 9898
+
+ID do Laudo: 319
+ID do Exame: 2166
+Condição do Paciente: Tuberculose
+Timestamp: 9929
+
+ID do Laudo: 320
+ID do Exame: 2172
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9960
+
+ID do Laudo: 321
+ID do Exame: 2180
+Condição do Paciente: Câncer de Pulmão
+Timestamp: 9991
